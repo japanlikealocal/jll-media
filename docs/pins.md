@@ -24,4 +24,4 @@ From Zero's screenshot of the profile, 2026-10-18 07:10 (newest first, as shown)
 - First Trip to Japan? (paid 13-page guide pin, $4.99)
 
 ## Added by Claude
-- 2026-10-18: Vending Machines in Japan: 5 Things to Know (assets/japan-vending-pin.png) — waiting for Zero to post
+- 2026-10-18: Vending Machines in Japan: 5 Things to Know (assets/japan-vending-pin.png) — posted by Zero 07:16, board "First Trip to Japan"
