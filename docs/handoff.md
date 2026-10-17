@@ -17,7 +17,6 @@
 - 調べもの：Claudeが公式情報で確認＋パープレキシティ（ゼロが課金済み）でダブルチェック。チャピー（ChatGPT）は解約済み。
 - 課金はOKだが、効果が見えるものから1つずつ。月の上限を決める提案済み。
 - 個人アカウント連携（Facebook等）はしない方針。
-- パーソナルトレーニングは毎週木曜20時。
 
 ## Instagram自動投稿の仕組み
 - 動画を作る → このリポジトリ（public）の reels/ に置く → raw.githubusercontent.com/japanlikealocal/jll-media/<commit>/reels/<file>.mp4 → Metricoolコネクタで createScheduledPost（blogId 7378020, Asia/Tokyo, 21:00, REEL, showReelOnFeed true, autoPublish true）
