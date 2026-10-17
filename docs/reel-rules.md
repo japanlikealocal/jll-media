@@ -76,7 +76,7 @@ Claude reads this before making every reel. Add a line to "Learnings" after each
 - Don't post the same template forever — vary format gradually.
 
 ## Pre-send checklist (check EVERY time before handing anything to Zero)
-- Pin: image / title / description / alt text / link (Gumroad free) — all five. Check docs/pins.md first so the theme is not a duplicate.
+- Pin: image / title / description / alt text / link (Gumroad free) — all five. Check docs/pins.md first so the theme is not a duplicate. Hand them to Zero in the Pinterest form order: title → description → link → alt text.
 - Reel: slides / caption / hashtags (5) / isAiGenerated / BGM / date & time 21:00 JST / review by separate Claude.
 - note & X: every number re-read from the screenshot or record, never from memory. Dates and weekdays re-checked.
 - Counts ("N reels", "N days"): count the actual list before writing.
