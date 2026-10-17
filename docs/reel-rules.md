@@ -39,6 +39,14 @@ Claude reads this before making every reel. Add a line to "Learnings" after each
 - Don't copy other accounts' topics, wording, or designs. Borrow strategy only.
 - Don't post the same template forever — vary format gradually.
 
+## Pre-send checklist (check EVERY time before handing anything to Zero)
+- Pin: image / title / description / alt text / link (Gumroad free) — all five.
+- Reel: slides / caption / hashtags (5) / isAiGenerated / BGM / date & time 21:00 JST / review by separate Claude.
+- note & X: every number re-read from the screenshot or record, never from memory. Dates and weekdays re-checked.
+- Counts ("N reels", "N days"): count the actual list before writing.
+- Don't assume facts about files/photos (orientation, size) — check with a tool.
+
 ## Learnings (add one line per reel)
 - 2026-10-17: Text-only reels felt plain to Zero; silence felt odd → added photos + BGM starting with trains reel.
 - 2026-10-17: BGM-embedded mp4 via Metricool → Instagram plays sound (confirmed by Zero on toilets reel).
+- 2026-10-17: Several small mistakes (missing alt text, wrong weekday, wrong count, wrong numbers) → added pre-send checklist.
