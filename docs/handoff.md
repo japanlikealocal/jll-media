@@ -6,7 +6,7 @@
 - 「AIで最初の1円を作る挑戦」。ゼロ（45歳・造作大工・AI初心者）が運営。
 - 商品：Gumroadの英語の日本旅行ガイド。無料版 https://zeroailog.gumroad.com/l/japan-quick-start
 - 発信：note（note.com/jtatgd4、毎日「45歳・AI初心者◯日目。」の日記）、X（@zeroailog）、Pinterest（Japan Like a Local）、Instagram（@japanlikealocal.jp、英語リール）
-- 売上：まだ0円（Gumroad無料DL 1件はPinterest経由）
+- 売上：まだ0円（Gumroad無料DL 1件はPinterest経由・日本から。ゼロのGumroadで無料版が「購入済み」表示なので、本人のテストの可能性が高い）
 
 ## ゼロとの約束（大事）
 - タメ口。説明は短く、PC操作は1操作ずつ。
@@ -32,7 +32,7 @@
 ## 作成途中
 1. 電車リール（plans/trains-plan.md）：表紙と改札はFireflyで作成済み（assets/）。3枚目「車内」の写真が未作成 → 作って完成、BGMを付けて10/22に予約。
 2. 免税リール（plans/taxfree-plan.md）：文章はレビュー済み（観光庁・JNTO・大阪税関で確認）。Firefly写真を作って10/23に予約。11/1開始なので急ぎ。
-3. Pinterest：今日の免税ピン（assets/japan-taxfree-pin.png）をゼロが10/17夜に投稿予定。毎日1枚。テーマは公開済み一覧を確認してから選ぶ。
+3. Pinterest：今日の免税ピン（assets/japan-taxfree-pin.png）はゼロが10/17夜に投稿済み（リンク先のGumroad無料版も表示OK）。毎日1枚。テーマは公開済み一覧を確認してから選ぶ。
 
 ## Firefly（画像）
 - ゼロがPCで firefly.adobe.com を使う（アカウント LikeALocal Japan）。モデルは必ず「Firefly Image 5」（Adobe製・商用OK）、縦長9:16。
