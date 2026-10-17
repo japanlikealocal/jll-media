@@ -41,3 +41,4 @@ Claude reads this before making every reel. Add a line to "Learnings" after each
 
 ## Learnings (add one line per reel)
 - 2026-10-17: Text-only reels felt plain to Zero; silence felt odd → added photos + BGM starting with trains reel.
+- 2026-10-17: BGM-embedded mp4 via Metricool → Instagram plays sound (confirmed by Zero on toilets reel).
