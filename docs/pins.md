@@ -25,3 +25,4 @@ From Zero's screenshot of the profile, 2026-10-18 07:10 (newest first, as shown)
 
 ## Added by Claude
 - 2026-10-18: Vending Machines in Japan: 5 Things to Know (assets/japan-vending-pin.png) — posted by Zero 07:16, board "First Trip to Japan"
+- 2026-10-18 evening: Autumn Leaves in Japan: 5 Things to Know (assets/japan-autumn-leaves-pin.png) — made, waiting for Zero to post. Source: JNTO Autumn Leaves Forecast 2026
