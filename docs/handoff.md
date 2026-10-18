@@ -84,3 +84,5 @@
 - 決定（10/18）：Metricool課金は10月中にリールの数字を見てから決める。10/28朝にClaudeから「課金するかリールを減らすか」を提案する（このチャットに予約メッセージあり）。課金した方がいいタイミングになったらClaudeから伝える。
 - 確認済み（10/18夜）：有料版「JAPAN LIKE A LOCAL - First-Time Visitor Guide」($4.99, zeroailog.gumroad.com/l/wsqkjk, 販売0)は公開中。無料版の商品説明の最後と、無料版PDFの下部の両方に有料版への案内・リンクがすでに入っている。→ 導線はある。課題は流入数（Gumroad閲覧 月26回）。
 - 注意：WebFetchでGumroadの商品ページを読むと説明文が途中までしか取れない。「載っていない」と判断する前に、ゼロの編集画面のスクショで確認する。
+- 決定・実行（10/18 21:07）：Metricool Starter 5（月払い 25 USD、日本で税0）に課金済み。次回支払い 11/18。予約投稿は無制限（フェアユースあり）。10/28のリマインドは不要になったので取り消し。
+- Pinterest（Business account zeroailog45 = Japan Like a Local）をMetricoolに接続済み。方針：ピンを1日3枚にして、Claudeが作成→別Claudeでチェック→Metricoolで予約・自動投稿。ゼロの作業はなし。テーマは docs/pins.md で重複確認。
