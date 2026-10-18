@@ -29,3 +29,4 @@ From Zero's screenshot of the profile, 2026-10-18 07:10 (newest first, as shown)
 - 2026-10-19: Taking Off Shoes in Japan (japan-shoes-pin.png) — scheduled via Metricool 12:00
 - 2026-10-19: Escalators in Japan (japan-escalator-pin.png) — scheduled via Metricool 17:00
 - 2026-10-19: Lost Something in Japan? (japan-lost-pin.png) — scheduled via Metricool 22:00
+- 2026-10-19: Paid guide product pin (japan-paid-guide-pin.png, links to /l/wsqkjk) — scheduled via Metricool 20:00

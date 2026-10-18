@@ -72,6 +72,9 @@ Claude reads this before making every reel. Add a line to "Learnings" after each
 - Billing/reset date: Zero said "16th of every month", but it's usually the signup date — confirm on the signup screen.
 - When to subscribe (Claude tells Zero): free limit means reels are scheduled only up to tomorrow / one reel stuck 2+ days on redos / reel numbers grow and Zero wants more posts.
 
+## Pins: paid guide test (10/19, Zero agreed)
+- Of the 3 daily pins, 1 links DIRECTLY to the paid guide (https://zeroailog.gumroad.com/l/wsqkjk) with a product-style design (tools/pin_paid_guide.html). Never claim anything not on the product page. Compare Gumroad views/sales of the paid product weekly.
+
 ## Don'ts
 - Don't copy other accounts' topics, wording, or designs. Borrow strategy only.
 - Don't post the same template forever — vary format gradually.
