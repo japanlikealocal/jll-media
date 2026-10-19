@@ -87,6 +87,7 @@ Claude reads this before making every reel. Add a line to "Learnings" after each
 - Don't assume facts about files/photos (orientation, size) — check with a tool.
 
 ## Learnings (add one line per reel)
+- 2026-10-19: Firefly sometimes resets to Gemini model + 'Auto' ratio, and the old prompt stays in the box → always check model, 9:16 and prompt on a screenshot BEFORE pressing generate (lost 1 credit).
 - 2026-10-17: Text-only reels felt plain to Zero; silence felt odd → added photos + BGM starting with trains reel.
 - 2026-10-17: BGM-embedded mp4 via Metricool → Instagram plays sound (confirmed by Zero on toilets reel).
 - 2026-10-17: Several small mistakes (missing alt text, wrong weekday, wrong count, wrong numbers) → added pre-send checklist.
