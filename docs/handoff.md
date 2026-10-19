@@ -106,3 +106,5 @@
 - ゼロOK：v2（約18ページ）＝「2026年11月からの新ルール（免税）」＋「場面別のコツ（温泉・トイレ・タクシー・荷物・神社とお寺・自販機・エスカレーター）※リール/ピンでチェック済みの内容」＋表紙「Updated November 2026」＋フォント/箇条書き修正。10/20夜までにゼロに見せる。
 - 割引は木曜（v2公開）に合わせて「11月版に更新＋1週間40%引き」で開始する案（ゼロ未確認）。
 - 10/19夜：無料版PDF（v1, A4 1ページ, Interフォント埋め込み）を受け取り products/free-quick-start-v1-2026-10.pdf に保存。下部に有料版案内「(13-page PDF) zeroailog.gumroad.com/l/wsqkjk」と「AI tools were used…」の表記あり。v2では免税の1行を追加し、有料版のページ数表記を更新する。
+- 10/19夜：電車リールの写真3枚がそろった（assets/trains-1-cover.png, trains-2-gate.png, trains-3-interior.png、全部720×1280、Firefly Image 5）。改札は「カードを差し込んでるように見える」別案を不採用にし、手でカードを改札の上に当てている方を採用。Fireflyはzeroailog45（LikeALocal Japan）でログイン、10/19の残り2回。
+- 電車リール（10/22）は音楽お試し回：音なしmp4を作ってゼロに送る→ゼロがインスタアプリで流行りの曲を付けて手動投稿。tools/build_trains.py は trains_cover_src.png / trains_gate_src.png を読むので、パスを assets/ に直して使う。
