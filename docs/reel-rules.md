@@ -59,6 +59,7 @@ Claude reads this before making every reel. Add a line to "Learnings" after each
 - Title format: 「45歳・AI初心者N日目。【やったこと】をやった結果、○○だった」
 - Don't make "views dropped" or "0 yen sales" the main point. Never add experiences or results that aren't recorded.
 - ALWAYS add 5 hashtags to every note, written as the LAST line of the body text (Zero pastes them in the body) (base: #AI副業 #45歳からの挑戦 #AI初心者 #日本旅行 + 1 matching the day's theme, e.g. #Instagram / #Pinterest). Keep one main theme, but also add a 「■ ほかにやったこと」 section so the article has real substance (aim ~1,000+ chars). Learned 10/19: Day16/18 (5 tags, ~1,300-1,500 chars) got ~130 impressions; Day27 (no tags, ~250 chars) got 10. Automation must not mean cutting content.
+- note STYLE (Zero, 10/20): must NOT look AI-written. Polite です/ます (no タメ口). Open with 「おはようございます、ゼロです。」 and the body condition in Zero's words. Diary prose paragraphs, NO templated ■ headings, few/no bullets, vary sentence length. Close to Day16 style. Zero's feelings only as he said them. 5 hashtags as the last line.
 - Morning routine output: ① 24h numbers table ② note title ×3 + opening ③ X post (≤140 chars) ④ reel caption check.
 
 ## Images / Firefly (Zero's rules, 2026-10-18 — apply after subscribing to Firefly Standard)

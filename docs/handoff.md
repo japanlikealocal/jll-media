@@ -112,3 +112,4 @@
 - 10/19夜 Firefly：改札の作り直しは失敗（今日の残り0回）。1回分は前の車内の文章のまま押してしまい、横長の車内写真ができた。→ 10/20夜にもう1回、改札（IC読み取り部に平らにタッチ）を作る。現状の trains-2-gate.png でも投稿は可能（レビュー：「差し込みに見える」ので作り直し推奨）。
 - Fireflyの注意：ホームに戻ると、モデルが Gemini 3.1、縦横比が「自動」に戻ることがある。生成の前に毎回「Firefly Image 5」「9:16」と、プロンプトが新しい文章になっているかをスクショで確認してから押す。
 - 写真の自動化（10/19）：Pexelsの写真は images.pexels.com/photos/<ID>/pexels-photo-<ID>.jpeg?auto=compress&w=1080 で取れる（検索ページは403、APIは要キー）。写真探しは WebSearch（allowed_domains: pexels.com）でIDを見つける。日本らしい写真は数が限られるので、まずPexels→合わなければFirefly。顔がはっきりした人・目立つロゴは避ける。Pexelsライセンスは商用無料・表記不要（使う前に写真ページで再確認）。
+- 10/20 Day29 note公開：https://note.com/jtatgd4/n/nd3d4bf219bc3（新しい書き方：です・ます、見出しなしの日記文）
