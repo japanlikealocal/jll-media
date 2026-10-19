@@ -26,7 +26,7 @@ From Zero's screenshot of the profile, 2026-10-18 07:10 (newest first, as shown)
 ## Added by Claude
 - 2026-10-18: Vending Machines in Japan: 5 Things to Know (assets/japan-vending-pin.png) — posted by Zero 07:16, board "First Trip to Japan"
 - 2026-10-18 evening: Autumn Leaves in Japan: 5 Things to Know (assets/japan-autumn-leaves-pin.png) — posted by Zero 20:26. Source: JNTO Autumn Leaves Forecast 2026
-- 2026-10-19: Taking Off Shoes in Japan (japan-shoes-pin.png) — scheduled via Metricool 12:00
-- 2026-10-19: Escalators in Japan (japan-escalator-pin.png) — scheduled via Metricool 17:00
+- 2026-10-19: Taking Off Shoes in Japan (japan-shoes-pin.png) — auto-posted 12:00 OK (pinterest pin 1123507438327063012)
+- 2026-10-19: Escalators in Japan (japan-escalator-pin.png) — auto-posted 17:00 OK (pin 1123507438327077983)
 - 2026-10-19: Lost Something in Japan? (japan-lost-pin.png) — scheduled via Metricool 22:00
 - 2026-10-19: Paid guide product pin (japan-paid-guide-pin.png, links to /l/wsqkjk) — scheduled via Metricool 20:00
