@@ -113,4 +113,4 @@
 - Fireflyの注意：ホームに戻ると、モデルが Gemini 3.1、縦横比が「自動」に戻ることがある。生成の前に毎回「Firefly Image 5」「9:16」と、プロンプトが新しい文章になっているかをスクショで確認してから押す。
 - 写真の自動化（10/19）：Pexelsの写真は images.pexels.com/photos/<ID>/pexels-photo-<ID>.jpeg?auto=compress&w=1080 で取れる（検索ページは403、APIは要キー）。写真探しは WebSearch（allowed_domains: pexels.com）でIDを見つける。日本らしい写真は数が限られるので、まずPexels→合わなければFirefly。顔がはっきりした人・目立つロゴは避ける。Pexelsライセンスは商用無料・表記不要（使う前に写真ページで再確認）。
 - 10/20 Day29 note公開：https://note.com/jtatgd4/n/nd3d4bf219bc3（新しい書き方：です・ます、見出しなしの日記文）
-- 宿題（10/20夜）：noteの似た方向性の記事（けんご kengo_ai_diary/n/nd230cbf5580a、ゆき yuki_ai_40s/n/n2fb10e21edb0、ひぐ higulog/n/nd3975140d241、介護ペンギン kaigo_k2/n/n694bd9c4faac）を読み、良い点を3つにまとめて10/21朝のnoteから反映（作戦だけ、文章は真似しない）。ゼロOK済み。
+- 10/20：似た方向性のnote研究済み → docs/note-study-2026-10-20.md（10/21朝から3点を反映）
