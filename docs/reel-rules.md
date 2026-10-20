@@ -77,6 +77,17 @@ Claude reads this before making every reel. Add a line to "Learnings" after each
 - From 10/20 the paid guide is v2 = 21 pages (Updated November 2026). Never write "13-page" again.
 - Of the 3 daily pins, 1 links DIRECTLY to the paid guide (https://zeroailog.gumroad.com/l/wsqkjk) with a product-style design (tools/pin_paid_guide.html). Never claim anything not on the product page. Compare Gumroad views/sales of the paid product weekly.
 
+## 2-funnel evaluation (Zero via Perplexity, 2026-10-21)
+- Foreign funnel: Instagram reels + Pinterest → Gumroad free guide (English). Japanese funnel: note + X → AI challenge diary (fans). Evaluate separately.
+- Instagram: per reel views + profile visits (not likes). Gumroad: free downloads (don't claim "from Instagram" unless Gumroad shows it).
+- note: impressions + PV at 24h per article, compare with previous day. Build up day by day.
+- Rules of thumb:
+  - Reel views up 3 in a row → hook style works, keep it for next 3. Flat 3 in a row → change only the hook.
+  - Profile visits < 1% of views for several reels → push "link in bio" in reel AND caption every time (already in both; then make it stronger/earlier).
+  - note 24h imp below median of last 3 days → rethink title + opening. Above → keep the format.
+  - For the first 2 weeks, never conclude "wait and see" from small numbers alone; don't judge sales yet (grow the entry numbers first).
+- Compare reels only at the same age (24h), per Zero's rule 1.
+
 ## X test plan (Zero + Perplexity research 10/21 → docs/research-x-2026-10-21.md)
 - Goal: X impressions (Day29 post showed no view count = ~0). Change ONE thing at a time, post ~07:30 JST every day, compare views at 24h.
 - Step 1 (10/21 Day30): note link moved from body to self-reply. Body must be worth reading alone.
