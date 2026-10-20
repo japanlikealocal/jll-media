@@ -9,6 +9,7 @@ Cumulative numbers at other times are "reference only" and must not be compared 
 |---|---|---|---|---|---|
 | 27 | 2026-10-18 ~06:53 | 10 (at ~23h, 10/19 05:42) | – | – | Day26 at ~24h (10/18 05:42): imp 10. No hashtags, ~250 chars |
 | 28 | 2026-10-19 07:19 | 43 (at ~22h, 10/20 05:42) | 4 | 4 | 5 hashtags back + longer body. X post views 6 |
+| 29 | 2026-10-20 ~08:10 | 37 (at ~21.5h, 10/21 05:41) | 2 | 1 | です・ます日記文, 5 tags. X post views: not shown (10/21 06:11) |
 
 Reference (cumulative at 2026-10-18 05:42, NOT 24h values): Day26 imp 10 / Day25 imp 11, PV 2, likes 1 / Day24 imp 12 / Day23 imp 15, PV 1 / Day22 imp 35, PV 5 / Day21 imp 47, PV 7 / Day18 imp 129, PV 7 / Day16 imp 126, PV 23.
 Traffic sources 9/21–10/18: note.com 98 PV, no referrer 45, X 9, notification 5, Google 1.
@@ -42,3 +43,15 @@ Views 26, sales 1 ($0, free). Referrers: Pinterest 10 views (1 sale, Japan — l
 - 10/18 luggage (~34h): views 35 / reach 32 / avg 2.46s / 3s+ 12.5%
 - note 28 days (9/23–10/20): imp 1,859 / PV 160 / likes 46 / comments 4. Traffic: note.com 99 PV, no referrer 48, X 7, notification 5, Google 1.
 - Gumroad (9/20–10/20): views 26, sales 1 ($0). Unchanged. Pinterest 10 / direct 12 / Facebook 2 / Instagram 1.
+
+## 2026-10-21 ~06:50 snapshot (cumulative)
+Instagram (Metricool, at 07:00): views / reach / saves / avg watch / 3s+ rate
+- 10/20 konbini (~10h): 22 / 21 / 0 / 1.71s / 18.2%
+- 10/19 taxi (~34h): 36 / 35 / 0 / 0.96s / 0%
+- 10/18 luggage: 35 / 32 / 0 / 2.46s / 12.5%
+- 10/17 toilets: 50 / 47 / 0 / 3.28s / 14.9%
+- 10/16 onsen: 36 / 27 / 1 / 5.84s / 13.8%
+- 10/15 trash: 37 / 35 / 0 / 2.51s / 5.7%
+- 10/13 eating out: 25 / 23 / 0 / 8.91s / 9.1%
+note 28 days (9/24–10/21 05:41): imp 1,916 / PV 162 / likes 46 / comments 4 / followers +10. Traffic: note.com 99 PV, no referrer 49, X 7, notification 5, Google 2. Day28 now 45 imp.
+Gumroad (9/21–10/21): views 26, sales 1 ($0). Pinterest 10 (1 sale) / direct 12 / Facebook 2 / Instagram 1. Countries: US 10, Japan 9. Unchanged.
