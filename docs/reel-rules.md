@@ -89,6 +89,7 @@ Claude reads this before making every reel. Add a line to "Learnings" after each
 - Don't assume facts about files/photos (orientation, size) — check with a tool.
 
 ## Learnings (add one line per reel)
+- 2026-10-21: Hook test from trains reel (10/22): slide 0 = full photo + one big line on dark band + small "3 rules to know" line, photo-only slow zoom 6% over 2.5s (text static, stays in safe area). Reason: 3s+ rate best on konbini 18%/toilets 15% vs taxi 0%/trash 5.7% (few samples, not proven). Compare 3s+ rate at 24h.
 - 2026-10-19: Firefly sometimes resets to Gemini model + 'Auto' ratio, and the old prompt stays in the box → always check model, 9:16 and prompt on a screenshot BEFORE pressing generate (lost 1 credit).
 - 2026-10-17: Text-only reels felt plain to Zero; silence felt odd → added photos + BGM starting with trains reel.
 - 2026-10-17: BGM-embedded mp4 via Metricool → Instagram plays sound (confirmed by Zero on toilets reel).
