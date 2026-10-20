@@ -64,21 +64,21 @@ page("Tax-free shopping", "Tax-Free Shopping: New Rules from Nov 1, 2026",
           "<b>Leave within 90 days</b> of the purchase date and do the check when you depart.",
           "Food, drinks and cosmetics <b>no longer need special sealed packaging</b>.",
           "The old 500,000 yen limit on consumables is gone, but buy only what you can personally carry out of Japan.",
-          "Items you use, eat or drink in Japan cannot be refunded.")
-     + box("Ask when you pay", "How the refund reaches you can depend on the shop or the refund service it uses. Ask at checkout, and keep <b>every receipt</b> together with your passport."),
+          "Items you use, eat or drink in Japan cannot be refunded.",
+          "Purchases made up to October 31, 2026 still follow the old system.")
+     + box("Ask when you pay", "How the refund reaches you can depend on the shop or the refund service it uses. Ask at checkout whether any fee is deducted, and keep <b>every receipt</b> together with your passport."),
      new=True)
 
 page("Tax-free shopping", "At the Airport: The Tax-Free Check",
-     "<p class=lead>The check happens at the airport or port where you leave Japan on your international trip. Do it early.</p>"
+     "<p class=lead>The check happens at the airport or seaport where you leave Japan. Do it early.</p>"
      + h2("Step by step")
      + ol("Have your <b>passport, all receipts and the items</b> ready.",
-          "<b>Before you check in your bags</b>, use a tax-free procedure terminal in the international departure lobby. At major airports you can also use Visit Japan Web. Checked bags cannot be taken back out.",
+          "<b>Before you check in your bags</b>, use a tax-free procedure terminal in the international departure lobby. At Narita, Haneda, Kansai, Chubu, Fukuoka, New Chitose and Naha you can also use Visit Japan Web. Checked bags cannot be taken back out.",
           "<b>Green</b> result: done, no inspection needed. <b>Red</b> result: take your items to the customs inspection area.",
           "Finish everything, including any inspection, <b>before boarding</b>.")
      + box("One missing item = no refund for that receipt", "Customs checks each receipt as one group. If even one item from a receipt is missing at departure, nothing on that receipt is refunded. If you plan to use something in Japan, it is safer to buy it on a separate receipt.", "warn")
      + ul("If you already used a tax-free item, don't use the terminal. Tell a customs officer at the customs counter.",
-          "Leave extra time. Neither Customs nor your airline compensates you for a missed flight.",
-          "Major airports for Visit Japan Web: Narita, Haneda, Kansai, Chubu, Fukuoka, New Chitose, Naha.")
+          "Leave extra time. Neither Customs nor your airline compensates you for a missed flight.")
      + '<p class="note">Based on Japan Tourism Agency and JNTO information checked in October 2026. Steps may vary by airport; check official guidance before you shop.</p>',
      new=True)
 
@@ -153,14 +153,14 @@ page("Situation guide · toilets", "Japanese Toilets",
 
 page("Situation guide · taxis & luggage", "Taxis and Luggage",
      h2("Taxis")
-     + ul("The rear left door often <b>opens and closes automatically</b>. Let the driver do it.",
+     + ul("The rear left door often <b>opens and closes automatically</b>. Let the driver handle it.",
           "Show your destination on your phone, in Japanese if possible.",
           "No tipping. Many taxis take cards or IC cards; look for stickers or ask.",
           "Wear your seat belt, back seat included.",
           "Taxi-hailing apps work in many big cities.")
      + h2("Luggage")
-     + ul("<b>Shinkansen</b> (Tokaido, Sanyo, Kyushu): a bag with total dimensions over 160 cm, up to 250 cm, needs a reserved “seat with an oversized baggage area”. Without one there is a 1,000 yen fee. Bags over 250 cm are not allowed.",
-          "<b>Luggage delivery</b> (<i>takkyubin</i>) can send bags between hotels or to the airport. Ask your hotel front desk about cut-off times.",
+     + ul("<b>Shinkansen</b> (Tokaido, Sanyo, Kyushu, Nishi-Kyushu): a bag with total dimensions over 160 cm, up to 250 cm, needs a reserved “seat with an oversized baggage area”. Without one there is a 1,000 yen fee. Bags over 250 cm are not allowed. Strollers, sports equipment and musical instruments don't need this reservation.",
+          "<b>Luggage delivery</b> (<i>takkyuubin</i>) can send bags between hotels or to the airport. Ask your hotel front desk about cut-off times.",
           "Station coin lockers are handy, but large ones fill up fast at busy times.",
           "On crowded trains, hold your bag in front of you or use the rack.")
      + box("Travel light between cities", "Sending your big suitcase ahead and riding with a small day bag makes stations, stairs and crowded trains much easier."),
@@ -171,7 +171,7 @@ page("Situation guide · shrines & temples", "Shrines and Temples",
      + h2("At a shrine (Shinto)")
      + ol("Bow once at the <i>torii</i> gate and walk slightly to the side, not through the exact center.",
           "At the water basin: hold the ladle in your right hand and rinse your left hand; switch and rinse your right; pour a little water into your left palm, rinse your mouth and spit beside the basin. Don't touch the ladle with your lips.",
-          "At the front: offer a coin, ring the bell if there is one, <b>bow twice, clap twice</b>, pray, then bow once more.")
+          "At the front of most shrines: offer a coin, ring the bell if there is one, <b>bow twice, clap twice</b>, pray, then bow once more.")
      + h2("At a temple (Buddhist)")
      + ul("Pray quietly with your hands together. <b>Don't clap.</b>",
           "Some temples offer incense; many visitors waft the smoke toward themselves.")
@@ -198,7 +198,7 @@ page("Phrases", "8 Phrases That Do Real Work",
      + "".join(f"<tr><th>{a}</th><td>{b}</td></tr>" for a, b in [
          ("Sumimasen", "Excuse me / Sorry / A polite way to get attention"),
          ("Arigatou gozaimasu", "Thank you very much"),
-         ("Onegaishimasu", "Please / This, please"),
+         ("Onegaishimasu", "Please (when asking for something)"),
          ("Kore, onegaishimasu", "This one, please"),
          ("___ wa doko desu ka?", "Where is ___?"),
          ("Toire wa doko desu ka?", "Where is the restroom?"),
@@ -225,7 +225,7 @@ page("Help", "When You Need Help",
      + '<div class="sos"><div><b>Police</b><span>110</span><small>Urgent police emergencies</small></div>'
        '<div><b>Fire / Ambulance</b><span>119</span><small>Urgent fire or medical emergencies</small></div></div>'
      + h2("Japan Visitor Hotline")
-     + "<p>JNTO operates a visitor hotline 24 hours a day, 365 days a year, with support in English, Chinese and Korean. Save the current hotline details from the official JNTO website before departure.</p>"
+     + "<p>JNTO operates a visitor hotline 24 hours a day, 365 days a year, with support in English, Chinese and Korean.</p><p class=pj>050-3816-2787</p><p>From a non-Japanese phone: +81-50-3816-2787. Check the official JNTO website for any updates before departure.</p>"
      + h2("Lost something?")
      + "<p>Ask station staff, the shop or the hotel first. Lost property is often handled by the facility where it was found before being transferred elsewhere.</p>"
      + h2("Medical needs")
@@ -234,7 +234,7 @@ page("Help", "When You Need Help",
 page("First 24 hours", "Your First 24 Hours",
      "<p class=lead>Use this as a low-stress landing plan.</p>"
      + '<div class="cols">'
-     + "<div>" + h2("At the airport") + ul("Get connected: eSIM, SIM or Wi-Fi.", "Get cash if needed.", "Set up your IC card or confirm your train or bus ticket.")
+     + "<div>" + h2("At the airport") + ul("Get connected: eSIM, SIM or Wi‑Fi.", "Get cash if needed.", "Set up your IC card or confirm your train or bus ticket.")
      + h2("On the way to the hotel") + ul("Follow the route one transfer at a time.", "Keep your hotel address ready in Japanese.") + "</div>"
      + "<div>" + h2("Near the hotel") + ul("Find the station entrance you will use tomorrow.", "Locate a convenience store and an ATM option.", "Buy water and a simple breakfast or snack.")
      + h2("Before sleeping") + ul("Check tomorrow's weather and first train route.", "Charge your phone and power bank.", "Put a small trash bag, cash and IC card in your day bag.") + "</div></div>"
@@ -248,14 +248,14 @@ page("Cheat sheet", "One-Page Cheat Sheet",
          ("Tipping", "Usually no tip."),
          ("Trash", "Carry a small bag; bins may be limited."),
          ("Shoes", "Remove if required. Check signs or ask staff."),
-         ("Tax-free", "Pay full price. At departure: check first, then check in bags. Keep every item."),
+         ("Tax-free", "Pay full price. At departure: tax-free check first, then check in bags. Keep every item."),
          ("Onsen", "Wash first. Towel out of the water. Ask about tattoos."),
-         ("Shrine", "Bow twice, clap twice, bow once. Temple: no clapping."),
+         ("Shrine", "Most shrines: bow twice, clap twice, bow once. Temple: no clapping."),
          ("Help", "“Sumimasen” = your all-purpose polite opener."),
          ("Emergency", "Police 110 · Fire / Ambulance 119")])
      + "</table>"
      + h2("Three phrases to screenshot")
-     + ul("<b>Sumimasen.</b> Excuse me / Sorry", "<b>Kore, onegaishimasu.</b> This one, please.", "<b>Toire wa doko desu ka?</b> Where is the restroom?")
+     + ul("<b>Sumimasen.</b> Excuse me / Sorry.", "<b>Kore, onegaishimasu.</b> This one, please.", "<b>Toire wa doko desu ka?</b> Where is the restroom?")
      + box("Screenshot this page", "Keep it in your Favorites album so you can reach it quickly when your signal is weak."))
 
 page("Sources", "Official Sources &amp; Updates",
@@ -264,7 +264,7 @@ page("Sources", "Official Sources &amp; Updates",
      + '<dl class="src">'
        '<dt>Japan Tourism Agency (MLIT)</dt><dd>New tax-free system from November 1, 2026 · mlit.go.jp/kankocho/tax-free</dd>'
        '<dt>Japan National Tourism Organization (JNTO)</dt><dd>New tax-free shopping system; tipping, cashless payments, IC cards, rail manners, shrine and temple etiquette, Visitor Hotline · japan.travel</dd>'
-       '<dt>JR West</dt><dd>Oversized baggage on the Tokaido, Sanyo and Kyushu Shinkansen · westjr.co.jp</dd></dl>'
+       '<dt>JR Central / JR West</dt><dd>Oversized baggage on the Tokaido, Sanyo, Kyushu and Nishi-Kyushu Shinkansen · westjr.co.jp, japanrailpass.net</dd></dl>'
      + box("Important", "This is a practical travel guide, not legal, immigration, customs, medical or emergency advice. Visa, customs, tax-free shopping, transport and entry rules may change, and individual facilities set their own rules. Always verify current requirements with the relevant official authority.", "warn")
      + '<div class="end"><div class="em">JAPAN LIKE A LOCAL</div><div>Know more. Worry less. Enjoy Japan.</div></div>')
 
