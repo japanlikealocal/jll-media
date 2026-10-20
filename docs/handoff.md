@@ -114,3 +114,4 @@
 - 写真の自動化（10/19）：Pexelsの写真は images.pexels.com/photos/<ID>/pexels-photo-<ID>.jpeg?auto=compress&w=1080 で取れる（検索ページは403、APIは要キー）。写真探しは WebSearch（allowed_domains: pexels.com）でIDを見つける。日本らしい写真は数が限られるので、まずPexels→合わなければFirefly。顔がはっきりした人・目立つロゴは避ける。Pexelsライセンスは商用無料・表記不要（使う前に写真ページで再確認）。
 - 10/20 Day29 note公開：https://note.com/jtatgd4/n/nd3d4bf219bc3（新しい書き方：です・ます、見出しなしの日記文）
 - 10/20：似た方向性のnote研究済み → docs/note-study-2026-10-20.md（10/21朝から3点を反映）
+- 10/20 12:20：ClaudeをMax 5x（月¥20,000、iOSのApp Store経由）にアップグレード。週の上限81%に達したため。道具代：Metricool $25、Claude Max ¥20,000、パープレ。
