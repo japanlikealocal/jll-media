@@ -33,3 +33,7 @@ From Zero's screenshot of the profile, 2026-10-18 07:10 (newest first, as shown)
 - 2026-10-20: 100-Yen Shops (japan-100yen-pin.png) — scheduled 12:00
 - 2026-10-20: Bowing (japan-bow-pin.png) — scheduled 17:00
 - 2026-10-20: 5 First-Timer Mistakes → PAID guide (japan-mistakes-pin.png) — scheduled 20:00
+- 2026-10-21: What to Wear in Late Autumn (japan-autumnwear-pin.png) — scheduled 12:00
+- 2026-10-21: Eating While Walking (japan-eatwalk-pin.png) — scheduled 17:00
+- 2026-10-21: When You Need Help → PAID guide (japan-help-pin.png) — scheduled 20:00
+- (10/20: first drafts ryokan/cash/8 phrases were duplicates of published pins → discarded. Always grep this list first.)
