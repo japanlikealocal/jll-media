@@ -55,3 +55,10 @@ Instagram (Metricool, at 07:00): views / reach / saves / avg watch / 3s+ rate
 - 10/13 eating out: 25 / 23 / 0 / 8.91s / 9.1%
 note 28 days (9/24–10/21 05:41): imp 1,916 / PV 162 / likes 46 / comments 4 / followers +10. Traffic: note.com 99 PV, no referrer 49, X 7, notification 5, Google 2. Day28 now 45 imp.
 Gumroad (9/21–10/21): views 26, sales 1 ($0). Pinterest 10 (1 sale) / direct 12 / Facebook 2 / Instagram 1. Countries: US 10, Japan 9. Unchanged.
+
+## X (record views at ~24h)
+| Day | Posted | Link | Image | Views @24h | Replies | Likes | Note |
+|---|---|---|---|---|---|---|---|
+| 28 | 10/19 ~07:30 | body | no | 10 (at ~1d, 10/21 06:11) | 0 | 0 | |
+| 29 | 10/20 ~08:15 | body | no | not shown (~0) at ~22h | 0 | 0 | |
+| 30 | 10/21 07:32 | self-reply | no | | | | Step 1 of X test |

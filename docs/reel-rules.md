@@ -77,6 +77,14 @@ Claude reads this before making every reel. Add a line to "Learnings" after each
 - From 10/20 the paid guide is v2 = 21 pages (Updated November 2026). Never write "13-page" again.
 - Of the 3 daily pins, 1 links DIRECTLY to the paid guide (https://zeroailog.gumroad.com/l/wsqkjk) with a product-style design (tools/pin_paid_guide.html). Never claim anything not on the product page. Compare Gumroad views/sales of the paid product weekly.
 
+## X test plan (Zero + Perplexity research 10/21 → docs/research-x-2026-10-21.md)
+- Goal: X impressions (Day29 post showed no view count = ~0). Change ONE thing at a time, post ~07:30 JST every day, compare views at 24h.
+- Step 1 (10/21 Day30): note link moved from body to self-reply. Body must be worth reading alone.
+- Step 2: add 1 image (a real screenshot of the day's result) — only after Step 1 has 24h data.
+- Step 3: first line = the result with a number; "45歳・AI初心者N日目" moves to the end as a name tag.
+- Always: end with a short question to readers (replies weigh ~10x likes per public-code analysis). 0–2 hashtags on X.
+- Log in metrics.md: views @24h, replies, likes, note PV from X.
+
 ## Don'ts
 - Don't copy other accounts' topics, wording, or designs. Borrow strategy only.
 - Don't post the same template forever — vary format gradually.
