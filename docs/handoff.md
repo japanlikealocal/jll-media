@@ -36,7 +36,7 @@
 - [x] Gumroad有料版の表紙・プレビュー・サムネイル差し替え 10/20 21:09 完了（Cover＝paid-v2-cover-21pages／preview-1／preview-2、旧3枚削除。Thumbnail＝paid-v2-thumbnail.png）。13ページ表記はGumroad上ゼロ。
 - メモ：Gumroadの画像削除は、小さい画像にマウスを乗せると右上に赤い×が出る（小さいのでズームして確認）。ゼロのノートPCはF5が効かない→ブラウザ左上の⟳を使う。ファイルの受け渡しは raw.githubusercontent.com のリンク→右クリック保存が確実。
 - [x] 無料版 v2 10/20 21:18 Gumroad差し替え済み（products/free-quick-start-v2-2026-11.pdf、作り方 tools/free_quick_start_v2.html、説明文も21ページ版に更新、通知はSkip）。
-- [ ] 無料DLした人への Gumroad 自動メール3通（0日目お礼／2日目コツ＋有料版紹介／5日目に限定割引コード）。文面はClaude、設定はゼロとPCで。
+- [ ] 無料DLした人への Gumroad 自動メール3通（0日目お礼／2日目コツ＋有料版紹介／5日目に限定割引コード）。文面はClaude、設定はゼロとPCで。 文面：docs/gumroad-emails.md（別Claudeチェック済み）。割引コード JLL20＝20%引き、12/31まで。**12/26までにワークフローを止めるか更新**。
 - [ ] v2公開時：商品ページにプレビュー2〜3ページ＋目次、評価表示ON。
 - [ ] 日曜の朝：数字を見て「次に試すこと」を1つ提案。
 - 後回し：Etsy出品（調査済み、開設料$15〜29の可能性）。
