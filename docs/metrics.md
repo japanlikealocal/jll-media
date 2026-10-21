@@ -62,3 +62,11 @@ Gumroad (9/21–10/21): views 26, sales 1 ($0). Pinterest 10 (1 sale) / direct 1
 | 28 | 10/19 ~07:30 | body | no | 10 (at ~1d, 10/21 06:11) | 0 | 0 | |
 | 29 | 10/20 ~08:15 | body | no | not shown (~0) at ~22h | 0 | 0 | |
 | 30 | 10/21 07:32 | self-reply | no | | | | Step 1 of X test |
+
+## 2026-10-22 ~06:50 snapshot (Metricool, cumulative): views / reach / saves / avg watch / 3s+ rate
+- 10/21 shrines (~10h): 4 / 3 / 0 / 7.63s / 25.0%  ← too early, don't compare
+- 10/20 konbini (~34h): 55 / 55 / 0 / 1.24s / 3.6%  (highest views so far; 3s+ rate fell from 18.2% at 10h)
+- 10/19 taxi: 36 / 35 / 0 / 0.96s / 0%  (unchanged since 10/21)
+- 10/18 luggage: 35 / 32 / 0 / 2.46s / 12.5%  (unchanged)
+- 10/17 toilets: 50 / 47 / 0 / 3.28s / 14.9%
+Profile visits: waiting for Zero's Instagram app screenshots.
