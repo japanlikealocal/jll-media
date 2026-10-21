@@ -70,3 +70,5 @@ Gumroad (9/21–10/21): views 26, sales 1 ($0). Pinterest 10 (1 sale) / direct 1
 - 10/18 luggage: 35 / 32 / 0 / 2.46s / 12.5%  (unchanged)
 - 10/17 toilets: 50 / 47 / 0 / 3.28s / 14.9%
 Profile visits: waiting for Zero's Instagram app screenshots.
+Instagram app dashboard (30 days, 9/21–10/20, Zero's screen recording 10/22 06:58): views 262 / viewers 236 / reel views 261 / followers 0 / interactions 1 / **profile visits 2 / bio link taps 0**. Profile visits = 0.8% of views (<1% → per 2-funnel rule, push "link in bio" harder). Per-reel profile visits are no longer shown in the app (reel insights show views/viewers/avg time/follows only).
+Shrine reel in app at 06:56: views 22 / viewers 17 / avg 2s (Metricool showed 4 — Metricool lags).
