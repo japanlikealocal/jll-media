@@ -8,6 +8,14 @@ Claude reads this before making every reel. Add a line to "Learnings" after each
 - No overgeneralizing: use "often / many / may", and end with a "rules vary" line.
 - Facts that change (prices, rules, card sales, hours) must be checked against an official source before posting.
 
+## Reel format v3 (Zero via Perplexity, 10/22 07:28 — study of popular foreign-facing Japan travel reels; replaces "background image on every slide")
+- 15–30 s. First 1–3 s shows the actual place (torii/chozuya, konbini shelves, onsen steam…), never a plain card.
+- Cut about every 3 s (title cut → detail cut per tip); never hold one screen long.
+- Content = "know before you go" list. Do NOT write "Things I wish I knew" (implies personal experience Zero hasn't stated) → use "Know this before…" style. Add nothing beyond the facts.
+- Posting: location tag every time (Tokyo, Japan etc.) — Metricool can't set it → Zero posts in the Instagram app (also adds a different trending song).
+- Hashtags: #JapanTravel #VisitJapan #TravelJapan + 2 theme tags (#Onsen #Konbini …) = 5.
+- Caption CTA: "Save this for your trip" + keep "link in bio" line.
+
 ## Cover / hook (slide 0) — v2 from 10/22 (Zero: old covers "nobody would be interested")
 - Vivid, travel-feeling photo (Pexels first). Not commuter backs or plain cream cards.
 - Big benefit/loss hook in 2–3 lines (e.g. "Don't lose your tax refund", "3 train mistakes to avoid") + yellow tag + one small line. Text inside y 240–1680 (3:4 grid crop) and above the view counter. Builder: tools/build_cover.py.
