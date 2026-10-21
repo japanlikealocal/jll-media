@@ -22,7 +22,7 @@
 - Claude Max 5x（月¥20,000、iOSのApp Store経由。Claudeアカウントは Apple ID でログイン）
 - Metricool Starter（月$25、次回 11/18）。blogId 7378020、Asia/Tokyo。Instagram（@japanlikealocal.jp）と Pinterest（zeroailog45 / Japan Like a Local）接続済み。予約投稿は無制限。
 - パープレ（Perplexity）課金済み。ChatGPTは解約済み。
-- Firefly：**無料**（1日3回くらい）。アカウント LikeALocal Japan（zeroailog45@gmail.com）。押す前に毎回「Firefly Image 5」「9:16」「プロンプトが新しい」をスクショで確認（戻ることがある）。
+- Firefly：**無料**（1日3回くらい）。10/21 19:11 Adobeアカウントの「プラン」で「有料プランがありません」を確認（Standard未契約→残り/200の報告はまだ不要）。アカウント LikeALocal Japan（zeroailog45@gmail.com）。押す前に毎回「Firefly Image 5」「9:16」「プロンプトが新しい」をスクショで確認（戻ることがある）。
 - GitHub：このリポジトリ（public）。commit は japanlikealocal / japanlikealocal@users.noreply.github.com。
 
 ## 商品（Gumroad）
