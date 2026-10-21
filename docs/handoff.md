@@ -54,7 +54,7 @@
 
 ## 予約・投稿の状況
 - リール（21:00、Metricool自動）：10/20 コンビニ、10/21 神社・お寺 → 予約済み。
-- 10/22 電車：**音楽お試し回**。音なし版は **reels/trains-reel-v6-silent.mp4**（10/22朝：新表紙＝新幹線写真＋「3 train mistakes to avoid」、最後＝赤い「Free guide: link in bio」。v5は使わない）。旧メモ：（10/21朝作り直し：1枚目＝写真を見せて大きい1行＋「3 rules to know」、写真だけゆっくりズーム。別Claudeチェック後に安全エリア修正済み。作り方 tools/build_trains_v5.py）、キャプションは reels/2026-10-22-trains-caption.txt。ゼロがインスタのアプリで流行りの曲を付けて21時に手動投稿（AI情報ラベルON）。mp4はまだゼロに送っていない。改札の写真は Firefly で作り直し推奨（プロンプトは前回のもの）。
+- 10/22 電車：**音楽お試し回**。音なし版は **reels/trains-reel-v7-silent.mp4**（10/22 07:45 v3形式＝約3秒ごとのカット。v6は使わない。10/22朝：新表紙＝新幹線写真＋「3 train mistakes to avoid」、最後＝赤い「Free guide: link in bio」。v5は使わない）。旧メモ：（10/21朝作り直し：1枚目＝写真を見せて大きい1行＋「3 rules to know」、写真だけゆっくりズーム。別Claudeチェック後に安全エリア修正済み。作り方 tools/build_trains_v5.py）、キャプションは reels/2026-10-22-trains-caption.txt。ゼロがインスタのアプリで流行りの曲を付けて21時に手動投稿（AI情報ラベルON）。mp4はまだゼロに送っていない。改札の写真は Firefly で作り直し推奨（プロンプトは前回のもの）。
 - 10/23 免税：plans/taxfree-plan.md（文章チェック済み）。写真がまだ → Pexels か Firefly で用意して作成・予約。11/1開始なので急ぐ。
 - ピン：10/21分まで予約済み。10/22分から未作成。
 - リールの課題：最初の1〜3秒で離れられている（10/19タクシー 3秒以上視聴0%）。次のリールから最初の1秒を変える＋最後に「Send this to your travel buddy」。
