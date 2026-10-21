@@ -10,6 +10,7 @@ Cumulative numbers at other times are "reference only" and must not be compared 
 | 27 | 2026-10-18 ~06:53 | 10 (at ~23h, 10/19 05:42) | – | – | Day26 at ~24h (10/18 05:42): imp 10. No hashtags, ~250 chars |
 | 28 | 2026-10-19 07:19 | 43 (at ~22h, 10/20 05:42) | 4 | 4 | 5 hashtags back + longer body. X post views 6 |
 | 29 | 2026-10-20 ~08:10 | 37 (at ~21.5h, 10/21 05:41) | 2 | 1 | です・ます日記文, 5 tags. X post views: not shown (10/21 06:11) |
+| 30 | 2026-10-21 ~07:30 | **70** (at ~22h, 10/22 05:41) | – | – | Title with numbers 13→21 + 結果; #大工 tag; reader line. Above median of last 3 (44) → keep format |
 
 Reference (cumulative at 2026-10-18 05:42, NOT 24h values): Day26 imp 10 / Day25 imp 11, PV 2, likes 1 / Day24 imp 12 / Day23 imp 15, PV 1 / Day22 imp 35, PV 5 / Day21 imp 47, PV 7 / Day18 imp 129, PV 7 / Day16 imp 126, PV 23.
 Traffic sources 9/21–10/18: note.com 98 PV, no referrer 45, X 9, notification 5, Google 1.
@@ -61,7 +62,7 @@ Gumroad (9/21–10/21): views 26, sales 1 ($0). Pinterest 10 (1 sale) / direct 1
 |---|---|---|---|---|---|---|---|
 | 28 | 10/19 ~07:30 | body | no | 10 (at ~1d, 10/21 06:11) | 0 | 0 | |
 | 29 | 10/20 ~08:15 | body | no | not shown (~0) at ~22h | 0 | 0 | |
-| 30 | 10/21 07:32 | self-reply | no | | | | Step 1 of X test |
+| 30 | 10/21 07:32 | self-reply | no | 5 (main) / 8 (link reply) at ~23h | 1 (self) | 0 | Step 1: up from ~0 on Day29 |
 
 ## 2026-10-22 ~06:50 snapshot (Metricool, cumulative): views / reach / saves / avg watch / 3s+ rate
 - 10/21 shrines (~10h): 4 / 3 / 0 / 7.63s / 25.0%  ← too early, don't compare
@@ -72,3 +73,7 @@ Gumroad (9/21–10/21): views 26, sales 1 ($0). Pinterest 10 (1 sale) / direct 1
 Profile visits: waiting for Zero's Instagram app screenshots.
 Instagram app dashboard (30 days, 9/21–10/20, Zero's screen recording 10/22 06:58): views 262 / viewers 236 / reel views 261 / followers 0 / interactions 1 / **profile visits 2 / bio link taps 0**. Profile visits = 0.8% of views (<1% → per 2-funnel rule, push "link in bio" harder). Per-reel profile visits are no longer shown in the app (reel insights show views/viewers/avg time/follows only).
 Shrine reel in app at 06:56: views 22 / viewers 17 / avg 2s (Metricool showed 4 — Metricool lags).
+
+## 2026-10-22 07:00 (Zero's recordings)
+note 28 days (9/25–10/22 05:41): imp 2,016 / PV 177 / likes 52 / comments 4. Day30 70 imp (best since Day18).
+Gumroad (9/22–10/22): views 26, sales 1, $0 — unchanged.
