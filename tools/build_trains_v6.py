@@ -22,7 +22,7 @@ pages=[f'<!doctype html><html><head><meta charset="utf-8"><style>{CSS}html,body{
 for i,(t,d,bg) in enumerate(items,1):
   card=f'<div class="num">{i}</div><div class="t">{t}</div><div class="d">{d}</div>'
   pages.append(page(bg,f'<div class="safe bottom"><div class="card">{card}</div></div>') if bg else page(None,f'<div class="safe">{card}</div>'))
-pages.append(page(None,'<div class="safe"><div class="tag">BEFORE YOU GO</div><h1 style="font-size:96px">Rules may vary by line and station.</h1><div class="cta">Save this for your trip!<br>Free 1-page<br>Japan Quick Start:<br>link in bio</div><div class="sub" style="margin-top:40px">Send this to your travel buddy 👋</div></div>'))
+pages.append(page(None,'<div class="safe"><div class="tag">FREE PDF · 1 PAGE</div><h1 style="font-size:92px">Money, trains, manners &amp; 6 phrases on one page.</h1><div class="cta" style="font-size:72px;background:#D62828;color:#fff;margin-top:50px">👉 Free guide:<br>link in bio</div><div class="sub" style="margin-top:36px;font-size:40px">Rules may vary by line and station. Send this to your travel buddy 👋</div></div>'))
 D=[3.0,5.0,4.5,4.5,4.0]
 with sync_playwright() as p:
   b=p.chromium.launch(); pg=b.new_page(viewport={'width':1080,'height':1920})

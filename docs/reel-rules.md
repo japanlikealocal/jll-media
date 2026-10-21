@@ -8,6 +8,11 @@ Claude reads this before making every reel. Add a line to "Learnings" after each
 - No overgeneralizing: use "often / many / may", and end with a "rules vary" line.
 - Facts that change (prices, rules, card sales, hours) must be checked against an official source before posting.
 
+## Cover / hook (slide 0) — v2 from 10/22 (Zero: old covers "nobody would be interested")
+- Vivid, travel-feeling photo (Pexels first). Not commuter backs or plain cream cards.
+- Big benefit/loss hook in 2–3 lines (e.g. "Don't lose your tax refund", "3 train mistakes to avoid") + yellow tag + one small line. Text inside y 240–1680 (3:4 grid crop) and above the view counter. Builder: tools/build_cover.py.
+- Last slide: what the free guide contains + big red "👉 Free guide: link in bio" (profile visits were 0.8% of views, link taps 0).
+
 ## Hook (slide 0)
 - One short question to the viewer: "First train ride in Japan?" style.
 - Try "Why…?" hooks and "Don't lose money / avoid mistakes" hooks (from saved YouTube learnings).
@@ -27,7 +32,7 @@ Claude reads this before making every reel. Add a line to "Learnings" after each
 - Text sits on a cream card (rgba 247,243,236,.94) over photos.
 
 ## Audio
-- Every reel gets background music. Default: Claude's generated BGM (music.py). Firefly soundtrack to be tested.
+- Every reel gets background music. **music.py BGM is retired (Zero 10/22: "same song every time, absolutely no").** Use a different Instagram trending track each time (Zero adds it in the Instagram app, or Metricool audioConfiguration if available). Never reuse the same track two reels in a row.
 
 ## Posting
 - Instagram via Metricool, 21:00 JST, REEL, showReelOnFeed true, autoPublish true.
