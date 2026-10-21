@@ -3,13 +3,13 @@ import sys,pathlib
 from playwright.sync_api import sync_playwright
 ROOT=pathlib.Path(__file__).resolve().parent.parent
 F=(ROOT/'tools/fonts').as_uri()
-def cover(photo,pos,tag,big,small,out):
+def cover(photo,pos,tag,big,small,out,overlay_only=False):
     img=(ROOT/photo).as_uri()
     html=f'''<!doctype html><html><head><meta charset=utf-8><style>
 @font-face{{font-family:I;src:url({F}/Inter-ExtraBold.ttf);font-weight:800}}
 @font-face{{font-family:R;src:url({F}/Inter-Bold.ttf);font-weight:700}}
 *{{margin:0;padding:0;box-sizing:border-box}}
-body{{width:1080px;height:1920px;background:url({img}) {pos}/cover no-repeat;font-family:I,sans-serif;font-weight:800;position:relative;overflow:hidden}}
+body{{width:1080px;height:1920px;background:{'transparent' if overlay_only else f'url({img}) {pos}/cover no-repeat'};font-family:I,sans-serif;font-weight:800;position:relative;overflow:hidden}}
 .g{{position:absolute;inset:0;background:linear-gradient(rgba(0,0,0,.0) 30%,rgba(0,0,0,.72) 72%,rgba(0,0,0,.3))}}
 .jp{{position:absolute;left:90px;top:300px;display:flex;align-items:center;gap:16px;background:rgba(255,255,255,.94);border-radius:60px;padding:12px 28px 12px 14px;font-size:34px;color:#141B2D}}
 .jp b{{width:56px;height:56px;border-radius:50%;background:#D62828;color:#fff;display:flex;align-items:center;justify-content:center;font-size:24px}}
@@ -21,8 +21,11 @@ h1 em{{font-style:normal;color:#FF5A4E}}
     p=ROOT/'tools/_cover.html'; p.write_text(html)
     with sync_playwright() as pw:
         b=pw.chromium.launch(); pg=b.new_page(viewport={'width':1080,'height':1920}); pg.goto(p.as_uri()); pg.wait_for_timeout(600)
-        pg.screenshot(path=str(ROOT/out)); b.close()
+        pg.screenshot(path=str(ROOT/out),omit_background=overlay_only)
+        if overlay_only:
+            p.write_text(f'<html><body style="margin:0;width:1080px;height:1920px;background:url({img}) {pos}/cover no-repeat"></body></html>'); pg.goto(p.as_uri()); pg.wait_for_timeout(500); pg.screenshot(path=str(ROOT/out).replace('.png','-bg.png'))
+        b.close()
     p.unlink()
 if __name__=='__main__':
     cover('assets/covers/px-31130296-osaka.jpg','center 40%','NEW FROM NOV 1','Don’t lose your <em>tax refund</em>','Shopping in Japan? 3 new rules to get your money back.','assets/covers/cover-taxfree.png')
-    cover('assets/covers/px-29058311-shinkansen.jpg','28% center','FIRST TRAIN RIDE?','3 mistakes that <em>annoy locals</em>','Avoid them on your first day in Japan.','assets/covers/cover-trains.png')
+    cover('assets/covers/px-29058311-shinkansen.jpg','28% center','FIRST TRAIN RIDE?','3 train mistakes <em>to avoid</em>','Avoid them on your first day in Japan.','assets/covers/cover-trains.png')
