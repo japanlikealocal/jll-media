@@ -114,6 +114,8 @@ Claude reads this before making every reel. Add a line to "Learnings" after each
 - Don't post the same template forever — vary format gradually.
 
 ## Pre-send checklist (check EVERY time before handing anything to Zero)
+- Pinterest alt text must be UNDER 500 characters (10/22 20:00 pin failed: 400 Invalid request, alt text too long). Count with len() before scheduling.
+- After scheduling, re-check Metricool status the same day (getScheduledPosts) — ERROR does not notify anyone.
 - Pin: image / title / description / alt text / link (Gumroad free) — all five. Check docs/pins.md first so the theme is not a duplicate. Hand them to Zero in the Pinterest form order: title → description → link → alt text.
 - Reel: slides / caption / hashtags (5) / isAiGenerated / BGM / date & time 21:00 JST / review by separate Claude.
 - note & X: every number re-read from the screenshot or record, never from memory. Dates and weekdays re-checked.

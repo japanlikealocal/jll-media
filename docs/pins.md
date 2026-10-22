@@ -37,7 +37,7 @@ From Zero's screenshot of the profile, 2026-10-18 07:10 (newest first, as shown)
 - 2026-10-21: Eating While Walking (japan-eatwalk-pin.png) — scheduled 17:00
 - 2026-10-21: When You Need Help → PAID guide (japan-help-pin-v2.png, 21-page + hotline number) — scheduled 20:00 (updated 10/20 20:37)
 - (10/20: first drafts ryokan/cash/8 phrases were duplicates of published pins → discarded. Always grep this list first.)
-- 2026-10-22: 20 Things to Know (cheatsheet-20-things.png, photo infographic) → PAID guide — scheduled 20:00
+- 2026-10-22: 20 Things to Know (cheatsheet-20-things.png, photo infographic) → PAID guide — 20:00 FAILED (alt text >500 chars) → re-scheduled 21:25 with shorter alt
 - 2026-10-23: Shinkansen Luggage Rules (pin-shinkansen-luggage.png, photo pin) → free — scheduled 12:00
 - 2026-10-23: Japan vs USA 10 differences (compare-japan-usa.png) → free — scheduled 17:00
 - 2026-10-23: Tax-Free at the Airport step by step (pin-taxfree-airport.png) → PAID — scheduled 20:00
