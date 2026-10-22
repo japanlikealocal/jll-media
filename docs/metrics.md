@@ -11,6 +11,7 @@ Cumulative numbers at other times are "reference only" and must not be compared 
 | 28 | 2026-10-19 07:19 | 43 (at ~22h, 10/20 05:42) | 4 | 4 | 5 hashtags back + longer body. X post views 6 |
 | 29 | 2026-10-20 ~08:10 | 37 (at ~21.5h, 10/21 05:41) | 2 | 1 | です・ます日記文, 5 tags. X post views: not shown (10/21 06:11) |
 | 30 | 2026-10-21 ~07:30 | **70** (at ~22h, 10/22 05:41) | – | – | Title with numbers 13→21 + 結果; #大工 tag; reader line. Above median of last 3 (44) → keep format |
+| 31 | 2026-10-22 ~07:10 | 28 (at ~22.5h, 10/23 05:41) | 2 | 2 | comment 1. Title: インスタ262回→リンク0人. **Below median of last 3 (43)** → rethink title/opening |
 
 Reference (cumulative at 2026-10-18 05:42, NOT 24h values): Day26 imp 10 / Day25 imp 11, PV 2, likes 1 / Day24 imp 12 / Day23 imp 15, PV 1 / Day22 imp 35, PV 5 / Day21 imp 47, PV 7 / Day18 imp 129, PV 7 / Day16 imp 126, PV 23.
 Traffic sources 9/21–10/18: note.com 98 PV, no referrer 45, X 9, notification 5, Google 1.
@@ -63,6 +64,7 @@ Gumroad (9/21–10/21): views 26, sales 1 ($0). Pinterest 10 (1 sale) / direct 1
 | 28 | 10/19 ~07:30 | body | no | 10 (at ~1d, 10/21 06:11) | 0 | 0 | |
 | 29 | 10/20 ~08:15 | body | no | not shown (~0) at ~22h | 0 | 0 | |
 | 30 | 10/21 07:32 | self-reply | no | 5 (main) / 8 (link reply) at ~23h | 1 (self) | 0 | Step 1: up from ~0 on Day29 |
+| 31 | 10/22 ~07:15 | self-reply | no | 3 (main) / – (reply) at ~23h | 1 (self) | 0 | ended with a question; no replies |
 
 ## 2026-10-22 ~06:50 snapshot (Metricool, cumulative): views / reach / saves / avg watch / 3s+ rate
 - 10/21 shrines (~10h): 4 / 3 / 0 / 7.63s / 25.0%  ← too early, don't compare
@@ -77,3 +79,11 @@ Shrine reel in app at 06:56: views 22 / viewers 17 / avg 2s (Metricool showed 4 
 ## 2026-10-22 07:00 (Zero's recordings)
 note 28 days (9/25–10/22 05:41): imp 2,016 / PV 177 / likes 52 / comments 4. Day30 70 imp (best since Day18).
 Gumroad (9/22–10/22): views 26, sales 1, $0 — unchanged.
+
+## 2026-10-23 ~06:45 snapshot
+Instagram app grid (06:42): **10/22 trains (new cover + song + location, ~9.5h): 92 views** / shrines 27 / konbini 55 / taxi 36 / luggage 35 / toilets 50 / onsen 36 / trash 37 / eating out 25.
+Metricool (07:00, lags behind app): trains 41 views / 37 reach / avg 2.79s / 3s+ 18.9% · shrines 27 / 4.52s / 3.7% · konbini 55 / 1.59s / 3.6%.
+Same-age compare (Metricool ~10h): konbini 22 → trains 41 (≈2x). App shows 92.
+note 28 days (9/26–10/23 05:41): imp 2,068 / PV 180 / likes 53 / comments 5 / followers +13. Day30 now 77 imp / 11 PV / 5 likes.
+Gumroad (to 10/23): views 26, sales 1 ($0) — unchanged. Pinterest 10 / direct 12 / Facebook 2 / l.instagram.com 1 / m.facebook 1. US 10, Japan 9.
+Pin "20 Things" re-posted 21:25 10/22 → PUBLISHED.
