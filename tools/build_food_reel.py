@@ -26,7 +26,7 @@ S=[  # accent BLUE, bright first photo
  (E,'center 60%','<div class=box><div class=num>1</div><h1>Wait to be seated</h1></div>',2.5),
  (E,'40% 70%','<div class=box><div class=p style="margin-top:0"><span>Staff may ask “How many?”</span><span>Hold up fingers.</span></div></div>',2.5),
  (K,'center center','<div class=box><div class=num>2</div><h1>Ticket machine?</h1></div>',2.5),
- (K,'35% center','<div class=box><div class=p style="margin-top:0"><span>Buy a ticket first.</span><span>Hand it to staff.</span></div></div>',2.5),
+ (K,'35% center','<div class=box><div class=p style="margin-top:0"><span>At some shops:</span><span>buy a ticket first,</span><span>then hand it to staff.</span></div></div>',2.5),
  (R0,'70% center','<div class=box><div class=num>3</div><h1>Point and ask</h1></div>',2.5),
  (R0,'30% 60%','<div class=box><div class=p style="margin-top:0"><span>Point at photos.</span><span>English menu?</span><span>“Eigo no menyuu wa arimasu ka?”</span></div></div>',3.0),
  (E,'center 50%','<div class=box><div class=p style="margin-top:0">No tipping. Rules vary by restaurant.</div><div class=cta>Save this for your trip!<br>Free 1-page<br>Japan Quick Start:<br>link in bio</div></div>',3.0),
