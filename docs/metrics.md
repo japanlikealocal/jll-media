@@ -64,7 +64,7 @@ Gumroad (9/21–10/21): views 26, sales 1 ($0). Pinterest 10 (1 sale) / direct 1
 | 28 | 10/19 ~07:30 | body | no | 10 (at ~1d, 10/21 06:11) | 0 | 0 | |
 | 29 | 10/20 ~08:15 | body | no | not shown (~0) at ~22h | 0 | 0 | |
 | 30 | 10/21 07:32 | self-reply | no | 5 (main) / 8 (link reply) at ~23h | 1 (self) | 0 | Step 1: up from ~0 on Day29 |
-| 32 | 10/23 07:07 | self-reply | **yes (IG grid screenshot, trains 92)** | | | | Step 2 of X test: add image |
+| 32 | 10/23 07:07 | self-reply | **yes (IG grid screenshot, trains 92)** | 3 (main) / 4 (reply) | 1 | 0 | Step 2 of X test: add image |
 | 31 | 10/22 ~07:15 | self-reply | no | 3 (main) / – (reply) at ~23h | 1 (self) | 0 | ended with a question; no replies |
 
 ## 2026-10-22 ~06:50 snapshot (Metricool, cumulative): views / reach / saves / avg watch / 3s+ rate
@@ -89,3 +89,11 @@ note 28 days (9/26–10/23 05:41): imp 2,068 / PV 180 / likes 53 / comments 5 / 
 Gumroad (to 10/23): views 26, sales 1 ($0) — unchanged. Pinterest 10 / direct 12 / Facebook 2 / l.instagram.com 1 / m.facebook 1. US 10, Japan 9.
 Pin "20 Things" re-posted 21:25 10/22 → PUBLISHED.
 Instagram dashboard 10/23 21:04: 30-day views 416 (was 262 on 10/22 morning). Posts 12, followers 0.
+
+## 2026-10-24 ~06:50 snapshot
+IG app grid: tax-free (10/23 21:04, ~10h) 96 views / trains (10/22) 114 / 20-things image post (10/23 12:00) no view count shown. IG 30-day views 416.
+Metricool 07:00: trains 114 views / 101 reach / avg 4.16s / 3s+ 22.8% (best so far) · tax-free (~10h) 27 / 3.34s / 12.5% (Metricool lags; app 96).
+Same age (~10h, app): trains 92 → tax-free 96. Both new-format reels ≈ 2x old best (konbini 55 total).
+note Day32 (10/23): 61 imp at ~22h, PV 6, likes 5 (above Day31 40). 28 days: imp 2,235 / PV 190 / likes 59 / comments 6 / followers +14. Day30 now 138.
+X Day32 (with image): main 3 views, reply 4 (~23h). Image didn't help yet. 1 reply on main post. An older post shows 150 views.
+Gumroad: views 26, sales 1 ($0) — unchanged.
