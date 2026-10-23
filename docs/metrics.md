@@ -88,3 +88,4 @@ Same-age compare (Metricool ~10h): konbini 22 → trains 41 (≈2x). App shows 9
 note 28 days (9/26–10/23 05:41): imp 2,068 / PV 180 / likes 53 / comments 5 / followers +13. Day30 now 77 imp / 11 PV / 5 likes.
 Gumroad (to 10/23): views 26, sales 1 ($0) — unchanged. Pinterest 10 / direct 12 / Facebook 2 / l.instagram.com 1 / m.facebook 1. US 10, Japan 9.
 Pin "20 Things" re-posted 21:25 10/22 → PUBLISHED.
+Instagram dashboard 10/23 21:04: 30-day views 416 (was 262 on 10/22 morning). Posts 12, followers 0.
