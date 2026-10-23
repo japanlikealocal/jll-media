@@ -45,3 +45,6 @@ From Zero's screenshot of the profile, 2026-10-18 07:10 (newest first, as shown)
 - 2026-10-24: Lost in a Big Station (pin-big-station.png) → free — scheduled 17:00
 - 2026-10-24: What's Inside the 21-Page Guide (pin-guide-inside.png) → PAID — scheduled 20:00
 - (From 10/22 pins use photo-header style: tools/build_photo_pins.py, Pexels photos.)
+- 2026-10-25: Kanji Signs You'll See (pin-kanji-signs.png) → free — scheduled 12:00
+- 2026-10-25: Shrine or Temple? How to Tell (pin-shrine-or-temple.png) → free — scheduled 17:00
+- 2026-10-25: Tax-Free 5 Mistakes (pin-taxfree-mistakes.png) → PAID — scheduled 20:00
