@@ -8,6 +8,9 @@ Claude reads this before making every reel. Add a line to "Learnings" after each
 - No overgeneralizing: use "often / many / may", and end with a "rules vary" line.
 - Facts that change (prices, rules, card sales, hours) must be checked against an official source before posting.
 
+## Cover colors (Zero 10/24: "3つ同じ色だと前みたくなる")
+- Rotate accent color per reel: red → blue → green → purple (tools/build_cover.py ACCENTS, accent=...). Tag box + highlighted word + logo dot use the accent. Never 2 neighbors in the grid with the same accent. Log the accent used in handoff.
+
 ## Reel format v3 (Zero via Perplexity, 10/22 07:28 — study of popular foreign-facing Japan travel reels; replaces "background image on every slide")
 - 15–30 s. First 1–3 s shows the actual place (torii/chozuya, konbini shelves, onsen steam…), never a plain card.
 - Cut about every 3 s (title cut → detail cut per tip); never hold one screen long.
