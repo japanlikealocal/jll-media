@@ -10,6 +10,7 @@ Claude reads this before making every reel. Add a line to "Learnings" after each
 
 ## Cover colors (Zero 10/24: "3つ同じ色だと前みたくなる")
 - Rotate accent color per reel: red → blue → green → purple (tools/build_cover.py ACCENTS, accent=...). Tag box + highlighted word + logo dot use the accent. Never 2 neighbors in the grid with the same accent. Log the accent used in handoff.
+- Zero 10/24 (grid screenshot): two dark-photo reels side by side (tax-free & trains, both yellow tag + red word) look the same; the infographic between them saved it. Rule: alternate post TYPES in the grid (photo reel → bright image post [cheat sheet / VS comparison] → photo reel), and alternate photo brightness (dark ↔ bright photo). Never two dark-photo reels with the same accent next to each other.
 
 ## Reel format v3 (Zero via Perplexity, 10/22 07:28 — study of popular foreign-facing Japan travel reels; replaces "background image on every slide")
 - 15–30 s. First 1–3 s shows the actual place (torii/chozuya, konbini shelves, onsen steam…), never a plain card.
