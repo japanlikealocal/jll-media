@@ -11,7 +11,7 @@ PINS=[
    ('改札','Ticket gates'),
    ('お手洗い・トイレ','Restroom'),
    ('男 / 女','Men / Women'),
-   ('押 / 引','Push / Pull')],'Most big stations also show English. Save this for when they don’t.',FREE),
+   ('押 / 引','Push / Pull')],'Big stations often show English too.',FREE),
  ('pin-shrine-or-temple','px-31193736.jpg','center 55%','SHRINE OR TEMPLE?','How to tell them apart',[
    ('Torii gate?','A torii usually means a Shinto shrine.'),
    ('Incense smoke?','Common at Buddhist temples.'),
