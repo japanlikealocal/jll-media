@@ -64,7 +64,7 @@ Gumroad (9/21–10/21): views 26, sales 1 ($0). Pinterest 10 (1 sale) / direct 1
 | 28 | 10/19 ~07:30 | body | no | 10 (at ~1d, 10/21 06:11) | 0 | 0 | |
 | 29 | 10/20 ~08:15 | body | no | not shown (~0) at ~22h | 0 | 0 | |
 | 30 | 10/21 07:32 | self-reply | no | 5 (main) / 8 (link reply) at ~23h | 1 (self) | 0 | Step 1: up from ~0 on Day29 |
-| 33 | 10/24 ~07:07 | self-reply | no | | | | Step 3: first line = result+number, N日目 at end |
+| 33 | 10/24 ~07:07 | self-reply | no | 3 (main) at ~23h | 1 (self) | 0 | Step 3: first line = result+number → no change |
 | 32 | 10/23 07:07 | self-reply | **yes (IG grid screenshot, trains 92)** | 3 (main) / 4 (reply) | 1 | 0 | Step 2 of X test: add image |
 | 31 | 10/22 ~07:15 | self-reply | no | 3 (main) / – (reply) at ~23h | 1 (self) | 0 | ended with a question; no replies |
 
@@ -98,3 +98,9 @@ Same age (~10h, app): trains 92 → tax-free 96. Both new-format reels ≈ 2x ol
 note Day32 (10/23): 61 imp at ~22h, PV 6, likes 5 (above Day31 40). 28 days: imp 2,235 / PV 190 / likes 59 / comments 6 / followers +14. Day30 now 138.
 X Day32 (with image): main 3 views, reply 4 (~23h). Image didn't help yet. 1 reply on main post. An older post shows 150 views.
 Gumroad: views 26, sales 1 ($0) — unchanged.
+
+## 2026-10-25 ~06:55 snapshot
+IG app grid: **food (10/24 21:06, ~10h) 109 views** / tax-free 119 / trains 114 / Japan vs USA & 20-things image posts: no view count shown. Same age (~10h): trains 92 → tax-free 96 → food 109 (photo was too dark, still the best start).
+note 28 days (9/28–10/25 05:42): imp 2,272 / PV 192 / likes 62 / comments 5 / followers +16. Day33 (10/24) 46 imp at ~22h, PV 7, likes 5. Day32 now 69. Day30 now 159. Sources: note.com 62.5% / no referrer 29.7% / notification 4.7% / X 2.1% (4PV) / Google 1%.
+X Day33 (step 3: first line = result + number): main 3 views, 1 reply (self) at ~23h → no change from steps 1–2. X brings 2% of note PV.
+Gumroad: views 26, sales 1 ($0, the old free download) — unchanged. Pinterest 10 / direct 12 / Facebook 2 / l.instagram.com 1.
