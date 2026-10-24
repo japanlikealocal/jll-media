@@ -50,7 +50,7 @@
 - 後回し：インスタ「絵文字をコメントしたら無料ガイドを送る」作戦（10/23 参考リールより）。自動DMにManyChat等が必要。
 - 見送り：Claude Code×Codex連携（ChatGPT課金が必要、今の作業は足りている）。
 - 10/24（土）の挑戦（ゼロ「できるだけ全部やりたい」）：
-  - 今夜21時 食べ物リール reels/2026-10-24-food-reel-v1-silent.mp4（**青**の回・明るいラーメン写真から、別Claudeチェック済み）、キャプション reels/2026-10-24-food-caption.txt。ゼロがアプリで曲（前の2回と違う曲）＋場所 Tokyo, Japan、AIラベルOFF。
+  - 今夜21時 食べ物リール（18:30 インスタの下書きに保存済み、曲 So Happy Today、場所 Tokyo, Japan、AIラベルOFF） reels/2026-10-24-food-reel-v1-silent.mp4（**青**の回・明るいラーメン写真から、別Claudeチェック済み）、キャプション reels/2026-10-24-food-caption.txt。ゼロがアプリで曲（前の2回と違う曲）＋場所 Tokyo, Japan、AIラベルOFF。
   - Japan vs UK（assets/compare-japan-uk.png）をIG普通投稿で **10/26（月）12:00予約済み**。
   - Adobe：このチャットのAdobeでは生成AI・リールへの動き付けは不可（animate_designはExpressの文書のみ）。
   - 侍キャラ：Fireflyの無料枠でゼロに1枚作ってもらう（プロンプトは会話で渡した）。
