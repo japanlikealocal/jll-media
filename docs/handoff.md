@@ -91,5 +91,6 @@
 ## ゼロの個人的なやること（急ぎじゃない）
 - 自宅Wi-Fi：ルーター PR-S300NE（2008年製）が3週間で3回止まった。NTT東日本の故障窓口（0120-000-113 平日9〜17時、またはWeb113）に交換を相談。
 - MetricoolのiPhoneアプリの「Device settings」でSaveが押せなかった（通知設定は未完了、今は不要）。
+- **東京の無料展望7か所**（10/25、ゼロが見つけた日本語投稿の「型」だけ参考。写真・文章は自前）：assets/ig-free-tokyo-views-v2.png（ゼロOK「いい感じ」）、tools/build_free_views_v2.py、出典 docs/free-views-sources.md。インスタ画像投稿 10/27 12:00・ピン 10/27 17:00 をMetricoolで予約済み。
 - **コメント→DM作戦（10/25開始）**：侍×柴犬のキャプション最後に「💬 Comment JAPAN and I'll DM you my free 1-page Japan Quick Start!」。コメントが来たらゼロが手動でDM（文面は下）。まず手動（10/25 ゼロ了承）。1件でも来たらManyChatの設定を1操作ずつ案内する。
   DM文面：Hi! Thanks for your comment 😊 Here's your free 1-page Japan Quick Start: https://zeroailog.gumroad.com/l/japan-quick-start  Have a great trip to Japan! 🇯🇵
