@@ -132,3 +132,8 @@ Claude reads this before making every reel. Add a line to "Learnings" after each
 - 2026-10-17: Text-only reels felt plain to Zero; silence felt odd → added photos + BGM starting with trains reel.
 - 2026-10-17: BGM-embedded mp4 via Metricool → Instagram plays sound (confirmed by Zero on toilets reel).
 - 2026-10-17: Several small mistakes (missing alt text, wrong weekday, wrong count, wrong numbers) → added pre-send checklist.
+
+## 写真を暗くしすぎない（10/24 ゼロ「ラーメンが暗くて見づらかった」）
+- 写真全体に黒いグラデーションをかけない。暗くするのは文字の後ろだけ（文字の下に白か半透明の帯を敷く方法でもOK）。
+- 主役（料理・景色）が写る場所には影を乗せない。もとの写真が暗い時は明るさを少し上げる。
+- 書き出したら、主役がはっきり見えるかをスマホの大きさで確認してから渡す。
