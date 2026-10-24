@@ -91,3 +91,5 @@
 ## ゼロの個人的なやること（急ぎじゃない）
 - 自宅Wi-Fi：ルーター PR-S300NE（2008年製）が3週間で3回止まった。NTT東日本の故障窓口（0120-000-113 平日9〜17時、またはWeb113）に交換を相談。
 - MetricoolのiPhoneアプリの「Device settings」でSaveが押せなかった（通知設定は未完了、今は不要）。
+- **コメント→DM作戦（10/25開始）**：侍×柴犬のキャプション最後に「💬 Comment JAPAN and I'll DM you my free 1-page Japan Quick Start!」。コメントが来たらゼロが手動でDM（文面は下）。件数が増えたらManyChat検討。
+  DM文面：Hi! Thanks for your comment 😊 Here's your free 1-page Japan Quick Start: https://zeroailog.gumroad.com/l/japan-quick-start  Have a great trip to Japan! 🇯🇵
