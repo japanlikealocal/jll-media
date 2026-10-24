@@ -50,11 +50,16 @@
 - 後回し：インスタ「絵文字をコメントしたら無料ガイドを送る」作戦（10/23 参考リールより）。自動DMにManyChat等が必要。
 - 見送り：Claude Code×Codex連携（ChatGPT課金が必要、今の作業は足りている）。
 - 10/24（土）の挑戦（ゼロ「できるだけ全部やりたい」）：
+  - **10/24 21:06 食べ物リール ゼロが下書きから手動投稿済み**（曲 So Happy Today 確認。投稿後に出る「Meta認証」は有料の宣伝なので押さない）。
   - 今夜21時 食べ物リール（18:30 インスタの下書きに保存済み、曲 So Happy Today、場所 Tokyo, Japan、AIラベルOFF） reels/2026-10-24-food-reel-v1-silent.mp4（**青**の回・明るいラーメン写真から、別Claudeチェック済み）、キャプション reels/2026-10-24-food-caption.txt。ゼロがアプリで曲（前の2回と違う曲）＋場所 Tokyo, Japan、AIラベルOFF。
   - Japan vs UK（assets/compare-japan-uk.png）をIG普通投稿で **10/26（月）12:00予約済み**。
   - Adobe：このチャットのAdobeでは生成AI・リールへの動き付けは不可（animate_designはExpressの文書のみ）。
   - 侍キャラ：Fireflyの無料枠でゼロに1枚作ってもらう（プロンプトは会話で渡した）。
 - 次のリールの色：赤→**青（10/24）**→緑→紫。
+- **侍×柴犬シリーズ（10/24夜スタート）**：役割固定＝監督・構成・動画編集Claude／絵ChatGPT／分析とChatGPT向け指示文Perplexity。キャラ説明 docs/samurai-character.md、柴犬プロンプト docs/shiba-prompts.md。素材 assets/samurai/・assets/shiba/・assets/ep1/（背景＋位置合わせ済みの差分）、背景除去は rembg（isnet-anime）。
+  - 方針：犬を叩かない（ハリセンは帽子のつばの端だけ、片手で軽く、帽子がポン）。背景はキャラと同じイラスト調。既存キャラに似せない（商用なので）。お辞儀は手をももの前（手を合わせない）。
+  - 1話「お店の入口をふさがない」：v2 reels/2026-10-25-samurai-ep1-sitting-v2-silent.mp4（約14秒、紫）、tools/build_samurai_ep1_v2.py。v1（写真背景）は違和感でボツ。**ゼロの確認待ち**→OKなら投稿日を決める。キャプション reels/2026-10-25-samurai-ep1-caption.txt（v2の文言に合わせて直す）。
+  - 2話以降のネタ：電車で電話、ゴミ、混んだ電車のリュック、列。
 - 後回し：英語の記事（例：成田から東京への行き方）でGoogle検索から呼ぶ案（チャピー10/16）。載せる英語サイトがないので保留。
 
 ## 毎日の流れ
