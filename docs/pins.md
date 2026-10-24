@@ -48,3 +48,6 @@ From Zero's screenshot of the profile, 2026-10-18 07:10 (newest first, as shown)
 - 2026-10-25: Kanji Signs You'll See (pin-kanji-signs.png) → free — scheduled 12:00
 - 2026-10-25: Shrine or Temple? How to Tell (pin-shrine-or-temple.png) → free — scheduled 17:00
 - 2026-10-25: Tax-Free 5 Mistakes (pin-taxfree-mistakes.png) → PAID — scheduled 20:00
+- 2026-10-26: Don't Block the Door: 5 Street Habits (pin-street-manners.png) → free — scheduled 12:00
+- 2026-10-26: Japan vs UK (compare-japan-uk.png) → free — scheduled 17:00 (IG post same day 12:00)
+- 2026-10-26: The Golden Rule Behind Japanese Manners (pin-golden-rule.png) → PAID — scheduled 20:00
