@@ -58,7 +58,8 @@
 - 次のリールの色：赤→**青（10/24）**→緑→紫。
 - **侍×柴犬シリーズ（10/24夜スタート）**：役割固定＝監督・構成・動画編集Claude／絵ChatGPT／分析とChatGPT向け指示文Perplexity。キャラ説明 docs/samurai-character.md、柴犬プロンプト docs/shiba-prompts.md。素材 assets/samurai/・assets/shiba/・assets/ep1/（背景＋位置合わせ済みの差分）、背景除去は rembg（isnet-anime）。
   - 方針：犬を叩かない（ハリセンは帽子のつばの端だけ、片手で軽く、帽子がポン）。背景はキャラと同じイラスト調。既存キャラに似せない（商用なので）。お辞儀は手をももの前（手を合わせない）。
-  - 1話「お店の入口をふさがない」：v2 reels/2026-10-25-samurai-ep1-sitting-v2-silent.mp4（約14秒、紫）、tools/build_samurai_ep1_v2.py。v1（写真背景）は違和感でボツ。**ゼロの確認待ち**→OKなら投稿日を決める。キャプション reels/2026-10-25-samurai-ep1-caption.txt（v2の文言に合わせて直す）。
+  - 1話「お店の入口をふさがない」：**v3でゼロOK（10/24 21:36「まずまず、もっと攻めないと満足できないけどOK」）** reels/2026-10-25-samurai-ep1-sitting-v3-silent.mp4（約10秒、大人ノリ＝POVミーム・吹き出し「Bro.」「That's the door.」、帽子にBACHIN!＋柴犬の目🌀）、tools/build_samurai_ep1_v3.py、キャプション reels/2026-10-25-samurai-ep1-caption.txt。v1（写真背景）・v2（先生口調で子供っぽい）はボツ。投稿日は10/25 21時を提案中。
+  - **2話目以降はもっと攻める**（ゼロ）：ボケを大きく、2段オチ、効果音と間。子供向けに見えないよう、説明は最後の1行だけ。
   - 2話以降のネタ：電車で電話、ゴミ、混んだ電車のリュック、列。
 - 後回し：英語の記事（例：成田から東京への行き方）でGoogle検索から呼ぶ案（チャピー10/16）。載せる英語サイトがないので保留。
 
