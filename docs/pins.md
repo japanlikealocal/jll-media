@@ -52,3 +52,4 @@ From Zero's screenshot of the profile, 2026-10-18 07:10 (newest first, as shown)
 - 2026-10-26: Japan vs UK (compare-japan-uk.png) → free — scheduled 17:00 (IG post same day 12:00)
 - 2026-10-26: The Golden Rule Behind Japanese Manners (pin-golden-rule.png) → PAID — scheduled 20:00
 - 2026-10-27: 7 FREE Tokyo Views (pin-free-tokyo-views-v2.png) → free — scheduled 17:00 (IG image post same day 12:00, Metricool auto)
+- 2026-10-28: Tokyo Winter Illuminations 2026–27 (pin-tokyo-illuminations.png) → free — scheduled 17:00 (IG image post 12:00, AI label ON)
