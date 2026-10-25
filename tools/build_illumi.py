@@ -32,15 +32,15 @@ h1 em{{font-style:normal;color:#FFD43B;display:block}}
 .bub{{position:absolute;right:SAMR;top:26px;z-index:3;background:#fff;color:#0A1440;font-weight:800;font-size:22px;padding:10px 16px;border-radius:18px;border:3px solid #0A1440}}
 .grid{{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;padding:8px 22px 0}}
 .c{{background:#fff;border-radius:12px;overflow:hidden;color:#0A1440;position:relative;height:CH}}
-.ph{{height:PH;background-size:cover;background-position:center;position:relative}}
-.n{{position:absolute;left:7px;top:7px;width:32px;height:32px;border-radius:50%;background:#E5383B;border:3px solid #fff;color:#fff;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:17px}}
-.b{{position:absolute;right:6px;bottom:6px;font-weight:800;font-size:16px;padding:4px 9px;border-radius:7px;background:#FFD43B;color:#0A1440}}
+.ph{{position:absolute;inset:0;background-size:cover;background-position:center}}
+.n{{z-index:2;position:absolute;left:7px;top:7px;width:32px;height:32px;border-radius:50%;background:#E5383B;border:3px solid #fff;color:#fff;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:17px}}
+.b{{z-index:2;position:absolute;right:7px;top:8px;font-weight:800;font-size:16px;padding:4px 9px;border-radius:7px;background:#FFD43B;color:#0A1440}}
 .b.p{{background:#E5383B;color:#fff}}
-.tx{{padding:6px 9px 0;line-height:1.15}}
-.nm{{font-weight:800;font-size:19px;letter-spacing:-.3px}}
-.ar{{font-weight:700;font-size:14px;color:#5A6A8F}}
-.dt{{font-weight:800;font-size:16px;color:#1F57B8;margin-top:3px}}
-.ex{{font-weight:700;font-size:14px}}
+.tx{{position:absolute;left:0;right:0;bottom:0;padding:26px 9px 7px;line-height:1.12;color:#fff;background:linear-gradient(rgba(5,10,35,0),rgba(5,10,35,.82) 45%)}}
+.nm{{font-weight:800;font-size:17px;letter-spacing:-.3px}}
+.ar{{display:none}}
+.dt{{font-weight:800;font-size:14px;color:#FFD43B;margin-top:2px}}
+.ex{{font-weight:700;font-size:12px;opacity:.9}}
 .cta{{background:linear-gradient(160deg,#FF3B3B,#B81F1F);color:#fff;padding:14px;display:flex;flex-direction:column;justify-content:center;gap:8px;font-weight:800;font-size:25px;line-height:1.1}}
 .cta small{{font-weight:700;font-size:16px}}
 .ft{{position:absolute;left:22px;right:22px;bottom:12px;display:flex;justify-content:space-between;align-items:center;font-weight:700;font-size:13px;color:#AFC0E6;gap:12px}}
@@ -48,7 +48,7 @@ h1 em{{font-style:normal;color:#FFD43B;display:block}}
 .jp b{{width:32px;height:32px;border-radius:50%;background:#E5383B;display:flex;align-items:center;justify-content:center;font-size:14px}}
 '''
 def page(Wd,Hd,v):
-    cards=''.join(f'<div class=c><div class=ph style="background-image:url({(A/(p+".jpg")).as_uri()})"><span class=n>{i+1}</span><span class="b{" p" if paid else ""}">{"PAID" if paid else "FREE"}</span></div><div class=tx><div class=nm>{nm}</div><div class=ar>{ar}</div><div class=dt>{dt}</div><div class=ex>{ex}</div></div></div>' for i,(p,nm,ar,dt,ex,paid) in enumerate(SPOTS))
+    cards=''.join(f'<div class=c><div class=ph style="background-image:url({(A/(p+".jpg")).as_uri()})"></div><span class=n>{i+1}</span><span class="b{" p" if paid else ""}">{"PAID" if paid else "FREE"}</span><div class=tx><div class=nm>{nm}</div><div class=ar>{ar}</div><div class=dt>{dt}</div><div class=ex>{ex}</div></div></div>' for i,(p,nm,ar,dt,ex,paid) in enumerate(SPOTS))
     cards+='<div class="c cta">💬 Comment JAPAN<small>Get my free 1-page Japan guide in your DMs</small></div>'
     css=CSS
     for k,val in v.items(): css=css.replace(k,val)
