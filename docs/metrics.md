@@ -125,3 +125,4 @@ IG app grid: **samurai ep1 (10/25 21:15, ~9.5h, AI label ON) 31 views** / food 1
 note 28 days (9/29–10/26 05:42): imp 2,292 / PV 194 / likes 67 / comments 4. Day34 (10/25) 34 imp, **12 PV (best since Day30)**, 6 likes. Day33 now 51, Day32 82, Day30 174. Sources: note.com 63.4% / no referrer 28.4% / notification 5.2% / X 2.1% / Google 1%.
 X Day34: main 4 views, 1 reply (self) at ~22h.
 Gumroad (9/26–10/26): views 26, sales 1 ($0) — unchanged.
+IG professional dashboard (30 days to 10/24, Zero's screenshots 10/26 07:06): views 644 (+100%) / viewers 603 / followers 0 / interactions 3 (all reels) / profile visits 2 / bio link taps 0. **Views by type: reels 643, image posts 1.** Per-post: Japan vs USA (image, 10/24 12:00 via Metricool) 0 views, 20 Things (image, 10/23) 0 views. → Image posts get no reach with 0 followers; convert planned image posts to reels.
