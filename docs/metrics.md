@@ -105,3 +105,16 @@ IG app grid: **food (10/24 21:06, ~10h) 109 views** / tax-free 119 / trains 114 
 note 28 days (9/28–10/25 05:42): imp 2,272 / PV 192 / likes 62 / comments 5 / followers +16. Day33 (10/24) 46 imp at ~22h, PV 7, likes 5. Day32 now 69. Day30 now 159. Sources: note.com 62.5% / no referrer 29.7% / notification 4.7% / X 2.1% (4PV) / Google 1%.
 X Day33 (step 3: first line = result + number): main 3 views, 1 reply (self) at ~23h → no change from steps 1–2. X brings 2% of note PV.
 Gumroad: views 26, sales 1 ($0, the old free download) — unchanged. Pinterest 10 / direct 12 / Facebook 2 / l.instagram.com 1.
+
+## Weekly review 2026-10-25 17:50 (Metricool reels, posted 10/13–10/24)
+| Reel | Views | Reach | Avg watch | 3s+ rate | Likes | Saves | Shares | Comments |
+|---|---|---|---|---|---|---|---|---|
+| 10/24 food (dark photo) | 87 | 83 | 2.0s | 4.8% | 0 | 0 | 0 | 0 |
+| 10/23 tax-free | 119 | 106 | 3.9s | 15.0% | 1 | 0 | 0 | 0 |
+| 10/22 trains | 114 | 101 | 4.2s | 22.8% | 0 | 0 | 0 | 0 |
+| 10/21 shrines | 27 | 27 | 4.5s | 3.7% | 0 | 0 | 0 | 0 |
+| 10/20 konbini | 55 | 55 | 1.6s | 3.6% | 0 | 0 | 0 | 0 |
+| 10/19 taxi | 36 | 35 | 1.6s | 0% | 0 | 0 | 0 | 0 |
+| 10/18 luggage | 35 | 32 | 2.7s | 12.5% | 0 | 0 | 0 | 0 |
+| 10/17 toilets | 50 | 47 | 3.3s | 14.9% | 0 | 0 | 0 | 0 |
+Takeaways: new format ≈ 2.6x views (avg 107 vs 41). But actions ≈ 0 (1 like, 1 save in 2 weeks), followers 0, link taps 0. Food reel had the worst 3s rate of the new format (4.8%) → dark first frame / text-heavy start loses people. Plan: (1) comment JAPAN CTA from 10/25, (2) bright, photo-led first frame, (3) more save-worthy list posts (free views 10/27). Next review: Sun 11/1.
