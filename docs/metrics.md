@@ -64,7 +64,7 @@ Gumroad (9/21–10/21): views 26, sales 1 ($0). Pinterest 10 (1 sale) / direct 1
 | 28 | 10/19 ~07:30 | body | no | 10 (at ~1d, 10/21 06:11) | 0 | 0 | |
 | 29 | 10/20 ~08:15 | body | no | not shown (~0) at ~22h | 0 | 0 | |
 | 30 | 10/21 07:32 | self-reply | no | 5 (main) / 8 (link reply) at ~23h | 1 (self) | 0 | Step 1: up from ~0 on Day29 |
-| 34 | 10/25 ~07:20 | self-reply | no | | | | 侍×柴犬の話・「子供向けだよね」 |
+| 34 | 10/25 ~07:20 | self-reply | no | 4 (main) at ~22h | 1 (self) | 0 | 侍×柴犬の話・「子供向けだよね」 |
 | 33 | 10/24 ~07:07 | self-reply | no | 3 (main) at ~23h | 1 (self) | 0 | Step 3: first line = result+number → no change |
 | 32 | 10/23 07:07 | self-reply | **yes (IG grid screenshot, trains 92)** | 3 (main) / 4 (reply) | 1 | 0 | Step 2 of X test: add image |
 | 31 | 10/22 ~07:15 | self-reply | no | 3 (main) / – (reply) at ~23h | 1 (self) | 0 | ended with a question; no replies |
@@ -118,3 +118,9 @@ Gumroad: views 26, sales 1 ($0, the old free download) — unchanged. Pinterest 
 | 10/18 luggage | 35 | 32 | 2.7s | 12.5% | 0 | 0 | 0 | 0 |
 | 10/17 toilets | 50 | 47 | 3.3s | 14.9% | 0 | 0 | 0 | 0 |
 Takeaways: new format ≈ 2.6x views (avg 107 vs 41). But actions ≈ 0 (1 like, 1 save in 2 weeks), followers 0, link taps 0. Food reel had the worst 3s rate of the new format (4.8%) → dark first frame / text-heavy start loses people. Plan: (1) comment JAPAN CTA from 10/25, (2) bright, photo-led first frame, (3) more save-worthy list posts (free views 10/27). Next review: Sun 11/1.
+
+## 2026-10-26 ~06:50 snapshot
+IG app grid: **samurai ep1 (10/25 21:15, ~9.5h, AI label ON) 31 views** / food 110 / tax-free 119 / trains 114. Samurai ep1 got 2 likes (mo_monin, goodllgo) in 9h — first likes on a reel from strangers; food got 1 like (footmonkey_yuta). Views ≈ 1/3 of photo reels at same age, but likes higher.
+note 28 days (9/29–10/26 05:42): imp 2,292 / PV 194 / likes 67 / comments 4. Day34 (10/25) 34 imp, **12 PV (best since Day30)**, 6 likes. Day33 now 51, Day32 82, Day30 174. Sources: note.com 63.4% / no referrer 28.4% / notification 5.2% / X 2.1% / Google 1%.
+X Day34: main 4 views, 1 reply (self) at ~22h.
+Gumroad (9/26–10/26): views 26, sales 1 ($0) — unchanged.
