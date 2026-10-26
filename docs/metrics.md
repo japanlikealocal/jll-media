@@ -126,3 +126,7 @@ note 28 days (9/29–10/26 05:42): imp 2,292 / PV 194 / likes 67 / comments 4. D
 X Day34: main 4 views, 1 reply (self) at ~22h.
 Gumroad (9/26–10/26): views 26, sales 1 ($0) — unchanged.
 IG professional dashboard (30 days to 10/24, Zero's screenshots 10/26 07:06): views 644 (+100%) / viewers 603 / followers 0 / interactions 3 (all reels) / profile visits 2 / bio link taps 0. **Views by type: reels 643, image posts 1.** Per-post: Japan vs USA (image, 10/24 12:00 via Metricool) 0 views, 20 Things (image, 10/23) 0 views. → Image posts get no reach with 0 followers; convert planned image posts to reels.
+
+## 2026-10-26 21:24 (IG grid)
+**Japan vs UK as 10s image-reel (Metricool auto, no song, 12:00): 169 views at ~9.5h — best ever.** Same image style as Japan vs USA image post (0 views). → image→reel conversion confirmed.
+Samurai ep1 (~24h): 121 views (was 31 at 9.5h). Samurai ep2 posted 21:24.
