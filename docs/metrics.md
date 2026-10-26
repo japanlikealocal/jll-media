@@ -64,7 +64,7 @@ Gumroad (9/21–10/21): views 26, sales 1 ($0). Pinterest 10 (1 sale) / direct 1
 | 28 | 10/19 ~07:30 | body | no | 10 (at ~1d, 10/21 06:11) | 0 | 0 | |
 | 29 | 10/20 ~08:15 | body | no | not shown (~0) at ~22h | 0 | 0 | |
 | 30 | 10/21 07:32 | self-reply | no | 5 (main) / 8 (link reply) at ~23h | 1 (self) | 0 | Step 1: up from ~0 on Day29 |
-| 35 | 10/26 ~07:03 | self-reply | no | | | | 侍×柴犬1話「いいね」2つ |
+| 35 | 10/26 ~07:03 | self-reply | no | 4 (reply) at ~23h | 0 | 0 | 侍×柴犬1話「いいね」2つ |
 | 34 | 10/25 ~07:20 | self-reply | no | 4 (main) at ~22h | 1 (self) | 0 | 侍×柴犬の話・「子供向けだよね」 |
 | 33 | 10/24 ~07:07 | self-reply | no | 3 (main) at ~23h | 1 (self) | 0 | Step 3: first line = result+number → no change |
 | 32 | 10/23 07:07 | self-reply | **yes (IG grid screenshot, trains 92)** | 3 (main) / 4 (reply) | 1 | 0 | Step 2 of X test: add image |
@@ -130,3 +130,10 @@ IG professional dashboard (30 days to 10/24, Zero's screenshots 10/26 07:06): vi
 ## 2026-10-26 21:24 (IG grid)
 **Japan vs UK as 10s image-reel (Metricool auto, no song, 12:00): 169 views at ~9.5h — best ever.** Same image style as Japan vs USA image post (0 views). → image→reel conversion confirmed.
 Samurai ep1 (~24h): 121 views (was 31 at 9.5h). Samurai ep2 posted 21:24.
+
+## 2026-10-27 ~06:25 snapshot
+IG app: samurai ep2 onsen (10/26 21:24, ~9h) 34 views, 0 likes / Japan vs UK image-reel (18h) 169 — no growth since 21:24 (plateau) / samurai ep1 (1d) 121, 2 likes / food 110 / tax-free 119 / trains 114.
+IG dashboard 30 days (to 10/25): views 862 (was 644) / viewers 769 / reels 861, posts 1 / followers 0.
+note 28 days (9/30–10/27 05:42): imp 2,237 / PV 177 / likes 65 / comments 2 / followers +14. Day35 (10/26) 44 imp, 2 PV, 2 likes (weak; Day34 35/12/6). Sources: note.com 62.7% / no referrer 29.4% / notification 5.6% / Google 1.1%; X 0 this window.
+X Day35: link reply 4 imp, 0 engagement.
+Gumroad (9/27–10/27): views 26, sales 1 ($0) — unchanged.
