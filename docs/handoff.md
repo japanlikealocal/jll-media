@@ -94,5 +94,6 @@
 - **東京の無料展望7か所**（10/25、ゼロが見つけた日本語投稿の「型」だけ参考。写真・文章は自前）：assets/ig-free-tokyo-views-v2.png（ゼロOK「いい感じ」）、tools/build_free_views_v2.py、出典 docs/free-views-sources.md。インスタ画像投稿 10/27 12:00・ピン 10/27 17:00 をMetricoolで予約済み。
 - **東京の冬イルミ11か所**（10/25、tokyo_hacklifeの型＝AI水彩イラスト＋保存版一覧）：ChatGPTの12コマ画像を切り分け、assets/ig-tokyo-illuminations.png（写真主役版でゼロOK）、tools/build_illumi.py、出典 docs/illumi-sources.md。インスタ 10/28 12:00（AIラベルON）・ピン 17:00 予約済み。次の候補：東京のお土産。
 - **10/26：画像投稿→リールに変更**：日本vsイギリス（10/26 12:00）、無料展望（10/27 12:00）、イルミ（10/28 12:00）のインスタを10秒リール（reels/2026-10-2[678]-*-reel.mp4）に差し替え済み（Metricool自動、曲なし）。理由：画像投稿は30日で閲覧1。
+- **Etsy出品（10/27朝 準備済み・ゼロOK、今夜やる）**：docs/etsy-listing.md（タイトル・説明・タグ13・手順の前提）、画像 assets/etsy/etsy-1〜5.jpg。開設料（登録画面で表示、15〜30ドル程度の報告）もゼロ了承済み。夜、Etsyアプリ→アカウント作成から1操作ずつ案内。
 - **コメント→DM作戦（10/25開始）**：侍×柴犬のキャプション最後に「💬 Comment JAPAN and I'll DM you my free 1-page Japan Quick Start!」。コメントが来たらゼロが手動でDM（文面は下）。まず手動（10/25 ゼロ了承）。1件でも来たらManyChatの設定を1操作ずつ案内する。
   DM文面：Hi! Thanks for your comment 😊 Here's your free 1-page Japan Quick Start: https://zeroailog.gumroad.com/l/japan-quick-start  Have a great trip to Japan! 🇯🇵
