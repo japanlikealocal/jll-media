@@ -47,3 +47,7 @@ GOOD TO KNOW
 • Because this is a digital file, returns and exchanges are not accepted. If you have a problem with the file, message me and I'll help.
 
 Have a great trip! — Japan Like a Local
+
+
+## ON HOLD (2026-10-27)
+Etsy's Oct 22, 2026 AI update requires functional guides (recipes, patterns, instructions) to be the seller's own work, not AI-generated. This guide was drafted with AI → risk of removal. Do not list unless the rules are clarified or the guide is substantially rewritten by Zero.
