@@ -64,6 +64,7 @@ Gumroad (9/21–10/21): views 26, sales 1 ($0). Pinterest 10 (1 sale) / direct 1
 | 28 | 10/19 ~07:30 | body | no | 10 (at ~1d, 10/21 06:11) | 0 | 0 | |
 | 29 | 10/20 ~08:15 | body | no | not shown (~0) at ~22h | 0 | 0 | |
 | 30 | 10/21 07:32 | self-reply | no | 5 (main) / 8 (link reply) at ~23h | 1 (self) | 0 | Step 1: up from ~0 on Day29 |
+| 37 | 10/28 ~07:10 | self-reply | no | | | | 曲あり187回・誤削除・Etsyショック |
 | 36 | 10/27 ~07:07 | self-reply | no | 4 (main) at ~23h | 1 (self) | 0 | 画像→リール 0→169 |
 | 35 | 10/26 ~07:03 | self-reply | no | 4 (reply) at ~23h | 0 | 0 | 侍×柴犬1話「いいね」2つ |
 | 34 | 10/25 ~07:20 | self-reply | no | 4 (main) at ~22h | 1 (self) | 0 | 侍×柴犬の話・「子供向けだよね」 |
