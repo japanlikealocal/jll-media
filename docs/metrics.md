@@ -64,7 +64,7 @@ Gumroad (9/21–10/21): views 26, sales 1 ($0). Pinterest 10 (1 sale) / direct 1
 | 28 | 10/19 ~07:30 | body | no | 10 (at ~1d, 10/21 06:11) | 0 | 0 | |
 | 29 | 10/20 ~08:15 | body | no | not shown (~0) at ~22h | 0 | 0 | |
 | 30 | 10/21 07:32 | self-reply | no | 5 (main) / 8 (link reply) at ~23h | 1 (self) | 0 | Step 1: up from ~0 on Day29 |
-| 36 | 10/27 ~07:07 | self-reply | no | | | | 画像→リール 0→169 |
+| 36 | 10/27 ~07:07 | self-reply | no | 4 (main) at ~23h | 1 (self) | 0 | 画像→リール 0→169 |
 | 35 | 10/26 ~07:03 | self-reply | no | 4 (reply) at ~23h | 0 | 0 | 侍×柴犬1話「いいね」2つ |
 | 34 | 10/25 ~07:20 | self-reply | no | 4 (main) at ~22h | 1 (self) | 0 | 侍×柴犬の話・「子供向けだよね」 |
 | 33 | 10/24 ~07:07 | self-reply | no | 3 (main) at ~23h | 1 (self) | 0 | Step 3: first line = result+number → no change |
@@ -139,3 +139,12 @@ note 28 days (9/30–10/27 05:42): imp 2,237 / PV 177 / likes 65 / comments 2 / 
 X Day35: link reply 4 imp, 0 engagement.
 Gumroad (9/27–10/27): views 26, sales 1 ($0) — unchanged.
 - 10/27 ~21:08: "20 things" 10s image-reel posted manually — song (It's Me / ILLIT) dropped from the draft, so it went out **without music**. Zero deleted it and re-posted ~21:16 **with song (It's Me / ILLIT)** → first image-reel WITH music; compare with UK (no song) 169.
+
+## 2026-10-28 ~06:55 snapshot
+IG content: **20 things (with song, ~10h) 187 — new best** / UK (no song, 1d) 169 / samurai ep2 onsen (1d) 131 (was 34 at 9h) / ep1 121 / food 110 / tax-free 119 / trains 114. Interactions 30d: 8 (reels). Profile visits 2, bio link taps 0.
+**Free views reel (Metricool 10/27 12:00, instagram.com/reel/De-2F5PlEj1, status PUBLISHED) is NOT in the grid or the content list** → asking Zero (deleted by mistake? hidden?).
+IG dashboard 30d (to 10/26): views 1,171 (was 862) / viewers 1,021 / reels 1,170 / followers 0.
+note 28d (10/1–10/28 05:37): imp 2,243 / PV 168 / likes 67 / comments 2. Day36 51 imp, 3 PV, 3 likes. Sources: note.com 59.5% / no referrer 32.7% / notification 6% / Google 1.2% / X 0.6%.
+X Day36: main 4 views, 1 reply (self).
+Gumroad (9/28–10/28): views 25, sales 1 ($0) — unchanged.
+Song test: with song 187 @10h vs without song 169 @18h → song helps a bit (small sample).
