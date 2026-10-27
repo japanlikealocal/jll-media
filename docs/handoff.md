@@ -95,5 +95,9 @@
 - **東京の冬イルミ11か所**（10/25、tokyo_hacklifeの型＝AI水彩イラスト＋保存版一覧）：ChatGPTの12コマ画像を切り分け、assets/ig-tokyo-illuminations.png（写真主役版でゼロOK）、tools/build_illumi.py、出典 docs/illumi-sources.md。インスタ 10/28 12:00（AIラベルON）・ピン 17:00 予約済み。次の候補：東京のお土産。
 - **10/26：画像投稿→リールに変更**：日本vsイギリス（10/26 12:00）、無料展望（10/27 12:00）、イルミ（10/28 12:00）のインスタを10秒リール（reels/2026-10-2[678]-*-reel.mp4）に差し替え済み（Metricool自動、曲なし）。理由：画像投稿は30日で閲覧1。
 - **Etsy出品は保留（10/27 22:40）**：Etsyが2026/10/22にAIルールを更新し、レシピ・型紙・手順書など「使うためのガイド」は本人の作品であることが必要に（AI生成は不可）。旅行ガイドはグレーで、Claudeが下書きしたPDFは削除・ショップ停止のリスク。ChatGPTの指摘をClaudeが確認して保留に同意。準備物（docs/etsy-listing.md、assets/etsy/）は残す。Gumroad＋Pinterest＋Instagramに集中。
+- **10/28 方針（ゼロ）**：「手間がかかってもいいから、まず収益を生み出す。そこから自動化」。今週の予定：10/28夜 整骨院、10/29 パーソナル、10/30(金) バーベキュー → 手動作業は最小限に。
+  - Gumroad値下げ $4.99→$2.99 は「やろう」（ゼロ）。時間がある時に5分で案内。JLL20クーポンとメール3の文面（$3.99表記）も合わせて直す必要あり。
+  - 有料向けピンを追加：10/29・10/30・10/31 20:00（温泉5ステップ・トイレのボタン・タクシーと荷物）。画像に値段は入れていない。
+  - 無料展望リールはゼロが誤って削除 → 10/29 18:00 Metricoolで再投稿予約（曲なし）。
 - **コメント→DM作戦（10/25開始）**：侍×柴犬のキャプション最後に「💬 Comment JAPAN and I'll DM you my free 1-page Japan Quick Start!」。コメントが来たらゼロが手動でDM（文面は下）。まず手動（10/25 ゼロ了承）。1件でも来たらManyChatの設定を1操作ずつ案内する。
   DM文面：Hi! Thanks for your comment 😊 Here's your free 1-page Japan Quick Start: https://zeroailog.gumroad.com/l/japan-quick-start  Have a great trip to Japan! 🇯🇵
