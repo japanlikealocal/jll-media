@@ -148,3 +148,6 @@ Claude reads this before making every reel. Add a line to "Learnings" after each
 - フォロワー0のうちは、画像投稿（POST）はほぼ誰にも届かない（30日で投稿の閲覧1、Japan vs USA・20 Thingsは0回）。リールは643。
 - 一覧画像を作ったら、tools/build_image_reels.py で10秒のリール（ぼかし背景＋ゆっくりズーム＋上に一言＋下に「Save it · Comment JAPAN」）にしてから出す。Metricoolの自動投稿（曲なし）でOK。
 - 週1回（日曜朝）、ゼロにインスタのプロフェッショナルダッシュボードのスクショ（ホーム／パフォーマンス2枚／コンテンツ）をもらう。
+
+## 下書きの曲は外れる（10/25・10/27で2回）
+- インスタの下書きに保存すると、付けた曲が外れることがある。**曲はシェアの直前に付ける**（下書き保存の時は付けなくていい）。

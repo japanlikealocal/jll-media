@@ -138,3 +138,4 @@ IG dashboard 30 days (to 10/25): views 862 (was 644) / viewers 769 / reels 861, 
 note 28 days (9/30–10/27 05:42): imp 2,237 / PV 177 / likes 65 / comments 2 / followers +14. Day35 (10/26) 44 imp, 2 PV, 2 likes (weak; Day34 35/12/6). Sources: note.com 62.7% / no referrer 29.4% / notification 5.6% / Google 1.1%; X 0 this window.
 X Day35: link reply 4 imp, 0 engagement.
 Gumroad (9/27–10/27): views 26, sales 1 ($0) — unchanged.
+- 10/27 ~21:08: "20 things" 10s image-reel posted manually — song (It's Me / ILLIT) dropped from the draft, so it went out **without music**. Treat as a 2nd no-song image-reel (compare with UK 169).
