@@ -64,7 +64,7 @@ Gumroad (9/21–10/21): views 26, sales 1 ($0). Pinterest 10 (1 sale) / direct 1
 | 28 | 10/19 ~07:30 | body | no | 10 (at ~1d, 10/21 06:11) | 0 | 0 | |
 | 29 | 10/20 ~08:15 | body | no | not shown (~0) at ~22h | 0 | 0 | |
 | 30 | 10/21 07:32 | self-reply | no | 5 (main) / 8 (link reply) at ~23h | 1 (self) | 0 | Step 1: up from ~0 on Day29 |
-| 37 | 10/28 ~07:10 | self-reply | no | | | | 曲あり187回・誤削除・Etsyショック |
+| 37 | 10/28 ~07:10 | self-reply | no | 7 (main) at ~23h | 1 (self) | 1 | 曲あり187回・誤削除・Etsyショック |
 | 36 | 10/27 ~07:07 | self-reply | no | 4 (main) at ~23h | 1 (self) | 0 | 画像→リール 0→169 |
 | 35 | 10/26 ~07:03 | self-reply | no | 4 (reply) at ~23h | 0 | 0 | 侍×柴犬1話「いいね」2つ |
 | 34 | 10/25 ~07:20 | self-reply | no | 4 (main) at ~22h | 1 (self) | 0 | 侍×柴犬の話・「子供向けだよね」 |
@@ -149,3 +149,9 @@ note 28d (10/1–10/28 05:37): imp 2,243 / PV 168 / likes 67 / comments 2. Day36
 X Day36: main 4 views, 1 reply (self).
 Gumroad (9/28–10/28): views 25, sales 1 ($0) — unchanged.
 Song test: with song 187 @10h vs without song 169 @18h → song helps a bit (small sample).
+
+## 2026-10-29 ~06:55 snapshot
+IG: illuminations reel (Metricool 10/28 12:00, AI label ON, no song, ~19h) 119 / 20 things 187 (flat since 10/28 morning) / onsen 131 / UK 169. 30d views 1,464 (was 1,171) / viewers 1,258 / reels 1,463 / interactions 11 / profile visits 2 / link taps 0 / followers 0.
+note 28d (10/2–10/29 05:41): imp 2,356 / PV 170 / likes 69 / comments 2 / followers +16. 10/28 daily imp ~182 (2nd best day). Day37 34 imp, 5 PV, 4 likes. Sources: note.com 58.2% / no referrer 34.1% / notification 5.9% / Google 1.2% / X 0.6%.
+X Day37: main 7 views, 1 like, 1 reply (self) — best X post in a while.
+Gumroad (9/29–10/29): views 26, sales 1 ($0) — unchanged.
