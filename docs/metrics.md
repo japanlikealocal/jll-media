@@ -156,3 +156,10 @@ IG: illuminations reel (Metricool 10/28 12:00, AI label ON, no song, ~19h) 119 /
 note 28d (10/2–10/29 05:41): imp 2,356 / PV 170 / likes 69 / comments 2 / followers +16. 10/28 daily imp ~182 (2nd best day). Day37 34 imp, 5 PV, 4 likes. Sources: note.com 58.2% / no referrer 34.1% / notification 5.9% / Google 1.2% / X 0.6%.
 X Day37: main 7 views, 1 like, 1 reply (self) — best X post in a while.
 Gumroad (9/29–10/29): views 26, sales 1 ($0) — unchanged.
+
+## 2026-10-30 ~06:30 snapshot
+IG content: **free views reel (re-post 10/29 18:00, ~12h) 140 views / 122 viewers / 6 saves — most saves ever** / illuminations (1d) 119, 3 saves / 20 things 187 (0 saves) / UK 169 / onsen ep2 131, 1 save. Likes/comments still ~0 on all. → list/"save this" posts earn saves; info-table posts don't.
+IG dashboard 30d (still to 10/28): views 1,464 / viewers 1,258 / interactions 11 / **profile visits 4 (was 2)** / link taps 0 / followers 0.
+note 28d (10/3–10/30 05:37): imp 2,449 / PV 172 / likes 71 / comments 3 / followers +16. Day38 53 imp, 4 PV, 3 likes. 10/29 daily imp ~155. Sources: note.com 58.1% / no referrer 34.3% / notification 5.2% / Google 1.2% / X 1.2%.
+X Day38: main 3 views, 1 reply (self); link post 2 views.
+Gumroad (to 10/30): views 26, sales 1 ($0, old) — unchanged. Sources: Pinterest 10 (1 sale) / direct 11 / Facebook 3 / l.instagram 1 / m.facebook 1.
