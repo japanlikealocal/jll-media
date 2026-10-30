@@ -163,3 +163,10 @@ IG dashboard 30d (still to 10/28): views 1,464 / viewers 1,258 / interactions 11
 note 28d (10/3–10/30 05:37): imp 2,449 / PV 172 / likes 71 / comments 3 / followers +16. Day38 53 imp, 4 PV, 3 likes. 10/29 daily imp ~155. Sources: note.com 58.1% / no referrer 34.3% / notification 5.2% / Google 1.2% / X 1.2%.
 X Day38: main 3 views, 1 reply (self); link post 2 views.
 Gumroad (to 10/30): views 26, sales 1 ($0, old) — unchanged. Sources: Pinterest 10 (1 sale) / direct 11 / Facebook 3 / l.instagram 1 / m.facebook 1.
+
+## 2026-10-31 ~07:45 snapshot
+**Carousel test (onsen 5 steps, Metricool POST 10/30 12:00, 7 slides): 0 views at ~20h.** → at 0 followers, carousels get no reach, same as image posts. Keep everything as reels. Carousel test closed.
+IG content: 20 things 190 / UK 169 / free views (1d) 141, 6 saves / illuminations 120, 3 saves / onsen ep2 131. IG 30d: views 1,599 / viewers 1,386 / interactions 17 / saves 11 / profile visits 5 / link taps 0 / followers 0 (all views from non-followers).
+note 28d: comments 4 (yoshi reply), followers +16. Day39 37 imp, 10 PV, 4 likes (PV best since Day30). Sources: note.com 57.6% / no referrer 33.2% / notification 6.5% / X 1.6% / Google 1.1%.
+X Day39: main 4 views, link post 5.
+Gumroad (9/30–10/31): views 26, sales 1 ($0, old) — unchanged.

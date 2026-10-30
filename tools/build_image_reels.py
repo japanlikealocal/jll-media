@@ -4,7 +4,9 @@ from playwright.sync_api import sync_playwright
 R=pathlib.Path(__file__).resolve().parent.parent; F=(R/'tools/fonts').as_uri()
 JOBS=[('compare-japan-uk','Visiting Japan<br>from the UK? 🇬🇧','reels/2026-10-26-japan-vs-uk-reel.mp4'),
       ('ig-free-tokyo-views-v2','Why pay ¥2,000<br>for a view?','reels/2026-10-27-free-views-reel.mp4'),
-      ('ig-tokyo-illuminations','Tokyo lights up<br>this winter ✨','reels/2026-10-28-illuminations-reel.mp4')]
+      ('ig-tokyo-illuminations','Tokyo lights up<br>this winter ✨','reels/2026-10-28-illuminations-reel.mp4'),
+      ('ig-tokyo-gyoza','12 gyoza spots<br>to try in Tokyo 🥟','reels/2026-10-31-gyoza-reel.mp4')]
+if sys.argv[1:]: JOBS=[j for j in JOBS if j[0] in sys.argv[1:]]  # build only the named images
 CSS=f'''@font-face{{font-family:I;src:url({F}/Inter-ExtraBold.ttf);font-weight:800}}
 *{{margin:0;padding:0;box-sizing:border-box}}body{{width:1080px;height:1920px;position:relative;overflow:hidden;font-family:I;background:transparent}}
 .t{{position:absolute;left:60px;right:60px;top:70px;height:160px;display:flex;align-items:center;justify-content:center;text-align:center;color:#fff;font-size:68px;line-height:1.02;letter-spacing:-2px;text-shadow:0 4px 18px rgba(0,0,0,.7)}}
