@@ -155,3 +155,5 @@ Claude reads this before making every reel. Add a line to "Learnings" after each
 ## カルーセル（めくる画像）テスト（10/29 ゼロ「フィード投稿はリールの3倍伸びるらしい」→試す）
 - 1枚の画像投稿は0回だった（フォロワー0のため）。カルーセルは未検証 → 10/30 12:00「Onsen in 5 steps」7枚をMetricool自動で投稿（tools/build_carousel_onsen.py）。
 - 比べる相手：同じ時間帯の画像リール（UK 169、イルミ 119）。見る数字は閲覧数・保存・シェア。伸びなければカルーセルはやめてリールに戻す。
+
+- **Carousels at 0 followers: no reach (10/30 onsen carousel = 0 views at 20h). Same as image posts → post everything as reels until followers grow.** List/'save this' reels earn saves (free views 6, illuminations 3).
