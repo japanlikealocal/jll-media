@@ -71,7 +71,7 @@
 - **10/22朝にやる（ゼロ依頼 10/21 08:12）：リール10/18荷物・10/19タクシー・10/20コンビニ・10/21神社の「再生数」と「プロフィールへの流入（プロフィール訪問）」を記録。** 再生数はMetricoolで取れる。プロフィール訪問はMetricoolで取れない→ゼロにインスタアプリの各リールの「インサイト」のスクショを頼む。10/21神社は21時公開なので翌朝は約10時間分。
 - **10/21朝（ゼロ依頼 10/20 22:19）：noteのインプレッションを意識する。** Day28は5タグ＋長め本文で24h imp 43（Day27は10）。朝はnoteのスクショからDay29の24h値をmetrics.mdに記録→前日比→タイトル・冒頭・ハッシュタグでインプを伸ばす工夫を1つ提案してから本文を書く。
 - 朝：ゼロが note・X・Gumroad のスクショを送る → ①24時間後の記録表（metrics.mdに記録）②noteタイトル3案＋冒頭 ③X（140字以内）④その日のリール概要欄チェック → 気持ち4問（①体調 ②昨日の感想 ③昨日いちばん印象に残ったこと ④今日やりたいこと）→ note本文 → ゼロが公開 → リンクを付けたXを渡す。
-- **noteのURL記録**（次の日の「前回の記事」に使う）：34日目 https://note.com/jtatgd4/n/n6287e7ffcb1a ／ 35日目 https://note.com/jtatgd4/n/nf9c9dbda5396 ／ 36日目 https://note.com/jtatgd4/n/n8bb2f574eca6 ／ 37日目 https://note.com/jtatgd4/n/ne9b1de9438f3 ／ 38日目 https://note.com/jtatgd4/n/n495f6d8abf74 ／ 39日目 https://note.com/jtatgd4/n/n8ad7fcc90299 （33日目のURLは未記録）。毎朝、公開したURLをここに追記する。**note本文はハッシュタグまで1つのコード枠に入れて渡す（10/30 ゼロ指摘）。**
+- **noteのURL記録**（次の日の「前回の記事」に使う）：34日目 https://note.com/jtatgd4/n/n6287e7ffcb1a ／ 35日目 https://note.com/jtatgd4/n/nf9c9dbda5396 ／ 36日目 https://note.com/jtatgd4/n/n8bb2f574eca6 ／ 37日目 https://note.com/jtatgd4/n/ne9b1de9438f3 ／ 38日目 https://note.com/jtatgd4/n/n495f6d8abf74 ／ 39日目 https://note.com/jtatgd4/n/n8ad7fcc90299 ／ 40日目 https://note.com/jtatgd4/n/nade5b0fabba1 （33日目のURLは未記録）。毎朝、公開したURLをここに追記する。**note本文はハッシュタグまで1つのコード枠に入れて渡す（10/30 ゼロ指摘）。**
 - note の書き方：**です・ます**、「おはようございます、ゼロです。」で始める、見出し・箇条書きなしの日記文（AIっぽくしない）、最後にハッシュタグ5つ。10/21から docs/note-study-2026-10-20.md の3点（大工の目線を1〜2文／読者への一言／次への期待で締め）を入れる。
 - ピン：1日3枚（12:00・17:00 無料版へ、20:00 **有料版へ**）。作る前に docs/pins.md で重複確認（10/20にも3枚かぶって作り直した）。Claudeが作成→チェック→Metricoolで予約。ゼロの作業なし。ボード boardId 1123507506982290704。
 - 写真：まず Pexels（自動で取れる）、日本らしさが必要で無いときだけ Firefly。
