@@ -157,3 +157,4 @@ Claude reads this before making every reel. Add a line to "Learnings" after each
 - 比べる相手：同じ時間帯の画像リール（UK 169、イルミ 119）。見る数字は閲覧数・保存・シェア。伸びなければカルーセルはやめてリールに戻す。
 
 - **Carousels at 0 followers: no reach (10/30 onsen carousel = 0 views at 20h). Same as image posts → post everything as reels until followers grow.** List/'save this' reels earn saves (free views 6, illuminations 3).
+- **11/1 Zero 💢: Metricool auto reels go out with no song.** Next auto reel: try Metricool `audioConfiguration` (audioId = song search term; only works on IG Business accounts linked to a Facebook Page). If rejected → keep auto as fallback, and Zero adds the song by hand on days he has time.
