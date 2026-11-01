@@ -29,3 +29,7 @@
 2. Tokyo Ramen by area（外国人に一番人気。店名は公式確認が必須）
 3. Rainy day in Tokyo（屋内スポット）
 4. Free rest spots in Tokyo（休憩スポット）— 歩き疲れた旅行者向け
+
+## 2026-11-01 Zero's saved tokyo.hack posts (all the same 4x4/4x5 watercolor list format)
+- 東京の名店うなぎ屋16選 — **466 likes, 55 shares** (best) / 寿司の名店20選 — 199 likes, 16 reposts / 和食屋16選 — 21 likes / 会社帰り飲食店16選 — 8 / ラーメン名店12選 — 8 / うどん20選 — 10 / 工場見学20選 — 16.
+- Pick for us: **Unagi spots (historic shops, near stations)** next; ramen after. Sushi list = mostly high-end/hard-to-book → not useful for first-timers. Factory tours = reservation/Japanese-only issues.
