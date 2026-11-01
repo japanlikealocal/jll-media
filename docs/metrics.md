@@ -170,3 +170,10 @@ IG content: 20 things 190 / UK 169 / free views (1d) 141, 6 saves / illumination
 note 28d: comments 4 (yoshi reply), followers +16. Day39 37 imp, 10 PV, 4 likes (PV best since Day30). Sources: note.com 57.6% / no referrer 33.2% / notification 6.5% / X 1.6% / Google 1.1%.
 X Day39: main 4 views, link post 5.
 Gumroad (9/30–10/31): views 26, sales 1 ($0, old) — unchanged.
+
+## 2026-11-01 ~09:40 snapshot (Sunday)
+note 28d (10/5–11/1): imp 2,667 / PV 190 / likes 77 / comments 4 / followers +18. Day40 (bbq/起業 story) **152 imp — best of the series**, 5 PV, 4 likes. Day39 75 imp, 12 PV, 5 likes. 10/31 daily imp ~187 (best day, tie with 10/22). Sources: note.com 57.4% / no referrer 34.2% / notification 5.8% / X 1.6% / Google 1.1%.
+X Day40: main 1 view, 1 reply; pinned post 184 views.
+Gumroad (10/1–11/1): views 26, sales 1 ($0, old free) — unchanged. Pinterest 10 views (1 sale), direct 11, Facebook 3, l.instagram 1.
+IG: not yet received this morning.
+Coconala: published 10/31 18:45, profile + icon done. No inquiries yet.
