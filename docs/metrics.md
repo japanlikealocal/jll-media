@@ -186,3 +186,5 @@ Per post: gyoza reel (16h, Metricool auto, no song) 112 views, 106 viewers, 0 li
 note 28d (10/6–11/2): imp 2,733 / PV 190 / likes 79 / comments 4 / followers +18. **Day40 (bbq/起業) 226 imp — series best**, 5 PV, 4 likes. Day41 23 imp (12h), 3 PV, 3 likes. Day39 95/12/5. Sources: note.com 55.8% / no referrer 35.8% / notification 5.8% / X 1.6% / Google 1.1%.
 Gumroad (10/2–11/2): views 25, sales 1 ($0, old free). Pinterest 10 (1 sale, 10%), direct 9, Facebook 4, l.instagram 1, m.facebook 1. Countries: US 10, Japan 11, Singapore 2, Sweden 2.
 Coconala: no inquiries. IG: no JAPAN comments/DMs.
+IG (11/2 03:47, 30d to 10/31): views 1,736 (reels 1,730 / posts 6) / viewers 1,468 / followers 1 / interactions 17 / saves 11 / profile visits 8 (was 5) / link taps 0.
+Per post: gyoza (1d) 115 views, 107 viewers, 1 save / onsen carousel 1 view / free views 142, 6 saves / illuminations 121, 3 saves / 20 things 191 / UK 170 / samurai ep2 132, 1 save / ep1 122, 2 likes / tax-free 120.
