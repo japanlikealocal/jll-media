@@ -58,3 +58,4 @@ From Zero's screenshot of the profile, 2026-10-18 07:10 (newest first, as shown)
 - 2026-10-31: Taxis and Big Suitcases (pin-taxi-luggage.png) → PAID — scheduled 20:00
 - (From 10/29 paid pins: no price on the image, so a price test doesn't need new images.)
 - 2026-11-01: 12 Gyoza Spots to Try in Tokyo (pin-tokyo-gyoza.png) → free — scheduled 17:00 (IG reel 10/31 18:00, Metricool auto, AI label ON)
+- 2026-11-04: 12 Unagi Spots to Try in Tokyo (pin-tokyo-unagi.png) → free — scheduled 17:00 (IG reel 11/3 18:00, AI label ON). Art: Gemini (first test, good gutters, consistent style).
