@@ -1,0 +1,41 @@
+{
+ "shop_ja": "居酒屋 ひだまり（架空の店）",
+ "shop_en": "Izakaya Hidamari",
+ "tagline": "Japanese small plates & drinks · Share with friends · Order a few dishes at a time",
+ "sections": [
+  {"en": "Small Plates", "ja": "おつまみ", "items": [
+   {"en": "Edamame", "romaji": "Edamame", "ja": "枝豆", "desc": "Boiled green soybeans with sea salt.", "price": 380, "allergens": ["soy"], "veg": true},
+   {"en": "Rolled Omelette", "romaji": "Dashimaki Tamago", "ja": "だし巻き玉子", "desc": "Fluffy egg omelette with dashi broth.", "price": 580, "allergens": ["egg", "fish"]},
+   {"en": "Cucumber with Miso", "romaji": "Morokyu", "ja": "もろきゅう", "desc": "Fresh cucumber sticks with sweet miso dip.", "price": 420, "allergens": ["soy"], "veg": true},
+   {"en": "Chilled Tofu", "romaji": "Hiyayakko", "ja": "冷奴", "desc": "Silken tofu with ginger, green onion and soy sauce.", "price": 400, "allergens": ["soy", "wheat"]},
+   {"en": "Potato Salad", "romaji": "Potato Sarada", "ja": "ポテトサラダ", "desc": "Japanese-style potato salad with mayonnaise.", "price": 480, "allergens": ["egg"]},
+   {"en": "Pickled Vegetables", "romaji": "Tsukemono", "ja": "漬物盛り合わせ", "desc": "Assorted Japanese pickles.", "price": 450, "allergens": [], "veg": true}
+  ]},
+  {"en": "Grilled & Fried", "ja": "焼き物・揚げ物", "items": [
+   {"en": "Chicken Skewers (2 pcs)", "romaji": "Yakitori", "ja": "焼き鳥（2本）", "desc": "Grilled chicken with sweet soy glaze or salt.", "price": 520, "allergens": ["wheat", "soy"]},
+   {"en": "Japanese Fried Chicken", "romaji": "Karaage", "ja": "鶏の唐揚げ", "desc": "Crispy marinated chicken, served with lemon.", "price": 680, "allergens": ["wheat", "soy"]},
+   {"en": "Grilled Mackerel", "romaji": "Saba Shioyaki", "ja": "鯖の塩焼き", "desc": "Salt-grilled mackerel with grated daikon radish.", "price": 780, "allergens": ["fish"]},
+   {"en": "Shrimp Tempura", "romaji": "Ebi Tempura", "ja": "海老の天ぷら", "desc": "Lightly battered shrimp with tempura dipping sauce.", "price": 880, "allergens": ["shrimp", "wheat", "egg", "soy"]},
+   {"en": "Pan-fried Dumplings (5 pcs)", "romaji": "Gyoza", "ja": "焼き餃子（5個）", "desc": "Pork and cabbage dumplings, crispy on the bottom.", "price": 480, "allergens": ["wheat", "soy", "sesame"]},
+   {"en": "Grilled Rice Ball", "romaji": "Yaki Onigiri", "ja": "焼きおにぎり", "desc": "Rice ball grilled with soy sauce.", "price": 380, "allergens": ["wheat", "soy"]}
+  ]},
+  {"en": "Rice & Noodles", "ja": "お食事", "items": [
+   {"en": "Cold Buckwheat Noodles", "romaji": "Zaru Soba", "ja": "ざるそば", "desc": "Chilled soba noodles with dipping sauce.", "price": 780, "allergens": ["soba", "wheat", "soy", "fish"]},
+   {"en": "Salmon Rice with Broth", "romaji": "Sake Chazuke", "ja": "鮭茶漬け", "desc": "Rice with grilled salmon; pour the hot tea broth over it.", "price": 650, "allergens": ["fish"]},
+   {"en": "Miso Soup", "romaji": "Misoshiru", "ja": "味噌汁", "desc": "Miso soup with tofu and seaweed.", "price": 250, "allergens": ["soy", "fish"]}
+  ]},
+  {"en": "Drinks", "ja": "お飲み物", "items": [
+   {"en": "Draft Beer", "romaji": "Nama Biru", "ja": "生ビール", "desc": "Medium mug.", "price": 600, "allergens": ["wheat"]},
+   {"en": "Japanese Sake (180 ml)", "romaji": "Nihonshu", "ja": "日本酒（1合）", "desc": "Ask staff for today's selection. Hot or cold.", "price": 700, "allergens": []},
+   {"en": "Lemon Sour", "romaji": "Remon Sawa", "ja": "レモンサワー", "desc": "Shochu with soda and fresh lemon.", "price": 500, "allergens": []},
+   {"en": "Highball", "romaji": "Haiboru", "ja": "ハイボール", "desc": "Japanese whisky with soda.", "price": 520, "allergens": []},
+   {"en": "Oolong Tea (non-alcoholic)", "romaji": "Uron-cha", "ja": "烏龍茶", "desc": "Cold oolong tea.", "price": 300, "allergens": []}
+  ]}
+ ],
+ "notes": [
+  "<b>Allergies:</b> The allergen labels on this menu are based on information provided by the shop. Ingredients may change, and cross-contact cannot be fully avoided. <b>No label does not mean an item is free of allergens.</b> Please tell our staff about any allergies before ordering.",
+  "<b>Table charge:</b> A small appetizer (otoshi) of ¥400 per person is served and charged. / お通し代としてお一人様400円を頂戴します。",
+  "<b>Payment:</b> Cash and credit cards accepted. / 現金・クレジットカードがご利用いただけます。",
+  "<b>Alcohol:</b> You must be 20 or older to drink in Japan. / 20歳未満の方の飲酒は法律で禁止されています。"
+ ]
+}
