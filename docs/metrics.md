@@ -177,3 +177,6 @@ X Day40: main 1 view, 1 reply; pinned post 184 views.
 Gumroad (10/1–11/1): views 26, sales 1 ($0, old free) — unchanged. Pinterest 10 views (1 sale), direct 11, Facebook 3, l.instagram 1.
 IG: not yet received this morning.
 Coconala: published 10/31 18:45, profile + icon done. No inquiries yet.
+IG (11/1 09:45, 30d): views 1,603 (1,602 reels / 1 post) / viewers 1,386 / followers 0 / interactions 17 (all reels) / saves 11 / profile visits 5 / link taps 0.
+Per post: gyoza reel (16h, Metricool auto, no song) 112 views, 106 viewers, 0 likes/saves / onsen carousel (1d) **1 view** / free views 142, 6 saves / illuminations 121, 3 saves / 20 things 191 / UK 170 / samurai ep2 132, 1 save / ep1 122, 2 likes.
+**Weekly review 11/1:** reels plateau at ~110–190 views each, all non-followers. Funnel broken: 1,603 views → 5 profile visits → 0 link taps → 0 sales; "Comment JAPAN" got 0 comments in ~10 days. Saves come only from list-style "save this" posts. Next test: fix the profile (bio + link) since visitors leave without tapping.
