@@ -175,3 +175,21 @@
 
 ## ネタの見つけ方（10/25 ゼロと決定）
 - ゼロが「日本人向けにバズってる投稿」を見つけて送る → Claudeが「型」（切り口・色・コマ割り）だけ借りて、外国人向けの英語版を自前の写真と文章で作る。画像そのものの流用はしない。事実はPerplexityで公式サイト確認。
+
+## 2026-11-02 ストック（ゼロ「今送ったネタコツコツ使おう」）— 1本ずつ消化。Perplexity確認→絵→リール＋ピン
+- [ ] Yakitori 12 spots（焼き鳥）
+- [ ] Tokyo vs Osaka: 8 eating differences（比較型・コメント誘導「Which side are you on?」）
+- [ ] Tempura 12 spots（天ぷら）
+- [ ] Cafes 12–16（おしゃれカフェ）
+- [ ] Chinese food / dim sum in Tokyo（中国料理）
+- [ ] Oden 12（冬向け・おでん）
+- [ ] Tonkatsu 8–12（とんかつ）
+- [ ] Yoshoku / teishoku in Ueno（上野の洋食・定食）
+- [ ] Lunch under ¥1,500（コスパランチ・有楽町/新橋など）
+- [ ] Michelin Bib Gourmand picks（ミシュラン・確認できたものだけ）
+- [ ] Yakiniku（焼肉）
+- [ ] Family spots with kids（子ども連れ）
+- [ ] Pancakes / sweets（パンケーキ）
+- [ ] 10 English phrases Japanese say / Japanese phrases for travelers（フレーズ型）
+- [ ] Areas to watch your budget（無駄遣い注意エリア型→外国人向けに「お金が飛びやすいエリア」）
+- [ ] Japanese companies behind products you use（日本企業の部品型→旅行と別ジャンル、保留）
