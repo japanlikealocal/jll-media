@@ -181,3 +181,8 @@ IG (11/1 09:45, 30d): views 1,603 (1,602 reels / 1 post) / viewers 1,386 / follo
 Per post: gyoza reel (16h, Metricool auto, no song) 112 views, 106 viewers, 0 likes/saves / onsen carousel (1d) **1 view** / free views 142, 6 saves / illuminations 121, 3 saves / 20 things 191 / UK 170 / samurai ep2 132, 1 save / ep1 122, 2 likes.
 **Weekly review 11/1:** reels plateau at ~110–190 views each, all non-followers. Funnel broken: 1,603 views → 5 profile visits → 0 link taps → 0 sales; "Comment JAPAN" got 0 comments in ~10 days. Saves come only from list-style "save this" posts. Next test: fix the profile (bio + link) since visitors leave without tapping.
 - **11/1 18:39 Zero: first Instagram follower!** (same day as the profile fix: pinned 3 + new name/bio + FB page).
+
+## 2026-11-02 ~04:10 snapshot
+note 28d (10/6–11/2): imp 2,733 / PV 190 / likes 79 / comments 4 / followers +18. **Day40 (bbq/起業) 226 imp — series best**, 5 PV, 4 likes. Day41 23 imp (12h), 3 PV, 3 likes. Day39 95/12/5. Sources: note.com 55.8% / no referrer 35.8% / notification 5.8% / X 1.6% / Google 1.1%.
+Gumroad (10/2–11/2): views 25, sales 1 ($0, old free). Pinterest 10 (1 sale, 10%), direct 9, Facebook 4, l.instagram 1, m.facebook 1. Countries: US 10, Japan 11, Singapore 2, Sweden 2.
+Coconala: no inquiries. IG: no JAPAN comments/DMs.
