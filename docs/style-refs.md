@@ -33,3 +33,10 @@
 ## 2026-11-01 Zero's saved tokyo.hack posts (all the same 4x4/4x5 watercolor list format)
 - 東京の名店うなぎ屋16選 — **466 likes, 55 shares** (best) / 寿司の名店20選 — 199 likes, 16 reposts / 和食屋16選 — 21 likes / 会社帰り飲食店16選 — 8 / ラーメン名店12選 — 8 / うどん20選 — 10 / 工場見学20選 — 16.
 - Pick for us: **Unagi spots (historic shops, near stations)** next; ramen after. Sushi list = mostly high-end/hard-to-book → not useful for first-timers. Factory tours = reservation/Japanese-only issues.
+
+## 2026-11-02 Zero's saved posts (22 screenshots) — likes
+- **関東VS関西 食べ方の違い8選 (shittopi817) 1,600 likes / 225 reposts / 187 shares** ← biggest. Comparison format + "comment your region" CTA.
+- 東京の焼き鳥百名店15選 (tokyo_lux_gourmet) 776 / 53 / 163 shares. 中国料理百名店15選 359. 天ぷら百名店12選 199. Elegant beige watercolor, "百名店" authority.
+- おしゃれカフェ16選 (tokyo.hack) 161. グルメinfo 東京ランチ10選 137. ミシュラン7選 132. おでん12選 73. 1000円台ランチ 65.
+- jiha_gourmet dark/red "駅おすすめ6〜8選" with tabelog score: 6–99 likes (weak). Kids/pancake/date lists: 2 likes.
+- Takeaways for us: (1) yakitori / tempura / cafe are strong next topics; (2) **comparison format "Tokyo vs Osaka: 8 eating differences" for foreigners** — comment-bait ("which side are you?"); (3) authority words (Michelin/百名店) lift saves, but only if verified.
