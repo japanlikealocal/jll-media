@@ -60,3 +60,4 @@ From Zero's screenshot of the profile, 2026-10-18 07:10 (newest first, as shown)
 - 2026-11-01: 12 Gyoza Spots to Try in Tokyo (pin-tokyo-gyoza.png) → free — scheduled 17:00 (IG reel 10/31 18:00, Metricool auto, AI label ON)
 - 2026-11-04: 12 Unagi Spots to Try in Tokyo (pin-tokyo-unagi.png) → free — scheduled 17:00 (IG reel 11/3 18:00, AI label ON). Art: Gemini (first test, good gutters, consistent style).
 - 2026-11-06: 12 Ramen Shops to Try in Tokyo (pin-tokyo-ramen.png) → free — scheduled 17:00 (IG reel 11/5 18:00, AI label ON). Art: ChatGPT 12 + 3 extra (tsukemen x2, vegan); Gemini ramen looked pale.
+- 2026-11-07: 12 Yakitori Spots to Try in Tokyo (pin-tokyo-yakitori.png) → free — scheduled 17:00 (IG reel 11/4 18:00, AI label ON). Art: ChatGPT (Gemini also good).

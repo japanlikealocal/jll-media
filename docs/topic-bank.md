@@ -177,7 +177,7 @@
 - ゼロが「日本人向けにバズってる投稿」を見つけて送る → Claudeが「型」（切り口・色・コマ割り）だけ借りて、外国人向けの英語版を自前の写真と文章で作る。画像そのものの流用はしない。事実はPerplexityで公式サイト確認。
 
 ## 2026-11-02 ストック（ゼロ「今送ったネタコツコツ使おう」）— 1本ずつ消化。Perplexity確認→絵→リール＋ピン
-- [ ] Yakitori 12 spots（焼き鳥）
+- [x] Yakitori 12 spots（焼き鳥）11/4
 - [ ] Tokyo vs Osaka: 8 eating differences（比較型・コメント誘導「Which side are you on?」）
 - [ ] Tempura 12 spots（天ぷら）
 - [ ] Cafes 12–16（おしゃれカフェ）
