@@ -197,3 +197,6 @@ X: Day42 main (IG first follower story) 1 view, 1 reply (self); Day41 link post 
 Gumroad (10/3–11/3): views 25, sales 1 ($0, old free). Pinterest 10 (1 sale), m.facebook 1. Countries: US 10, Singapore 2, Sweden 2.
 IG: not yet received.
 Scheduled (Metricool): reels 11/3 18:00 unagi / 11/4 18:00 yakitori / 11/5 18:00 ramen → covered to 11/5, nothing from 11/6. Pins 11/4 unagi / 11/6 ramen / 11/7 yakitori.
+IG (11/3 06:33, 30d): views 1,741 (reels 1,734 / posts 7) / viewers 1,472 / followers 1 (follower views 1, non-follower 1,740) / interactions 18 (all reels) / saves 12 / profile visits 8 (flat) / link taps 0.
+Per post: onsen 5 steps reel (12h) 89 views, 1 save / gyoza (2d) 118, 1 save / free views 142, 6 saves / illuminations 121, 3 saves / 20 things 191 / UK 170 / samurai ep2 132, 1 save / ep1 122, 2 likes / tax-free 120, 1 like.
+Coconala: no messages. IG: no JAPAN comments/DMs. Zero: "全部反応ねぇ〜よ".
