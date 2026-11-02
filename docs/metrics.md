@@ -188,3 +188,12 @@ Gumroad (10/2–11/2): views 25, sales 1 ($0, old free). Pinterest 10 (1 sale, 1
 Coconala: no inquiries. IG: no JAPAN comments/DMs.
 IG (11/2 03:47, 30d to 10/31): views 1,736 (reels 1,730 / posts 6) / viewers 1,468 / followers 1 / interactions 17 / saves 11 / profile visits 8 (was 5) / link taps 0.
 Per post: gyoza (1d) 115 views, 107 viewers, 1 save / onsen carousel 1 view / free views 142, 6 saves / illuminations 121, 3 saves / 20 things 191 / UK 170 / samurai ep2 132, 1 save / ep1 122, 2 likes / tax-free 120.
+
+## 2026-11-03 ~06:30 snapshot (holiday)
+note 28d (10/7–11/3 05:42): imp 2,776 / PV 195 / likes 83 / comments 4. 11/2 daily imp ~107 (11/1 ~180, 10/31 ~187).
+Per day (imp/PV/likes): Day42 55/6/3 (~1d) / Day41 31/4/3 / **Day40 235/7/5 (still series best, growing)** / Day39 101/12/5 / Day38 78/10/3 / Day37 73/7/4 / Day36 70/4/3 / Day35 70/3/2 / Day34 51/12/6 / Day33 72/7/5 / Day32 107/7/5 / Day31 82/8/2.
+Sources: note.com 55.4% (108) / no referrer 36.4% (71) / notification 5.6% (11) / X 1.5% (3) / Google 1% (2).
+X: Day42 main (IG first follower story) 1 view, 1 reply (self); Day41 link post 13 views.
+Gumroad (10/3–11/3): views 25, sales 1 ($0, old free). Pinterest 10 (1 sale), m.facebook 1. Countries: US 10, Singapore 2, Sweden 2.
+IG: not yet received.
+Scheduled (Metricool): reels 11/3 18:00 unagi / 11/4 18:00 yakitori / 11/5 18:00 ramen → covered to 11/5, nothing from 11/6. Pins 11/4 unagi / 11/6 ramen / 11/7 yakitori.
