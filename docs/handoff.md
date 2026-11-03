@@ -14,7 +14,7 @@
 
 
 **11/3（祝）の状態（11:45）**
-- 東京食べ歩きマップ v1 完成：products/tokyo-food-map-v1-2026-11.pdf（21p・48店・別Claudeの二重チェック済み）。表紙＝案A（写真2×2・ねぎまはPixabay、他はPexels、assets/foodmap-photos/CREDITS.md）。販売用画像 assets/foodmap-cover-1280x720.jpg。出品文 docs/gumroad-foodmap-listing.md（$9.99案）。**次＝ゼロがPCでGumroadに新商品として出品（1操作ずつ、PC画面はスマホで撮って送る。ファイルはraw.githubusercontent.comのリンクから保存）**。
+- 東京食べ歩きマップ v1 完成：products/tokyo-food-map-v1-2026-11.pdf（21p・48店・別Claudeの二重チェック済み）。表紙＝案A（写真2×2・ねぎまはPixabay、他はPexels、assets/foodmap-photos/CREDITS.md）。販売用画像 assets/foodmap-cover-1280x720.jpg。出品文 docs/gumroad-foodmap-listing.md（$9.99案）。**11/3 12:06 Gumroadで公開済み：https://zeroailog.gumroad.com/l/tokyo-food-map（$9.99、表紙・正方形サムネ assets/foodmap-thumb-1000.jpg・PDF入り、Discoverカテゴリ未設定=Other）。次：インスタのプロフィールリンク／ピンのリンクをこの商品に向けるか検討、ココナラ英語メニュー出品。**
 - Etsy：10/22のAIルールで旅行ガイドはグレー→パープレで確認してから（docs/etsy-listing.md）。パープレ未回答：①48店の最新チェック（文はゼロに渡し済み）②EtsyのAIルール。
 - 大工目線リール：Metricoolで11/6 18:00 予約済み（AIラベルなし）。11/7以降のリールは未作成。
 - ココナラ英語メニュー：出品文・見本は coconala/listing-menu.md・thumb-menu.png（11/2作成）。ゼロがカテゴリ画面のスクショを送る所から。
