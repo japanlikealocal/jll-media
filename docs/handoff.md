@@ -13,7 +13,14 @@
 保留中：Metricoolでインスタを「Facebook経由」でつなぎ直す（予約が空の時に。曲の自動付けに必要）。ネタ候補（11/2更新）：焼き鳥12選→Tokyo vs Osaka 食べ方の違い8選（比較型・コメント誘導）→天ぷら→カフェ→お土産→雨の日。画像AIは11/8以降Gemini。
 
 
-**11/3（祝）の状態（10:25）**：①東京食べ歩きマップ v1 完成（products/tokyo-food-map-v1-2026-11.pdf 21p、48店、表紙＝案A写真グリッド、Pexels写真 assets/foodmap-photos/CREDITS.md、出品文 docs/gumroad-foodmap-listing.md、$9.99案）→ ゼロがGumroadに出品する所から再開（1操作ずつ）。Etsyは10/22 AIルールがグレー→パープレ確認後（docs/etsy-listing.md）。パープレに48店の最新チェック文を渡し済み（答え待ち→差分を直す）。②大工目線リール reels/2026-11-06-carpenter-checks-reel.mp4＋caption（Metricool未予約、ゼロのOK待ち、11/6 18:00予定）。③ココナラ英語メニュー：出品文・見本は11/2作成済み coconala/listing-menu.md・thumb-menu.png。ゼロがカテゴリ画面のスクショを送る所から。④調査：docs/research-foreign-tourists-2026-11-03.md（＋perplexity版）、docs/research-housing-japan-vs-west-2026-11-03.md（「日本の検査が海外より多い」は証拠なし→言わない）。⑤11/7以降のリールは未作成。
+**11/3（祝）の状態（11:45）**
+- 東京食べ歩きマップ v1 完成：products/tokyo-food-map-v1-2026-11.pdf（21p・48店・別Claudeの二重チェック済み）。表紙＝案A（写真2×2・ねぎまはPixabay、他はPexels、assets/foodmap-photos/CREDITS.md）。販売用画像 assets/foodmap-cover-1280x720.jpg。出品文 docs/gumroad-foodmap-listing.md（$9.99案）。**次＝ゼロがPCでGumroadに新商品として出品（1操作ずつ、PC画面はスマホで撮って送る。ファイルはraw.githubusercontent.comのリンクから保存）**。
+- Etsy：10/22のAIルールで旅行ガイドはグレー→パープレで確認してから（docs/etsy-listing.md）。パープレ未回答：①48店の最新チェック（文はゼロに渡し済み）②EtsyのAIルール。
+- 大工目線リール：Metricoolで11/6 18:00 予約済み（AIラベルなし）。11/7以降のリールは未作成。
+- ココナラ英語メニュー：出品文・見本は coconala/listing-menu.md・thumb-menu.png（11/2作成）。ゼロがカテゴリ画面のスクショを送る所から。
+- 調査：docs/research-foreign-tourists-2026-11-03.md（＋perplexity版）、docs/research-housing-japan-vs-west-2026-11-03.md（「日本の検査が海外より多い」は証拠なし→言わない）。
+- 写真のルール：iStock等の透かし入り見本は使わない・透かし消しもしない。出所不明の写真は使わない。
+- note 43日目 公開済み（URLは下の記録）。
 
 ## 新しいチャットのClaudeへ：最初にやること
 1. このファイル → `docs/reel-rules.md`（ルール帳）→ `docs/metrics.md`（数字）→ `docs/pins.md`（投稿済みピン）を読む。
