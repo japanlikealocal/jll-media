@@ -201,3 +201,4 @@ IG (11/3 06:33, 30d): views 1,741 (reels 1,734 / posts 7) / viewers 1,472 / foll
 Per post: onsen 5 steps reel (12h) 89 views, 1 save / gyoza (2d) 118, 1 save / free views 142, 6 saves / illuminations 121, 3 saves / 20 things 191 / UK 170 / samurai ep2 132, 1 save / ep1 122, 2 likes / tax-free 120, 1 like.
 Coconala: no messages. IG: no JAPAN comments/DMs. Zero: "全部反応ねぇ〜よ".
 - 11/3 15:53: unagi reel posted MANUALLY with song (Metricool 18:00 post set to draft = won't publish), location Tokyo, AI label ON. Instagram "always share reels to FB page Japan Like a Local" turned ON. Compare vs gyoza (auto, no song) 115.
+- 11/3 19:05: 2nd IG follower (blazeaplenty, US foodie family) followed **from a reel** ~3h after the manual unagi reel with song. Zero followed back.
