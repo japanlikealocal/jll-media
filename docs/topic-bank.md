@@ -178,7 +178,7 @@
 
 ## 2026-11-02 ストック（ゼロ「今送ったネタコツコツ使おう」）— 1本ずつ消化。Perplexity確認→絵→リール＋ピン
 - [x] Yakitori 12 spots（焼き鳥）11/4
-- [ ] Tokyo vs Osaka: 8 eating differences（比較型・コメント誘導「Which side are you on?」）
+- [x] Tokyo vs Osaka: 8 eating differences 11/7（比較型・コメント誘導「Which side are you on?」）
 - [ ] Tempura 12 spots（天ぷら）
 - [ ] Cafes 12–16（おしゃれカフェ）
 - [ ] Chinese food / dim sum in Tokyo（中国料理）
