@@ -16,7 +16,7 @@
 - 14. Maekawa (前川): https://www.unagi-maekawa.com/shop/
 - 15. Izuei (伊豆栄 本店): https://izuei.co.jp/shop/
 - 16. Idumoya (いづもや 本店): https://www.idumoya.com/honten/
-- 17. Takashimaya (高嶋家): https://a301900.gorp.jp/
+- 17. Takashimaya (unagi shop) (高嶋家): https://a301900.gorp.jp/
 - 18. Akasaka Fukinuki (赤坂ふきぬき): https://www.fukinuki.jp/shop_detail/akasaka/
 - 19. Takahashiya (高橋屋): https://takahashiya-ginza.com/
 - 20. Hyotanya (ひょうたん屋 6丁目店): https://tabelog.com/tokyo/A1301/A130101/13007799/
