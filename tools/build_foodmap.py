@@ -126,21 +126,21 @@ def cover_html(w, h, landscape=False):
         return f'''<div class="cv"><div class="brand">JAPAN LIKE A LOCAL</div><div class="grid">{tiles}</div>
 <div class="band"><div class="ttl">TOKYO FOOD MAP</div><div class="sub">48 local spots for gyoza, ramen, unagi &amp; yakitori</div>
 <div class="use">Cash or card · Booking rules · Google Maps links</div>
-<div class="meta"><span>Checked Oct 29 – Nov 2, 2026</span><span>Photos are illustrative, not from the listed shops.</span></div></div></div>'''
+<div class="meta"><span>Checked Oct 29 – Nov 2, 2026</span><span class="note">Photos are illustrative, not from the listed shops.</span></div></div></div>'''
     return f'''<div class="cvl"><div class="grid">{tiles}</div><div class="band"><div class="brand2">JAPAN LIKE A LOCAL</div>
 <div class="ttl">TOKYO<br>FOOD MAP</div><div class="sub">48 local spots for gyoza, ramen, unagi &amp; yakitori</div>
-<div class="use">Cash or card · Booking rules<br>Google Maps links</div><div class="meta">PDF guide · Checked Nov 2026<br>Photos are illustrative, not from the listed shops.</div></div></div>'''
+<div class="use">Cash or card · Booking rules<br>Google Maps links</div><div class="meta">PDF guide · Checked Nov 2026<br><span class="note">Photos are illustrative, not from the listed shops.</span></div></div></div>'''
 COVER_CSS = '''.cv{width:210mm;height:297mm;background:#1f1a17;display:flex;flex-direction:column;page-break-after:always;overflow:hidden}
 .cv .brand{background:#f6efe3;color:#1f1a17;font-weight:800;letter-spacing:4px;font-size:13px;text-align:center;padding:3.2mm 0}
 .grid{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:2px;background:#1f1a17}
-.cv .grid{height:172mm}
+.cv .grid{height:184mm}
 .t{background-size:cover;position:relative}
 .t span{position:absolute;left:4mm;bottom:4mm;background:#f2c14e;color:#1f1a17;font-weight:800;font-size:17px;letter-spacing:1px;padding:1.5mm 3.5mm;border-radius:4px}
-.cv .band{flex:1;padding:9mm 13mm 6mm;color:#fff;display:flex;flex-direction:column}
-.cv .ttl{font-size:66px;font-weight:800;letter-spacing:1px;line-height:1}
-.cv .sub{font-size:20px;color:#efe6d8;margin-top:4mm}
-.cv .use{font-size:15px;color:#f2c14e;font-weight:700;margin-top:5mm}
-.cv .meta{margin-top:auto;display:flex;justify-content:space-between;font-size:10px;color:#a89c8c}
+.cv .band{flex:1;padding:10mm 13mm 7mm;color:#fff;display:flex;flex-direction:column}
+.cv .ttl{font-size:78px;font-weight:800;letter-spacing:1px;line-height:1}
+.cv .sub{font-size:26px;color:#efe6d8;margin-top:5mm;line-height:1.3}
+.cv .use{font-size:21px;color:#f2c14e;font-weight:700;margin-top:6mm}
+.cv .meta{margin-top:auto;display:flex;justify-content:space-between;align-items:center;font-size:12px;color:#d9cdbd}.note{background:#f6efe3;color:#1f1a17;font-weight:600;border-radius:4px;padding:1.4mm 3mm}
 .cvl{width:1280px;height:720px;background:#1f1a17;display:flex}
 .cvl .grid{width:720px;height:720px}
 .cvl .t span{font-size:24px;left:16px;bottom:16px;padding:6px 14px}
@@ -149,7 +149,7 @@ COVER_CSS = '''.cv{width:210mm;height:297mm;background:#1f1a17;display:flex;flex
 .cvl .ttl{font-size:76px;font-weight:800;line-height:.98;margin-top:26px}
 .cvl .sub{font-size:25px;color:#efe6d8;margin-top:22px;line-height:1.3}
 .cvl .use{font-size:22px;color:#f2c14e;font-weight:700;margin-top:24px;line-height:1.4}
-.cvl .meta{margin-top:auto;font-size:14px;color:#a89c8c;line-height:1.5}'''
+.cvl .meta{margin-top:auto;font-size:16px;color:#d9cdbd;line-height:1.5}.cvl .note{display:inline-block;margin-top:8px;font-size:17px;padding:5px 10px}'''
 pages.append(cover_html(0, 0))
 
 pages.append(page('''<h2>How to use this guide</h2>
