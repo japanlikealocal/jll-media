@@ -17,7 +17,7 @@
 - 東京食べ歩きマップ v1 完成：products/tokyo-food-map-v1-2026-11.pdf（21p・48店・別Claudeの二重チェック済み）。表紙＝案A（写真2×2・ねぎまはPixabay、他はPexels、assets/foodmap-photos/CREDITS.md）。販売用画像 assets/foodmap-cover-1280x720.jpg。出品文 docs/gumroad-foodmap-listing.md（$9.99案）。**11/3 12:06 Gumroadで公開済み：https://zeroailog.gumroad.com/l/tokyo-food-map（$9.99、表紙・正方形サムネ assets/foodmap-thumb-1000.jpg・PDF入り、Discoverカテゴリ未設定=Other）。次：インスタのプロフィールリンク／ピンのリンクをこの商品に向けるか検討、ココナラ英語メニュー出品。**
 - Etsy：10/22のAIルールで旅行ガイドはグレー→パープレで確認してから（docs/etsy-listing.md）。パープレ未回答：①48店の最新チェック（文はゼロに渡し済み）②EtsyのAIルール。
 - 大工目線リール：Metricoolで11/6 18:00 予約済み（AIラベルなし）。11/7以降のリールは未作成。
-- ココナラ英語メニュー：出品文・見本は coconala/listing-menu.md・thumb-menu.png（11/2作成）。ゼロがカテゴリ画面のスクショを送る所から。
+- **ココナラ英語メニュー：11/3 15:37 公開済み**（デザイン制作>メニュー表作成・POPデザイン>飲食店メニュー表作成、5,000円、修正2回、お届け6日、同時1件、見積り相談必須、商用利用、PDF。文章 coconala/listing-menu.md）。ココナラ出品は計2件。
 - 調査：docs/research-foreign-tourists-2026-11-03.md（＋perplexity版）、docs/research-housing-japan-vs-west-2026-11-03.md（「日本の検査が海外より多い」は証拠なし→言わない）。
 - 写真のルール：iStock等の透かし入り見本は使わない・透かし消しもしない。出所不明の写真は使わない。
 - note 43日目 公開済み（URLは下の記録）。
