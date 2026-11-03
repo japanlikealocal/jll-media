@@ -64,3 +64,4 @@ From Zero's screenshot of the profile, 2026-10-18 07:10 (newest first, as shown)
 - 11/3: food pins (unagi 11/4, ramen 11/6, yakitori 11/7) now link to https://zeroailog.gumroad.com/l/tokyo-food-map ($9.99). Future food pins → food map; manners/onsen/etc pins → paid guide /l/japan.
 - 2026-11-08: Tokyo vs Osaka 8 Food Traditions (pin-tokyo-vs-osaka.png) → food map — 17:00 (IG reel 11/7 18:00 with song). Art: ChatGPT (Gemini version kept as grid-gemini.jpg).
 - 2026-11-09: Tokyo 12 areas on one map (pin-tokyo-area-map.png) → paid guide /l/japan — 17:00 (IG reel 11/8 18:00 with song). Drawn from station coordinates, no AI art.
+- **11/3 Pinterest boost (Zero: 「両方とも頑張れない？」)：11/4〜11/10 に 12:00 と 20:00 の再ピン14本を追加**（既存画像を新タイトルで。食べ物→食べ歩きマップ、旅のコツ→有料ガイド）。既存17:00枠と合わせ1日2〜3本。11/10で切れる→以降も毎日2本以上を維持。週末にGumroadのPinterest流入を比較。
