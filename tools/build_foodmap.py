@@ -118,11 +118,39 @@ def page(inner, n, cls=''):
     return f'<div class="pg {cls}">{inner}<div class="ft"><span>Tokyo Food Map · 48 local spots · Japan Like a Local</span><span>{n}</span></div></div>'
 
 pages = []
-pages.append(f'''<div class="pg cover"><div class="k">JAPAN LIKE A LOCAL · TOKYO FOOD MAP</div>
-<h1 style="margin:6mm 0">48 Tokyo food spots<br>for your first trip</h1>
-<div class="chips"><span>12 Gyoza</span><span>12 Ramen</span><span>12 Unagi</span><span>12 Yakitori</span></div>
-<p>For every spot: the Japanese name to show staff, nearest station, what to order, <b>cash or card</b>, <b>booking rules</b>, English menu, opening days where published — plus a one-tap Google Maps link.</p>
-<p>Facts checked against official and store pages, Oct 29 – Nov 2, 2026.</p></div>''')
+PH = R / 'assets/foodmap-photos'
+COVER_TILES = [('gyoza', '12 GYOZA', 'center 55%'), ('ramen', '12 RAMEN', 'center 50%'), ('unagi', '12 UNAGI', 'center 60%'), ('yakitori', '12 YAKITORI', '45% 55%')]
+def cover_html(w, h, landscape=False):
+    tiles = ''.join(f'<div class="t" style="background-image:url({(PH/(n+'.jpg')).as_uri()});background-position:{pos}"><span>{lab}</span></div>' for n, lab, pos in COVER_TILES)
+    if not landscape:
+        return f'''<div class="cv"><div class="brand">JAPAN LIKE A LOCAL</div><div class="grid">{tiles}</div>
+<div class="band"><div class="ttl">TOKYO FOOD MAP</div><div class="sub">48 local spots for gyoza, ramen, unagi &amp; yakitori</div>
+<div class="use">Cash or card · Booking rules · Google Maps links</div>
+<div class="meta"><span>Checked Oct 29 – Nov 2, 2026</span><span>Photos are illustrative, not from the listed shops.</span></div></div></div>'''
+    return f'''<div class="cvl"><div class="grid">{tiles}</div><div class="band"><div class="brand2">JAPAN LIKE A LOCAL</div>
+<div class="ttl">TOKYO<br>FOOD MAP</div><div class="sub">48 local spots for gyoza, ramen, unagi &amp; yakitori</div>
+<div class="use">Cash or card · Booking rules<br>Google Maps links</div><div class="meta">PDF guide · Checked Nov 2026<br>Photos are illustrative, not from the listed shops.</div></div></div>'''
+COVER_CSS = '''.cv{width:210mm;height:297mm;background:#1f1a17;display:flex;flex-direction:column;page-break-after:always;overflow:hidden}
+.cv .brand{background:#f6efe3;color:#1f1a17;font-weight:800;letter-spacing:4px;font-size:13px;text-align:center;padding:3.2mm 0}
+.grid{display:grid;grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr;gap:2px;background:#1f1a17}
+.cv .grid{height:172mm}
+.t{background-size:cover;position:relative}
+.t span{position:absolute;left:4mm;bottom:4mm;background:#f2c14e;color:#1f1a17;font-weight:800;font-size:17px;letter-spacing:1px;padding:1.5mm 3.5mm;border-radius:4px}
+.cv .band{flex:1;padding:9mm 13mm 6mm;color:#fff;display:flex;flex-direction:column}
+.cv .ttl{font-size:66px;font-weight:800;letter-spacing:1px;line-height:1}
+.cv .sub{font-size:20px;color:#efe6d8;margin-top:4mm}
+.cv .use{font-size:15px;color:#f2c14e;font-weight:700;margin-top:5mm}
+.cv .meta{margin-top:auto;display:flex;justify-content:space-between;font-size:10px;color:#a89c8c}
+.cvl{width:1280px;height:720px;background:#1f1a17;display:flex}
+.cvl .grid{width:720px;height:720px}
+.cvl .t span{font-size:24px;left:16px;bottom:16px;padding:6px 14px}
+.cvl .band{flex:1;padding:52px 44px 34px;color:#fff;display:flex;flex-direction:column;font-family:Inter,sans-serif}
+.cvl .brand2{color:#f2c14e;font-weight:800;letter-spacing:3px;font-size:17px}
+.cvl .ttl{font-size:76px;font-weight:800;line-height:.98;margin-top:26px}
+.cvl .sub{font-size:25px;color:#efe6d8;margin-top:22px;line-height:1.3}
+.cvl .use{font-size:22px;color:#f2c14e;font-weight:700;margin-top:24px;line-height:1.4}
+.cvl .meta{margin-top:auto;font-size:14px;color:#a89c8c;line-height:1.5}'''
+pages.append(cover_html(0, 0))
 
 pages.append(page('''<h2>How to use this guide</h2>
 <div class="box"><b>1. Pick a spot near where you are.</b> Use the area index on the next page, or browse by food.<br>
@@ -187,7 +215,7 @@ pages.append(page('''<h2>Point-and-say phrases</h2>
 <h3>Updates</h3><div class="box">Version 1 · facts checked Oct 29 – Nov 2, 2026. Each card’s facts come from the shop’s official page or its restaurant listing (sources list included with your download).</div>
 <p style="font-size:13px;font-weight:700;margin-top:3mm">Enjoy Tokyo — and eat like a local. 🍜<br><span style="font-weight:400;font-size:11px">Japan Like a Local · zeroailog.gumroad.com</span></p>''', pn))
 
-html_doc = f'<!doctype html><html><head><meta charset="utf-8"><title>Tokyo Food Map — 48 local spots (Japan Like a Local)</title><style>{CSS}</style></head><body>{"".join(pages)}</body></html>'
+html_doc = f'<!doctype html><html><head><meta charset="utf-8"><title>Tokyo Food Map — 48 local spots (Japan Like a Local)</title><style>{CSS}{COVER_CSS}</style></head><body>{"".join(pages)}</body></html>'
 (R / 'tools/foodmap.html').write_text(html_doc)
 with sync_playwright() as p:
     b = p.chromium.launch(executable_path='/usr/bin/google-chrome'); pg = b.new_page()
@@ -195,4 +223,10 @@ with sync_playwright() as p:
     pg.pdf(path=str(OUT), format='A4', print_background=True); b.close()
 src = '# Tokyo Food Map v1 — sources (checked Oct 29 – Nov 2, 2026)\n\n' + ''.join(f'- {num[id(x)]}. {x["name_en"]} ({x["name_ja"]}): {x["source_url"]}\n' for c in CAT for x in D if x['category'] == c)
 SRC_OUT.write_text(src)
+with sync_playwright() as p:  # Gumroad cover 1280x720
+    b = p.chromium.launch(executable_path='/usr/bin/google-chrome'); pg = b.new_page(viewport={'width': 1280, 'height': 720})
+    cf = R / 'tools/foodmap-cover.html'
+    cf.write_text(f'<html><head><meta charset="utf-8"><style>body{{margin:0;font-family:Inter,sans-serif}}{COVER_CSS}</style></head><body>{cover_html(0,0,True)}</body></html>')
+    pg.goto(cf.as_uri())
+    pg.wait_for_timeout(800); pg.screenshot(path=str(R / 'assets/foodmap-cover-1280x720.jpg'), quality=92, type='jpeg'); b.close()
 print('ok', OUT.name, pn, 'pages')
