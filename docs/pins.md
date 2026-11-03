@@ -63,3 +63,4 @@ From Zero's screenshot of the profile, 2026-10-18 07:10 (newest first, as shown)
 - 2026-11-07: 12 Yakitori Spots to Try in Tokyo (pin-tokyo-yakitori.png) → free — scheduled 17:00 (IG reel 11/4 18:00, AI label ON). Art: ChatGPT (Gemini also good).
 - 11/3: food pins (unagi 11/4, ramen 11/6, yakitori 11/7) now link to https://zeroailog.gumroad.com/l/tokyo-food-map ($9.99). Future food pins → food map; manners/onsen/etc pins → paid guide /l/japan.
 - 2026-11-08: Tokyo vs Osaka 8 Food Traditions (pin-tokyo-vs-osaka.png) → food map — 17:00 (IG reel 11/7 18:00 with song). Art: ChatGPT (Gemini version kept as grid-gemini.jpg).
+- 2026-11-09: Tokyo 12 areas on one map (pin-tokyo-area-map.png) → paid guide /l/japan — 17:00 (IG reel 11/8 18:00 with song). Drawn from station coordinates, no AI art.
