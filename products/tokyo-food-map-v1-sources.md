@@ -1,0 +1,50 @@
+# Tokyo Food Map v1 — sources (checked Oct 29 – Nov 2, 2026)
+
+- 1. Kameido Gyoza (亀戸ぎょうざ 本店): https://www.kameido-gyouza.co.jp/shop-head.html
+- 2. Gyoza no Ohsama (餃子の王さま): https://gfw4900.gorp.jp/
+- 3. Ginza Tenryu (銀座 天龍 本店): http://www.tenryu-ginza.jp/food
+- 4. Okei (おけ以): https://okei-gyoza.jp/
+- 5. Toranomon PAIRON (虎ノ門 PAIRON): https://toranomon-pairon.foodre.jp/
+- 6. Kangei (歓迎 本店): https://www.kangeigyoza.com/%E6%9C%AC%E5%BA%97/
+- 7. Nihao Keikeikaku (你好 恵馨閣本店): https://www.nihao-k.com/
+- 8. Anda Gyoza (按田餃子 代々木上原店): http://andagyoza.shop-pro.jp/
+- 9. Tokyo Gyozaro (東京餃子楼 三軒茶屋本店): https://gyoza-tokyo-shop.jp/portfolio-item/sangen-jaya/
+- 10. Gyoza no Fukuho (餃子の福包 新宿店): https://fukuho.net/
+- 11. Rouhen Gyozakan (老辺餃子舘 新宿本店): https://tabelog.com/tokyo/A1304/A130401/13012005/
+- 12. Kairaku (開楽 本店): https://www.kailaku.jp/
+- 13. Nodaiwa (野田岩 麻布飯倉本店): https://ge1w200.gorp.jp/
+- 14. Maekawa (前川): https://www.unagi-maekawa.com/shop/
+- 15. Izuei (伊豆栄 本店): https://izuei.co.jp/shop/
+- 16. Idumoya (いづもや 本店): https://www.idumoya.com/honten/
+- 17. Takashimaya (高嶋家): https://a301900.gorp.jp/
+- 18. Akasaka Fukinuki (赤坂ふきぬき): https://www.fukinuki.jp/shop_detail/akasaka/
+- 19. Takahashiya (高橋屋): https://takahashiya-ginza.com/
+- 20. Hyotanya (ひょうたん屋 6丁目店): https://tabelog.com/tokyo/A1301/A130101/13007799/
+- 21. Uomasa (魚政): https://unagi-uomasa.jp/
+- 22. Kawaei (川栄): https://kawaei.net/
+- 23. Hashimoto (はし本): https://tabelog.com/tokyo/A1309/A130905/13018616/
+- 24. Azabu Shiki (麻布しき): https://azabushiki.com/
+- 25. Ichiran (一蘭 渋谷店): https://ichiran.com/shop/tokyo/shibuya/
+- 26. AFURI (AFURI 恵比寿): https://www.afuri.com/findus/
+- 27. Rokurinsha (六厘舎 東京駅): https://www.tokyoeki-1bangai.co.jp/shop/detail/?cd=000044
+- 28. Ginza Hachigo (銀座 八五): https://tabelog.com/tokyo/A1301/A130101/13228602/
+- 29. Fu-unji (新宿 風雲児): https://www.fu-unji.com/
+- 30. Soranoiro (ソラノイロ 銀座本店): https://soranoiro-vege.com/store-menu/soranoiro-ginza/
+- 31. Kuroki (饗 くろ㐂): https://tokyoramenoftheyear.com/ja/shop/shop-00042
+- 32. Nakiryu (創作麺工房 鳴龍): https://gf8f400.gorp.jp/
+- 33. Shibata (中華そば しば田): https://tabelog.com/tokyo/A1326/A132603/13300645/
+- 34. Ramen-ya Shima (らぁ麺や 嶋): https://tabelog.com/tokyo/A1304/A130401/13247487/
+- 35. Gokan (Japanese Ramen 五感): https://www.tablecheck.com/ja/ramen-gokan
+- 36. Te-uchi Ren (手打ち 蓮): https://tabelog.com/tokyo/A1312/A131201/13278390/
+- 37. Torikizoku (鳥貴族 新宿靖国通り店): https://map.torikizoku.co.jp/detail/392/
+- 38. Torien (鳥園（思い出横丁）): https://torien-shinjuku.owst.jp/
+- 39. Isehiro (伊勢廣 京橋本店): https://www.isehiro.co.jp/honten/
+- 40. Kushidori (串鳥 吉祥寺南口店): https://kushidori.com/shop-05/
+- 41. Torigin (鳥ぎん 銀座本店): https://torigin-ginza.jp/
+- 42. Torie (鳥恵 上野広小路店): https://torie-hirokoji.com/
+- 43. Birdland Ginza (バードランド 銀座): https://ginza-birdland.sakura.ne.jp/
+- 44. Toriki (とり喜): https://tabelog.com/tokyo/A1312/A131201/13026017/
+- 45. Yakitori Imai (焼鳥今井): https://www.yakitoriimai.jp/menu.html
+- 46. Kinryo (金陵本店): https://gah7300.gorp.jp/
+- 47. Toriyoshi (鳥よし 中目黒本店): https://yakitori-toriyoshi.com/store/
+- 48. Toritsubaki (鳥椿 鶯谷朝顔通り店): https://tabelog.com/tokyo/A1311/A131104/13132192/
