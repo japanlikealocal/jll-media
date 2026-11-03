@@ -210,3 +210,7 @@ Sources: note.com 54.1% (100) / no referrer 36.8% (68) / notification 5.9% (11) 
 X: **Day43 main 21 views, 2 likes, 1 reply** (best main in days; Day42 had 1 view) / link post 3 views / pinned 196 views, 1 like.
 Gumroad (10/4–11/4): views 22, sales 1 ($0, old free). Pinterest 8 (1 sale), direct 8, Facebook 4, l.instagram 1, m.facebook 1. Countries: US 9, Japan 9, Singapore 2, Sweden 2. Food map (published 11/3 12:06) no views yet visible.
 Scheduled: reels to 11/9 (all with song), pins 3/day to 11/10.
+IG (11/4 06:58, 30d): views 1,949 (reels 1,942 / posts 7) / viewers 1,634 / followers 2 (follower views 1, non-follower 1,948) / interactions 21 (likes 4, saves 15) / profile visits 11 (was 8) / link taps 0.
+Per post: **unagi (manual, with song, 15h) 116 views, 2 saves, 0 follows** / onsen 5 steps (1d) 109, 1 save / gyoza (auto, no song, 3d) 122, 1 save, **1 follow** / free views 144, 6 saves / illuminations 122, 3 saves / 20 things 192 / UK 170 / samurai onsen 132, 1 save.
+Note: dashboard attributes the follow to the **gyoza** reel, not unagi → song vs no-song: views about the same (116 vs 115 at ~16h), saves 2 vs 1. Not proven yet; compare yakitori (auto+song) tonight.
+Coconala: no messages.
