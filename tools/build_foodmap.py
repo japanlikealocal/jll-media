@@ -119,7 +119,7 @@ def page(inner, n, cls=''):
 
 pages = []
 PH = R / 'assets/foodmap-photos'
-COVER_TILES = [('gyoza', '12 GYOZA', 'center 55%'), ('ramen', '12 RAMEN', 'center 50%'), ('unagi', '12 UNAGI', 'center 60%'), ('yakitori', '12 YAKITORI', '45% 55%')]
+COVER_TILES = [('gyoza', '12 GYOZA', 'center 55%'), ('ramen', '12 RAMEN', 'center 50%'), ('unagi', '12 UNAGI', 'center 60%'), ('yakitori-negima', '12 YAKITORI', 'center 50%')]
 def cover_html(w, h, landscape=False):
     tiles = ''.join(f'<div class="t" style="background-image:url({(PH/(n+'.jpg')).as_uri()});background-position:{pos}"><span>{lab}</span></div>' for n, lab, pos in COVER_TILES)
     if not landscape:
