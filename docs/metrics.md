@@ -202,3 +202,11 @@ Per post: onsen 5 steps reel (12h) 89 views, 1 save / gyoza (2d) 118, 1 save / f
 Coconala: no messages. IG: no JAPAN comments/DMs. Zero: "全部反応ねぇ〜よ".
 - 11/3 15:53: unagi reel posted MANUALLY with song (Metricool 18:00 post set to draft = won't publish), location Tokyo, AI label ON. Instagram "always share reels to FB page Japan Like a Local" turned ON. Compare vs gyoza (auto, no song) 115.
 - 11/3 19:05: 2nd IG follower (blazeaplenty, US foodie family) followed **from a reel** ~3h after the manual unagi reel with song. Zero followed back.
+
+## 2026-11-04 ~06:55 snapshot
+note 28d (10/8–11/4 05:42): imp 2,743 / PV 185 / likes 82 / comments 4 / followers +17. 11/3 daily imp ~10 (holiday; 11/2 ~48).
+Per day (imp/PV/likes): **Day43 7/1/0 (~20h)** / Day42 57/6/3 / Day41 41/5/3 / Day40 236/7/5 / Day39 103/12/5 / Day38 80/10/3.
+Sources: note.com 54.1% (100) / no referrer 36.8% (68) / notification 5.9% (11) / Google 1.6% (3) / X 1.6% (3).
+X: **Day43 main 21 views, 2 likes, 1 reply** (best main in days; Day42 had 1 view) / link post 3 views / pinned 196 views, 1 like.
+Gumroad (10/4–11/4): views 22, sales 1 ($0, old free). Pinterest 8 (1 sale), direct 8, Facebook 4, l.instagram 1, m.facebook 1. Countries: US 9, Japan 9, Singapore 2, Sweden 2. Food map (published 11/3 12:06) no views yet visible.
+Scheduled: reels to 11/9 (all with song), pins 3/day to 11/10.
