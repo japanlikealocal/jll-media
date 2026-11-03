@@ -16,20 +16,14 @@ CAT = {
 }
 BAD = ('user-posted', 'user listing', 'review', 'may be outdated', 'reference value')
 
+PRICE_FIX = {  # drop user-posted / review prices (not verified)
+ 'Nodaiwa': 'Classic unaju (Michelin-listed). Price not confirmed — check on arrival.',
+ 'Rokurinsha': 'Tsukemen (dipping noodles). Price not confirmed — check the ticket machine.',
+ 'Hyotanya': 'Unadon in the ¥1,000s (Gurunavi listing). Check other prices on arrival.',
+}
 def clean_price(x):
-    p = x['price'] or ''
-    parts = [s.strip() for s in p.replace('; ', ';').split(';')]
-    keep = [s for s in parts if not any(b in s.lower() for b in BAD)]
-    if len(keep) != len(parts) or not keep:
-        base = p.split('.')[0] if any(b in p.lower() for b in BAD) else p
-        base = base.split(' Unaju from')[0].split(' Tsukemen from')[0]
-        keep = [s for s in keep if s] or []
-        txt = '; '.join(keep) if keep else ''
-        if not txt or any(b in txt.lower() for b in BAD):
-            txt = {'Nodaiwa': 'Classic unaju (Michelin-listed). Price not confirmed — check on arrival.',
-                   'Rokurinsha': 'Tsukemen (dipping noodles). Price not confirmed — check the ticket machine.',
-                   'Hyotanya': 'Unadon in the ¥1,000s (Gurunavi listing). Check other prices on arrival.'}.get(x['name_en'], 'Check prices on arrival.')
-        return txt
+    p = PRICE_FIX.get(x['name_en'], x['price'] or 'Check prices on arrival.')
+    assert not any(b in p.lower() for b in BAD), x['name_en']
     return p
 
 def clean_notes(x):
