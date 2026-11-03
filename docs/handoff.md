@@ -13,6 +13,8 @@
 保留中：Metricoolでインスタを「Facebook経由」でつなぎ直す（予約が空の時に。曲の自動付けに必要）。ネタ候補（11/2更新）：焼き鳥12選→Tokyo vs Osaka 食べ方の違い8選（比較型・コメント誘導）→天ぷら→カフェ→お土産→雨の日。画像AIは11/8以降Gemini。
 
 
+**11/3（祝）の状態（10:25）**：①東京食べ歩きマップ v1 完成（products/tokyo-food-map-v1-2026-11.pdf 21p、48店、表紙＝案A写真グリッド、Pexels写真 assets/foodmap-photos/CREDITS.md、出品文 docs/gumroad-foodmap-listing.md、$9.99案）→ ゼロがGumroadに出品する所から再開（1操作ずつ）。Etsyは10/22 AIルールがグレー→パープレ確認後（docs/etsy-listing.md）。パープレに48店の最新チェック文を渡し済み（答え待ち→差分を直す）。②大工目線リール reels/2026-11-06-carpenter-checks-reel.mp4＋caption（Metricool未予約、ゼロのOK待ち、11/6 18:00予定）。③ココナラ英語メニュー：出品文・見本は11/2作成済み coconala/listing-menu.md・thumb-menu.png。ゼロがカテゴリ画面のスクショを送る所から。④調査：docs/research-foreign-tourists-2026-11-03.md（＋perplexity版）、docs/research-housing-japan-vs-west-2026-11-03.md（「日本の検査が海外より多い」は証拠なし→言わない）。⑤11/7以降のリールは未作成。
+
 ## 新しいチャットのClaudeへ：最初にやること
 1. このファイル → `docs/reel-rules.md`（ルール帳）→ `docs/metrics.md`（数字）→ `docs/pins.md`（投稿済みピン）を読む。
 2. 作業の前に、ゼロに「今の状況はこう理解した」を**5行**で送って、ずれがないか確認してもらう。
