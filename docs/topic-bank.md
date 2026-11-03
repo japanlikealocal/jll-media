@@ -193,3 +193,12 @@
 - [ ] 10 English phrases Japanese say / Japanese phrases for travelers（フレーズ型）
 - [ ] Areas to watch your budget（無駄遣い注意エリア型→外国人向けに「お金が飛びやすいエリア」）
 - [ ] Japanese companies behind products you use（日本企業の部品型→旅行と別ジャンル、保留）
+
+## 2026-11-03 ストック追加（ゼロの保存14枚）— likes順
+- **fattsai 東京 立体ミニチュア地図（2,016 likes / 1,071 shares）** と **原宿〜青山 散歩ルート地図（967 / 678 shares）** ← 断トツ。外国人向けにそのまま刺さる型。→ [ ] "Tokyo in one map: where each area is"（エリア早見地図・写真/イラスト）／[ ] "Harajuku → Omotesando → Aoyama walking route"（散歩ルート、駅・所要時間・寄り道）。※地図は実在の位置関係を正しく。ブランドロゴは描かない。
+- misa_mama 日米 育児の常識（654 / 203 reposts）・akari 日本vsオランダ/ドイツ 働き方（11〜24）→ 比較型。旅行向けに [ ] "Japan vs your country: tipping, trains, trash…"（比較）
+- tokyo_hacklife 炒飯15選（380 / 44 shares）→ [ ] Fried rice 12（チャーハン）
+- tokyo.hack 食べ放題16（74）／人生最高レストラン（68）／海鮮丼16（40）／よにの16（31）→ [ ] Kaisendon / seafood bowls 12（築地・豊洲）、[ ] All-you-can-eat (tabehodai) 12
+- cospa_labo お子様ランチ Tier（65）・家電Tier（16）→ Tier/ランク型。[ ] "Japanese convenience-store snacks tier list"
+- tokyo_lux_gourmet ステーキ・鉄板焼き15（31、実写風）→ 高級は外国人人気。[ ] Teppanyaki / wagyu 12（写真で）
+- 学び：地図・ルート型と比較型が保存・シェアともに最強。写真風（実写）は高級感。
