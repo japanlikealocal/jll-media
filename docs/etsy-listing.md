@@ -51,3 +51,8 @@ Have a great trip! — Japan Like a Local
 
 ## ON HOLD (2026-10-27)
 Etsy's Oct 22, 2026 AI update requires functional guides (recipes, patterns, instructions) to be the seller's own work, not AI-generated. This guide was drafted with AI → risk of removal. Do not list unless the rules are clarified or the guide is substantially rewritten by Zero.
+
+## 2026-11-03 re-check (Tokyo food map plan)
+- Etsy Oct 22, 2026 update (secondary sources: inkfluenceai.com/blog/etsy-ai-rules-update-october-2026, techtimes.co.uk): bans bot-generated listings with no human involvement, and AI-generated *functional guides* (patterns, recipes, woodworking plans, assembly instructions) — must be seller's own work + show a real result. Non-fiction ebooks allowed with disclosure. Travel guides / itineraries are NOT mentioned either way → unclear.
+- Food map = curated list of real shops with facts checked against official/store pages (dated). Lower risk than an AI-written how-to, but still unclear → ask Perplexity / Etsy help before listing. Disclose AI use ("With an AI generator" + description line). No AI images presented as real food photos.
+- Plan: sell on Gumroad first (no such rule), list on Etsy once the rule question is answered.
