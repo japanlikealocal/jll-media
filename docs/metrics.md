@@ -216,3 +216,8 @@ Note: dashboard attributes the follow to the **gyoza** reel, not unagi → song 
 Coconala: no messages.
 - 11/4 19:57: yakitori reel = first AUTO post with song (Metricool audioId) → published 18:00, Zero confirmed music plays. 25 views at ~2h.
 - 11/4 21:00: Coconala public board search (単発, 募集中): チラシ 2件 (event design 88 applicants / novel), 案内 2件 (IG deletion / ATM map 100–200万 incl. print), メニュー 1件 (salon research 107 applicants). None fit → no application.
+
+## 2026-11-05 ~06:55 snapshot
+note 28d (10/9–11/5 05:39): imp 2,830 / PV 182 / likes 83 / comments 4 / followers +18. **11/4 daily imp ~210 = best day in 28d.**
+Per day (imp/PV/likes): **Day44 98/4/4 (~22h, best first day since Day40)** / Day43 15/2/0 / Day42 65/7/3 / Day41 53/6/3 / Day40 241/8/5 / Day39 111/12/5 / Day38 86/10/3.
+Gumroad (10/5–11/5): views 20, sales 1 ($0, old free). Pinterest 8 (1 sale), direct 6, Facebook 4, l.instagram 1, m.facebook 1. Countries: Japan 9, US 6, Singapore 2, Sweden 2, Hong Kong 1.
