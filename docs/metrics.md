@@ -214,3 +214,4 @@ IG (11/4 06:58, 30d): views 1,949 (reels 1,942 / posts 7) / viewers 1,634 / foll
 Per post: **unagi (manual, with song, 15h) 116 views, 2 saves, 0 follows** / onsen 5 steps (1d) 109, 1 save / gyoza (auto, no song, 3d) 122, 1 save, **1 follow** / free views 144, 6 saves / illuminations 122, 3 saves / 20 things 192 / UK 170 / samurai onsen 132, 1 save.
 Note: dashboard attributes the follow to the **gyoza** reel, not unagi → song vs no-song: views about the same (116 vs 115 at ~16h), saves 2 vs 1. Not proven yet; compare yakitori (auto+song) tonight.
 Coconala: no messages.
+- 11/4 19:57: yakitori reel = first AUTO post with song (Metricool audioId) → published 18:00, Zero confirmed music plays. 25 views at ~2h.
