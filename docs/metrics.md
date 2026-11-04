@@ -215,3 +215,4 @@ Per post: **unagi (manual, with song, 15h) 116 views, 2 saves, 0 follows** / ons
 Note: dashboard attributes the follow to the **gyoza** reel, not unagi → song vs no-song: views about the same (116 vs 115 at ~16h), saves 2 vs 1. Not proven yet; compare yakitori (auto+song) tonight.
 Coconala: no messages.
 - 11/4 19:57: yakitori reel = first AUTO post with song (Metricool audioId) → published 18:00, Zero confirmed music plays. 25 views at ~2h.
+- 11/4 21:00: Coconala public board search (単発, 募集中): チラシ 2件 (event design 88 applicants / novel), 案内 2件 (IG deletion / ATM map 100–200万 incl. print), メニュー 1件 (salon research 107 applicants). None fit → no application.
