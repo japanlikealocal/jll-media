@@ -221,3 +221,8 @@ Coconala: no messages.
 note 28d (10/9–11/5 05:39): imp 2,830 / PV 182 / likes 83 / comments 4 / followers +18. **11/4 daily imp ~210 = best day in 28d.**
 Per day (imp/PV/likes): **Day44 98/4/4 (~22h, best first day since Day40)** / Day43 15/2/0 / Day42 65/7/3 / Day41 53/6/3 / Day40 241/8/5 / Day39 111/12/5 / Day38 86/10/3.
 Gumroad (10/5–11/5): views 20, sales 1 ($0, old free). Pinterest 8 (1 sale), direct 6, Facebook 4, l.instagram 1, m.facebook 1. Countries: Japan 9, US 6, Singapore 2, Sweden 2, Hong Kong 1.
+X: Day44 main 2 views, 1 reply (self link) / pinned 202 views, 1 like.
+IG (11/5 06:59, 30d): views 1,978 (reels 1,971 / posts 7) / viewers 1,643 / followers 2 / interactions 21 / profile visits 11 (flat) / link taps 0.
+Per post: **yakitori (AUTO + song, 13h) 115 views, 1 like (coreytries), 3 saves** / unagi (manual+song, 1d) 116, 2 saves / onsen 5 steps (2d) 110, 1 save / gyoza (auto no song, 4d) 126, 1 save, 1 follow / free views 144, 6 saves.
+Song vs no-song so far: views same (~115 at 13–16h); saves yakitori 3 / unagi 2 / gyoza 1 → small plus for song lists. 1st follower = ali_barodawala (not followed back yet).
+Coconala: no messages. IG: no JAPAN comments/DMs.
