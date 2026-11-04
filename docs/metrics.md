@@ -226,3 +226,4 @@ IG (11/5 06:59, 30d): views 1,978 (reels 1,971 / posts 7) / viewers 1,643 / foll
 Per post: **yakitori (AUTO + song, 13h) 115 views, 1 like (coreytries), 3 saves** / unagi (manual+song, 1d) 116, 2 saves / onsen 5 steps (2d) 110, 1 save / gyoza (auto no song, 4d) 126, 1 save, 1 follow / free views 144, 6 saves.
 Song vs no-song so far: views same (~115 at 13–16h); saves yakitori 3 / unagi 2 / gyoza 1 → small plus for song lists. 1st follower = ali_barodawala (not followed back yet).
 Coconala: no messages. IG: no JAPAN comments/DMs.
+- 11/5 07:01: Zero 'やる気が落ちて来た' (Q2–4: 特にない). Day45 note = honest low-motivation post.
