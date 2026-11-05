@@ -234,6 +234,8 @@ Per day (imp/PV/likes): **Day45 64/6/3 (~22h)** / **Day44 162/4/4 (2nd best ever
 Sources: note.com 56.4% (102) / no referrer 34.3% (62) / notification 6.1% (11) / Google 1.7% (3) / X 1.7% (3).
 X: Day45 main 6 views, 1 reply / link post 6 views.
 Gumroad (10/6–11/6): views 20, sales 1 ($0, old free). Pinterest 8 (1 sale), direct 6, Facebook 4, l.instagram 1, m.facebook 1. Countries: Japan 9, US 6, Singapore 2, Sweden 2, Hong Kong 1. (Same as 11/5 → no new views yesterday.)
-IG: screenshot not received yet.
+IG (11/6 06:54, 30d): views 2,099 (reels 2,092 / posts 7) / viewers 1,756 / net followers -- / interactions 25 (was 21) / profile visits 11 (flat) / link taps 0.
+Per post: **ramen (AUTO + song, 13h) 19 views, 0 saves — far below the usual ~115 at the same age** / yakitori (1d) 118, 1 like, 3 saves / unagi (2d) 116, 2 saves / onsen 5 steps (3d) 110, 1 save / gyoza (5d) 129, 1 save. Top views 30d: 20 things 192 / UK 170 / free views 144 (6 saves).
+→ Check ramen again tonight; if still low, compare what differs from yakitori (thumbnail, caption, song).
 Coconala: no messages. IG: no JAPAN comments/DMs.
 - 11/6 06:05: /l/japan was 404 → 8 scheduled pins switched to /l/wsqkjk (see pins.md).
