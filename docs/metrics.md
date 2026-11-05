@@ -227,3 +227,13 @@ Per post: **yakitori (AUTO + song, 13h) 115 views, 1 like (coreytries), 3 saves*
 Song vs no-song so far: views same (~115 at 13–16h); saves yakitori 3 / unagi 2 / gyoza 1 → small plus for song lists. 1st follower = ali_barodawala (not followed back yet).
 Coconala: no messages. IG: no JAPAN comments/DMs.
 - 11/5 07:01: Zero 'やる気が落ちて来た' (Q2–4: 特にない). Day45 note = honest low-motivation post.
+
+## 2026-11-06 ~06:00 snapshot
+note 28d (10/10–11/6 05:36): imp 2,964 / PV 181 / likes 80 / comments 4. 11/4 and 11/5 daily imp ~210–215 = two best days in 28d.
+Per day (imp/PV/likes): **Day45 64/6/3 (~22h)** / **Day44 162/4/4 (2nd best ever after Day40)** / Day43 21/2/– / Day42 74/7/3 / Day41 61/6/3 / Day40 247/8/5 / Day39 116/12/5.
+Sources: note.com 56.4% (102) / no referrer 34.3% (62) / notification 6.1% (11) / Google 1.7% (3) / X 1.7% (3).
+X: Day45 main 6 views, 1 reply / link post 6 views.
+Gumroad (10/6–11/6): views 20, sales 1 ($0, old free). Pinterest 8 (1 sale), direct 6, Facebook 4, l.instagram 1, m.facebook 1. Countries: Japan 9, US 6, Singapore 2, Sweden 2, Hong Kong 1. (Same as 11/5 → no new views yesterday.)
+IG: screenshot not received yet.
+Coconala: no messages. IG: no JAPAN comments/DMs.
+- 11/6 06:05: /l/japan was 404 → 8 scheduled pins switched to /l/wsqkjk (see pins.md).
