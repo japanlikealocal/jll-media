@@ -7,6 +7,7 @@ C = '#9E2B25'
 subprocess.run(['pdftoppm', '-f', '1', '-l', '1', '-r', '110', '-png', '-singlefile',
                 str(H / 'sample-english-menu.pdf'), '/tmp/_jll_menu_p1'], check=True)
 IMG = base64.b64encode(pathlib.Path('/tmp/_jll_menu_p1.png').read_bytes()).decode()
+QR = base64.b64encode((H / 'line-qr.png').read_bytes()).decode()
 
 HTML = f'''<!doctype html><html><head><meta charset=utf-8><style>
 @page{{size:A4;margin:0}}*{{margin:0;padding:0;box-sizing:border-box}}
@@ -14,11 +15,11 @@ html{{-webkit-print-color-adjust:exact;print-color-adjust:exact}}
 body{{font-family:"Noto Sans CJK JP",sans-serif;color:#2A211C;font-size:10.5pt;line-height:1.6;word-break:auto-phrase}}
 .pg{{width:210mm;height:297mm;position:relative;overflow:hidden;background:#FBF6EE}}
 .band{{height:8mm;background:{C}}}
-.wrap{{padding:11mm 15mm 0}}
+.wrap{{padding:8mm 15mm 0}}
 .kick{{color:{C};font-weight:700;letter-spacing:.12em;font-size:10.5pt}}
-h1{{font-size:27pt;line-height:1.3;font-weight:900;margin:2mm 0 2mm}}
+h1{{font-size:24pt;line-height:1.3;font-weight:900;margin:2mm 0 2mm}}
 .lead{{font-size:11.5pt;color:#5A4D43}}
-.ba{{display:grid;grid-template-columns:1fr 9mm 1.35fr;align-items:center;margin:7mm 0 6mm}}
+.ba{{display:grid;grid-template-columns:1fr 9mm 1.35fr;align-items:center;margin:5mm 0 4mm}}
 .box{{background:#fff;border-radius:3mm;padding:4mm 5mm;border:1px solid #DCCFBF;height:100%}}
 .box .lb{{font-size:8.5pt;font-weight:700;color:#8A7B6E;letter-spacing:.1em;margin-bottom:1.5mm}}
 .before .nm{{font-size:15pt;font-weight:700}}
@@ -31,13 +32,13 @@ h1{{font-size:27pt;line-height:1.3;font-weight:900;margin:2mm 0 2mm}}
 .arr{{text-align:center;font-size:20pt;color:{C};font-weight:900}}
 .mid{{display:grid;grid-template-columns:1fr 62mm;gap:7mm}}
 h2{{font-size:13pt;font-weight:900;margin:0 0 2mm;padding-left:3mm;border-left:2mm solid {C}}}
-ul{{list-style:none;margin-bottom:5mm}}
-li{{padding:1.4mm 0 1.4mm 5.5mm;position:relative;border-bottom:1px solid #E6DBCD}}
-li:before{{content:"";position:absolute;left:0;top:3.4mm;width:2.4mm;height:2.4mm;background:{C};border-radius:50%}}
+ul{{list-style:none;margin-bottom:3mm}}
+li{{padding:.9mm 0 .9mm 5.5mm;position:relative;border-bottom:1px solid #E6DBCD}}
+li:before{{content:"";position:absolute;left:0;top:2.9mm;width:2.4mm;height:2.4mm;background:{C};border-radius:50%}}
 .thumb{{background:#fff;border:1px solid #DCCFBF;border-radius:2mm;padding:2mm;text-align:center}}
-.thumb img{{width:100%;display:block}}
+.thumb img{{width:88%;margin:0 auto;display:block}}
 .thumb p{{font-size:8pt;color:#6A5D53;margin-top:1mm}}
-.price{{background:{C};color:#fff;border-radius:4mm;padding:5mm 7mm;display:flex;align-items:center;justify-content:space-between;margin:2mm 0 5mm}}
+.price{{background:{C};color:#fff;border-radius:4mm;padding:5mm 7mm;display:flex;align-items:center;justify-content:space-between;margin:1mm 0 3mm}}
 .price .t{{font-size:10.5pt;font-weight:700}}
 .price .t small{{display:block;font-weight:400;font-size:9pt;opacity:.92}}
 .price .n{{font-size:28pt;font-weight:900;line-height:1}}
@@ -46,8 +47,8 @@ li:before{{content:"";position:absolute;left:0;top:3.4mm;width:2.4mm;height:2.4m
 .note{{font-size:8.8pt;color:#5A4D43;line-height:1.55}}
 .note li{{border:none;padding:.4mm 0 .4mm 4mm}}
 .note li:before{{width:1.6mm;height:1.6mm;top:2.2mm;background:#8A7B6E}}
-.foot{{position:absolute;left:15mm;right:15mm;bottom:14mm;background:#fff;border:1.5px solid #2A211C;border-radius:3mm;padding:6mm 7mm;display:flex;justify-content:space-between;align-items:flex-end;font-size:11pt}}
-.foot .ct{{display:inline-block;border-bottom:1px solid #2A211C;width:95mm;height:7mm;vertical-align:bottom}}
+.foot{{position:absolute;left:15mm;right:15mm;bottom:7mm;background:#fff;border:2px solid #06A746;border-radius:3mm;padding:4mm 7mm;display:flex;justify-content:space-between;align-items:center;font-size:11pt}}
+.foot .fh{{font-size:13pt;font-weight:900;color:#06A746}}.foot .fs{{font-size:10pt;margin-top:1mm}}.foot .fn{{font-size:9pt;color:#6A5D53;margin-top:1.5mm}}.foot .qr{{width:30mm;height:30mm}}
 </style></head><body><section class=pg><div class=band></div><div class=wrap>
 <div class=kick>飲食店さま向け</div>
 <h1>外国人のお客さまに、<br>「何の料理か」伝わるメニューを。</h1>
@@ -88,7 +89,7 @@ li:before{{content:"";position:absolute;left:0;top:3.4mm;width:2.4mm;height:2.4m
  <li>ネイティブの校閲や認証翻訳ではありません。写真やイラストの作成は含みません。</li>
 </ul>
 </div>
-<div class=foot><span>作成：ゼロ</span><span>ご連絡先：<span class=ct>&nbsp;</span></span></div>
+<div class=foot><div><div class=fh>ご相談・お申し込みはLINEで</div><div class=fs>QRコードを読み取って、友だち追加してください<br>LINE ID：<b>@455leglb</b>（ゼロAI司令塔）</div><div class=fn>作成：ゼロ</div></div><img class=qr src="data:image/png;base64,{QR}"></div>
 </section></body></html>'''
 
 with sync_playwright() as p:
