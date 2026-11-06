@@ -68,3 +68,4 @@ From Zero's screenshot of the profile, 2026-10-18 07:10 (newest first, as shown)
 - 2026-11-10: Harajuku → Aoyama walk (pin-harajuku-walk.png) → paid guide — 17:00 (IG reel 11/9 18:00 with song). Schematic from coordinates.
 - **11/6 06:05 リンク切れ修正**：/l/japan は「Page not found」（ゼロのスマホで確認）。有料版の正しいURLは https://zeroailog.gumroad.com/l/wsqkjk 。予約中の8本（11/6 20:00〜11/10 17:00）をMetricoolで wsqkjk に差し替え済み。11/4〜11/5に公開済みの旅のコツ系ピンは /l/japan のまま（Pinterest側で直すかは未定）。今後の有料版ピンは必ず /l/wsqkjk。
 - **11/6 18:20**：Gumroad有料版に custom URL「japan」を設定 → /l/japan も有料版に届く（/l/wsqkjk も有効、両方スマホで確認）。過去ピンの修正は不要になった。
+- 2026-11-11: 12:00 Japan vs USA (compare-japan-usa.png, raw GitHub) → paid /l/wsqkjk / 17:00 order food without Japanese (re-pin, new title) → food map / 20:00 toilet buttons (re-pin, new title) → paid. Scheduled 11/7 06:59.

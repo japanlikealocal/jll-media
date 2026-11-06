@@ -239,3 +239,14 @@ Per post: **ramen (AUTO + song, 13h) 19 views, 0 saves — far below the usual ~
 → Check ramen again tonight; if still low, compare what differs from yakitori (thumbnail, caption, song).
 Coconala: no messages. IG: no JAPAN comments/DMs.
 - 11/6 06:05: /l/japan was 404 → 8 scheduled pins switched to /l/wsqkjk (see pins.md).
+
+## 2026-11-07 ~06:55 snapshot (Sat)
+note 28d (10/11–11/7 05:41): imp 3,083 / PV 183 / likes 81 / comments 4. **11/6 daily imp ~235 = best day in 28d (3rd record day in a row: 11/4 ~210, 11/5 ~215, 11/6 ~235).**
+Per day (imp/PV/likes): **Day46 37/5/3 (~22h)** / Day45 158/6/3 / Day44 190/4/4 / Day43 24/2/– / Day42 76/7/3 / Day41 67/6/3 / Day40 282/9/6.
+Sources: note.com 59% (108) / no referrer 32.2% (59) / notification 5.5% (10) / Google 1.6% (3) / X 1.6% (3).
+X: Day46 main 10 views, 1 reply / link post 2 views.
+Gumroad (10/7–11/7): views 21, sales 0 (the old $0 test sale left the window). Direct 9, Pinterest 6, Facebook 4, m.facebook 1, l.instagram 1. Countries: Japan 10, US 6, Singapore 2, Sweden 2, Hong Kong 1.
+IG (11/7 06:55, 30d): views 2,132 (reels 2,125 / posts 7) / viewers 1,779 / followers 2 / interactions 26 / profile visits 11 (flat) / link taps 0.
+Per post: **carpenter reel (auto+song, 13h) 19 views, 0 likes** / **ramen (1d) 31 views, 1 save** / yakitori (2d) 119, 1 like, 3 saves / unagi (3d) 116, 2 saves / onsen 5 steps (4d) 110, 1 save / gyoza (6d) 137, 1 save, 1 follow.
+→ Two low reels in a row (ramen 11/5, carpenter 11/6; both ~20–30 at 13–24h vs usual ~115). Same posting setup as yakitori (auto+song 18:00). Check Tokyo vs Osaka (11/7 18:00) tomorrow before changing anything.
+- 11/7 06:59: scheduled 11/10 18:00 IG reel = Japan vs USA image-reel (same format as UK reel = 170 views; USA was only an image post before = 0 views), song Okay Now. Pins 11/11 12:00 Japan vs USA → paid / 17:00 order-food → food map / 20:00 toilet buttons → paid.
