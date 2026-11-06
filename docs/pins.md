@@ -67,3 +67,4 @@ From Zero's screenshot of the profile, 2026-10-18 07:10 (newest first, as shown)
 - **11/3 Pinterest boost (Zero: 「両方とも頑張れない？」)：11/4〜11/10 に 12:00 と 20:00 の再ピン14本を追加**（既存画像を新タイトルで。食べ物→食べ歩きマップ、旅のコツ→有料ガイド）。既存17:00枠と合わせ1日2〜3本。11/10で切れる→以降も毎日2本以上を維持。週末にGumroadのPinterest流入を比較。
 - 2026-11-10: Harajuku → Aoyama walk (pin-harajuku-walk.png) → paid guide — 17:00 (IG reel 11/9 18:00 with song). Schematic from coordinates.
 - **11/6 06:05 リンク切れ修正**：/l/japan は「Page not found」（ゼロのスマホで確認）。有料版の正しいURLは https://zeroailog.gumroad.com/l/wsqkjk 。予約中の8本（11/6 20:00〜11/10 17:00）をMetricoolで wsqkjk に差し替え済み。11/4〜11/5に公開済みの旅のコツ系ピンは /l/japan のまま（Pinterest側で直すかは未定）。今後の有料版ピンは必ず /l/wsqkjk。
+- **11/6 18:20**：Gumroad有料版に custom URL「japan」を設定 → /l/japan も有料版に届く（/l/wsqkjk も有効、両方スマホで確認）。過去ピンの修正は不要になった。
