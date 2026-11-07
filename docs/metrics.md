@@ -250,3 +250,14 @@ IG (11/7 06:55, 30d): views 2,132 (reels 2,125 / posts 7) / viewers 1,779 / foll
 Per post: **carpenter reel (auto+song, 13h) 19 views, 0 likes** / **ramen (1d) 31 views, 1 save** / yakitori (2d) 119, 1 like, 3 saves / unagi (3d) 116, 2 saves / onsen 5 steps (4d) 110, 1 save / gyoza (6d) 137, 1 save, 1 follow.
 → Two low reels in a row (ramen 11/5, carpenter 11/6; both ~20–30 at 13–24h vs usual ~115). Same posting setup as yakitori (auto+song 18:00). Check Tokyo vs Osaka (11/7 18:00) tomorrow before changing anything.
 - 11/7 06:59: scheduled 11/10 18:00 IG reel = Japan vs USA image-reel (same format as UK reel = 170 views; USA was only an image post before = 0 views), song Okay Now. Pins 11/11 12:00 Japan vs USA → paid / 17:00 order-food → food map / 20:00 toilet buttons → paid.
+
+## 2026-11-08 ~07:25 snapshot (Sun) + weekly review
+note 28d (10/12–11/8 07:13): imp 3,174 / PV 177 / likes 80 / comments 4 / followers +16. 11/7 daily imp ~180 (11/4–11/6: ~210/215/235).
+Per day (imp/PV/likes): **Day47 16/1/2 (~22h, low)** / Day46 76/5/3 / Day45 182/6/3 / Day44 233/4/5 / Day43 24/2/– / Day40 283/9/6.
+Sources: note.com 58.8% (104) / no referrer 32.2% (57) / notification 5.6% / Google 1.7% / X 1.7%.
+X: Day47 main 6 views, 1 reply / link post 4 views.
+Gumroad (10/8–11/8): views 22, sales 0. Direct 10, Pinterest 6, Facebook 4, l.instagram 1, m.facebook 1. US 6, Japan 10, HK 2, SG 2, SE 2.
+IG (11/8 07:23, 30d): views 2,172 (reels 2,165) / viewers 1,806 / followers 2 / interactions 27 / profile visits 11 (flat all week) / link taps 0.
+Per post: **Tokyo vs Osaka (auto+song, 13h) 159 views** = 3rd best ever / carpenter (1d) 22 / ramen (2d) 31 / yakitori (3d) 127 / unagi 116 / onsen 110 / gyoza 150 (1 share).
+All-time top 3 by views: 20 things 192 / Japan vs UK 170 / Tokyo vs Osaka 159 → all COMPARISON/checklist style. Ramen & carpenter lows were content-specific, not the posting setup.
+Weekly: next thing to try = make 11/11+ reels comparison style ("X vs Y"). Japan vs USA already set for 11/10. Profile visits/link taps still flat → reach ≠ clicks; Gumroad views ~20/month.
