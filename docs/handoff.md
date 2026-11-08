@@ -1,5 +1,7 @@
 # 引き継ぎメモ（今の状態）— 最終更新 2026-10-20 22:20（10/20夜の作業終了）
 
+**★11/8 17:31 画像AI**：ChatGPTのサブスクが11/8で切れる（ゼロ）。Perplexity比較 docs/image-ai-compare-perplexity-2026-11-08.md はFirefly推し（月1,580円）。Fireflyアプリ（Firefly Image 5、商用利用可）で天ぷら12コマを2回試作→生の野菜、れんこん3回、イカ・白身魚なし、11コマで2回ともほぼ同じ→**12コマ料理には不向き**。Claudeのおすすめ＝ChatGPT Plus継続（$20）。ゼロの決定待ち。Fireflyアプリは11/8にGoogleでログイン連携、パートナーモデル（Gemini, Flux等）も選べる。
+
 **★11/8 16:50 外国人向け「売れるように」3点（ゼロ「売れるなら何でもする」→全部やる）**：①**済 17:00**：インスタのプロフィールのリンクを食べ歩きマップ https://zeroailog.gumroad.com/l/tokyo-food-map（タイトル Tokyo Food Map (48 spots)）、自己紹介の最終行を「👇 Tokyo Food Map: 48 local spots」に変更②**済**：予約リール6本（11/8〜11/13）の動画下の文字を「📌 Save it · 🍜 Tokyo Food Map: link in bio」に作り直し、キャプション最後も「Comment JAPAN…無料ガイド」→「🍜 Hungry in Tokyo? My Tokyo Food Map has 48 food spots near stations… Link in bio.」に差し替え（曲そのまま）。今後のリールも同じCTA（tools/build_image_reels.py 変更済み）。③**済 17:08**：有料ガイド（/l/wsqkjk）を$2.99に変更、説明の1行目に「🎉 Launch price: $2.99 until November 22, 2026 (regular price $4.99).」（改行が入らず次の文とくっついている→次回直す）。**11/23に$4.99へ戻し、1行目を消す。**JLL20割引・自動メール文面の値段表記に注意。やらないこと：ウソのレビュー・宣伝の連投。
 
 **★11/8 16:45 Etsy：問い合わせ送信済み（返事待ち、1〜2日）**。調査 docs/etsy-research-perplexity-2026-11-08.md（日本在住OK・Payoneer経由で日本の口座へ・PDF販売OK・開設料は登録途中で表示）。**問題：10/22のAIルールで「作り方・説明書」のAI生成が禁止→旅行ガイドが該当するか不明**→Etsyサポートに「AIで手伝った旅行ガイドは機能的手順書に当たるか、AI使用を明記すれば売れるか」を英語で質問。返事は **jtatgd@yahoo.co.jp** に届く（英語→ゼロが貼る→日本語に訳す）。Etsyアカウントは 11/8 にGoogle（zeroailog45@gmail.com）で作成済み（購入者アカウント、ショップ未開設）。返事を見てからショップ開設を決める。※チャット内ブラウザはチャットに戻るとリセット→ログインが必要な作業はSafariで。
