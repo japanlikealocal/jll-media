@@ -261,3 +261,13 @@ IG (11/8 07:23, 30d): views 2,172 (reels 2,165) / viewers 1,806 / followers 2 / 
 Per post: **Tokyo vs Osaka (auto+song, 13h) 159 views** = 3rd best ever / carpenter (1d) 22 / ramen (2d) 31 / yakitori (3d) 127 / unagi 116 / onsen 110 / gyoza 150 (1 share).
 All-time top 3 by views: 20 things 192 / Japan vs UK 170 / Tokyo vs Osaka 159 → all COMPARISON/checklist style. Ramen & carpenter lows were content-specific, not the posting setup.
 Weekly: next thing to try = make 11/11+ reels comparison style ("X vs Y"). Japan vs USA already set for 11/10. Profile visits/link taps still flat → reach ≠ clicks; Gumroad views ~20/month.
+
+## 2026-11-09 ~06:55 snapshot (Mon)
+note 28d (10/13–11/9 05:37): imp 3,262 / PV 172 / likes 78 / comments 4. Sales: none.
+Per article (imp/PV/likes): **Paid article 300 yen (11/8 16:15, ~13h) 32/2/–** / Day48 35/1/– / Day47 21/1/2 / Day46 92/5/3 / Day45 191/6/3 / Day44 241/4/5 / Day40 287/9/6.
+Sources: note.com 58.7% (101) / no referrer 33.1% (57) / notification 4.7% / Google 1.7% / X 1.7%.
+X: paid article post 51 views, 2 likes, 2 replies (1 from ぜろふく, supportive) / link 18 / Day48 main 14 views, 1 reply.
+Gumroad (10/9–11/9): views 23, sales 0. Direct 10, Facebook 6, Pinterest 3, m.facebook 3, l.instagram 1. US 8, Japan 7, Sweden 3, HK 2, SG 2, Ireland 1.
+IG (30d): views 2,345 (reels 2,338) / viewers 1,948 / followers 2 / interactions 28 / profile visits 12 (was 11) / link taps 0.
+Per post: **area map (auto+song, 13h) 134 views, 3 saves** / Tokyo vs Osaka (1d) 159 / carpenter 22 / ramen 31 / yakitori 132 (3 saves) / gyoza 161 (1 share, 1 follow). Top: 20 things 192 / UK 170 / gyoza 161 / Tokyo-Osaka 159 / free views 147 (6 saves).
+Bio link changed to food map 11/8 17:00 → first full day of data tomorrow.
