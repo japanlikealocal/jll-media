@@ -26,7 +26,7 @@ with sync_playwright() as pw:
     br=pw.chromium.launch(); pg=br.new_page(viewport={'width':1080,'height':1920})
     for img,hook,out in JOBS:
         src=R/f'assets/{img}.png'; tmp=R/'tools/_ir.html'
-        tmp.write_text(f'<!doctype html><html><head><meta charset=utf-8><style>{CSS}</style></head><body><div class=t>{hook}</div><div class=b><span>📌 Save it · 💬 Comment JAPAN for a free guide</span></div></body></html>')
+        tmp.write_text(f'<!doctype html><html><head><meta charset=utf-8><style>{CSS}</style></head><body><div class=t>{hook}</div><div class=b><span>📌 Save it · 🍜 Tokyo Food Map: link in bio</span></div></body></html>')
         pg.goto(tmp.as_uri()); pg.wait_for_timeout(400); ov=R/'tools/_ir_ov.png'; pg.screenshot(path=str(ov),omit_background=True); tmp.unlink()
         # bg: blurred, darkened image filling 1080x1920; fg: image 1080 wide, slow zoom
         fc=("[0]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=30:3,eq=brightness=-0.18[bg];"
