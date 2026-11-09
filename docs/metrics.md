@@ -271,3 +271,13 @@ Gumroad (10/9–11/9): views 23, sales 0. Direct 10, Facebook 6, Pinterest 3, m.
 IG (30d): views 2,345 (reels 2,338) / viewers 1,948 / followers 2 / interactions 28 / profile visits 12 (was 11) / link taps 0.
 Per post: **area map (auto+song, 13h) 134 views, 3 saves** / Tokyo vs Osaka (1d) 159 / carpenter 22 / ramen 31 / yakitori 132 (3 saves) / gyoza 161 (1 share, 1 follow). Top: 20 things 192 / UK 170 / gyoza 161 / Tokyo-Osaka 159 / free views 147 (6 saves).
 Bio link changed to food map 11/8 17:00 → first full day of data tomorrow.
+
+## 2026-11-10 ~06:55 snapshot (Tue) — ad day 1
+note 28d (10/14–11/10 05:42): imp 3,328 / PV 170 / likes 78 / comments 4. Sales: none.
+Per article (imp/PV/likes): Day49 51/2/2 / **Paid article 47/2/–** / Day48 44/1/– / Day47 26/1/2 / Day46 105/5/3 / Day45 195/6/3 / Day44 246/4/5 / Day40 288/9/6.
+Sources: note.com 58.2% (99) / no referrer 33.5% (57) / notification 4.7% / Google 1.8% / X 1.8%.
+X: Day49 main 28 views, 1 reply / link 5. Older pinned-ish post 237 views.
+Gumroad (10/10–11/10): **views 32 (was 23, +9)**, sales 0. Direct 13, m.facebook 8 (was 3), Facebook 7 (was 6), Pinterest 3, l.instagram 1. US 14 (was 8), Japan 7, Sweden 6, HK 2, SG 2, Ireland 1. → first effect of the IG ad (Meta traffic shows as facebook referrers).
+IG (30d): views 2,489 (reels 2,482) / viewers 2,067 / followers 2 / interactions 32 / profile visits 12 / link taps 0.
+Per post: Harajuku walk (13h) 120, 1 save / area map (1d) 134, 3 saves / **gyoza (boosted) 176 views, 144 viewers** (was 161) / Tokyo-Osaka 159 / yakitori 135 / unagi 117 / onsen 110.
+Saves top: free views 6 / area map 3 / yakitori 3 / illuminations 3.
