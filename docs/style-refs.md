@@ -40,3 +40,10 @@
 - おしゃれカフェ16選 (tokyo.hack) 161. グルメinfo 東京ランチ10選 137. ミシュラン7選 132. おでん12選 73. 1000円台ランチ 65.
 - jiha_gourmet dark/red "駅おすすめ6〜8選" with tabelog score: 6–99 likes (weak). Kids/pancake/date lists: 2 likes.
 - Takeaways for us: (1) yakitori / tempura / cafe are strong next topics; (2) **comparison format "Tokyo vs Osaka: 8 eating differences" for foreigners** — comment-bait ("which side are you?"); (3) authority words (Michelin/百名店) lift saves, but only if verified.
+
+## 2026-11-09 Zero's saved IG posts (20 screenshots) — patterns only, do not copy designs
+- Biggest numbers: free factory tours "見学0円" 12 picks (4,037 likes / 1,313 shares) > onsen-town TIER list SSS/SS/S/A (1,302 / 281 shares) > "Beyond Tokyo" day-trip carousel 20 slides (1,133) > "Tokyo 100 things" carousel 11 slides (630).
+- Common format: big title with a number (12/15/16/20) + "2026 / 保存版", numbered grid, each cell = name + station + price range + one-line reason, small disclaimer "AI illustration / check official info / checked on DATE". Many label themselves "AIコンテンツ".
+- Hooks that spread: FREE (0円), ranking/tier list, "once in a lifetime", series split across many slides ("100 things" parts 1–11), a mascot character.
+- Several big accounts post in Traditional Chinese for Taiwan/Hong Kong visitors (maison.shirley, fattsai, crystal_hongkong) → TW/HK is an active audience we don't serve yet (we are English-only).
+- Ideas for us: (1) "FREE in Tokyo" lists, (2) tier lists (ramen, onsen towns near Tokyo), (3) a Traditional Chinese test version of our best post (translation checked by Perplexity), (4) a numbered series ("50 things in Tokyo" part 1/5…). Avoid brand logos/characters in our art.
