@@ -290,3 +290,7 @@ Judge on Gumroad sales (target: ad cost per sale < ~¥1,200). Next check: tomorr
 Gumroad (10/11–11/11): **views 48 (was 32, +16)**, sales 0. Referrers: m.facebook 17 (was 8), Direct 13, Facebook 11 (was 7), instagram.com 3, Pinterest 2, l.facebook 1, l.instagram 1 → Meta (ad) traffic ≈30. Countries: US 18, AU 6, CA 6, Sweden 6, Japan 6, HK 3, UK 1, Ireland 1, SG 1.
 note (10/15–11/11, 05:38): imp 3,365 / PV 167 / スキ 77 / comments 4 / followers +17 (month). Day49 imp 58, PV 2, スキ 2. Day50 imp 16 (early). Paid article (11/8) imp 49, PV 2, 0 sales. Sources: note.com 97, no referrer 56, notification 8, Google 3, X 3.
 IG ad (11/10 20:10): plays 138 / site visits 15 / ¥117 spent. IG 30d views 2,684.
+IG (30d, 06:56): views 2,684 (reels 2,663) / viewers 2,209 / interactions 33 / profile visits 13 / link taps 0. **AU comparison reel 193 plays in 13h** (2nd-best ever pace). Gyoza 195, First trip 195, UK 171, Tokyo-Osaka 163, free views 152 (6 saves, top save).
+IG ad 06:58: plays 142 / site visits 15 / ¥119 spent (only +¥2 overnight → delivery slow; watch).
+X: Day50 post 15 views, 1 reply; note card 1. Older post 242.
+Coconala / IG DM: none.
