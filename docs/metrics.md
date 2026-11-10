@@ -285,3 +285,8 @@ Saves top: free views 6 / area map 3 / yakitori 3 / illuminations 3.
 ### 2026-11-10 20:10 IG ad check (gyoza reel → food map)
 Ad tool: plays 138 / website visits 15 / spent ¥117 of ¥2,868 / 5 days left. ≈¥8 per site visit. IG 30d views 2,684.
 Judge on Gumroad sales (target: ad cost per sale < ~¥1,200). Next check: tomorrow morning with Gumroad views/sales.
+
+## 2026-11-11 snapshot (06:55)
+Gumroad (10/11–11/11): **views 48 (was 32, +16)**, sales 0. Referrers: m.facebook 17 (was 8), Direct 13, Facebook 11 (was 7), instagram.com 3, Pinterest 2, l.facebook 1, l.instagram 1 → Meta (ad) traffic ≈30. Countries: US 18, AU 6, CA 6, Sweden 6, Japan 6, HK 3, UK 1, Ireland 1, SG 1.
+note (10/15–11/11, 05:38): imp 3,365 / PV 167 / スキ 77 / comments 4 / followers +17 (month). Day49 imp 58, PV 2, スキ 2. Day50 imp 16 (early). Paid article (11/8) imp 49, PV 2, 0 sales. Sources: note.com 97, no referrer 56, notification 8, Google 3, X 3.
+IG ad (11/10 20:10): plays 138 / site visits 15 / ¥117 spent. IG 30d views 2,684.
