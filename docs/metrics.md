@@ -281,3 +281,7 @@ Gumroad (10/10–11/10): **views 32 (was 23, +9)**, sales 0. Direct 13, m.facebo
 IG (30d): views 2,489 (reels 2,482) / viewers 2,067 / followers 2 / interactions 32 / profile visits 12 / link taps 0.
 Per post: Harajuku walk (13h) 120, 1 save / area map (1d) 134, 3 saves / **gyoza (boosted) 176 views, 144 viewers** (was 161) / Tokyo-Osaka 159 / yakitori 135 / unagi 117 / onsen 110.
 Saves top: free views 6 / area map 3 / yakitori 3 / illuminations 3.
+
+### 2026-11-10 20:10 IG ad check (gyoza reel → food map)
+Ad tool: plays 138 / website visits 15 / spent ¥117 of ¥2,868 / 5 days left. ≈¥8 per site visit. IG 30d views 2,684.
+Judge on Gumroad sales (target: ad cost per sale < ~¥1,200). Next check: tomorrow morning with Gumroad views/sales.
