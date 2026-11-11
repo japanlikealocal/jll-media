@@ -297,3 +297,8 @@ Coconala / IG DM: none.
 
 ### 2026-11-11 20:23 IG ad
 plays 221 / site visits 18 / ¥193 spent (+¥74 today, budget pace ~¥478/day → underspending). ≈¥11 per site visit. 4 days left. Decision: leave as is (editing restarts learning). Payoneer: only a generic "next step" reminder email, support reply still pending.
+
+## 2026-11-12 snapshot (07:00)
+Gumroad (10/12–11/12): **views 53 (was 48, +5)**, sales 0. Referrers: m.facebook 19, Facebook 14, Direct 12, instagram.com 4, Pinterest 2, l.facebook 1, l.instagram 1. Countries: US 18, CA 8, AU 8, Sweden 6, Japan 6, HK 3, UK 2, Ireland 1, SG 1.
+note (10/16–11/12, 05:37): imp 3,502 / PV 170 / スキ 77 / comments 4. Day51 imp 31, PV 2. Day50 imp 22, PV 1. Day49 imp 93.
+IG ad (11/11 20:23): plays 221 / site visits 18 / ¥193.
