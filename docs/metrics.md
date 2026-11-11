@@ -294,3 +294,6 @@ IG (30d, 06:56): views 2,684 (reels 2,663) / viewers 2,209 / interactions 33 / p
 IG ad 06:58: plays 142 / site visits 15 / ¥119 spent (only +¥2 overnight → delivery slow; watch).
 X: Day50 post 15 views, 1 reply; note card 1. Older post 242.
 Coconala / IG DM: none.
+
+### 2026-11-11 20:23 IG ad
+plays 221 / site visits 18 / ¥193 spent (+¥74 today, budget pace ~¥478/day → underspending). ≈¥11 per site visit. 4 days left. Decision: leave as is (editing restarts learning). Payoneer: only a generic "next step" reminder email, support reply still pending.
