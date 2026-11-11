@@ -302,3 +302,7 @@ plays 221 / site visits 18 / ¥193 spent (+¥74 today, budget pace ~¥478/day �
 Gumroad (10/12–11/12): **views 53 (was 48, +5)**, sales 0. Referrers: m.facebook 19, Facebook 14, Direct 12, instagram.com 4, Pinterest 2, l.facebook 1, l.instagram 1. Countries: US 18, CA 8, AU 8, Sweden 6, Japan 6, HK 3, UK 2, Ireland 1, SG 1.
 note (10/16–11/12, 05:37): imp 3,502 / PV 170 / スキ 77 / comments 4. Day51 imp 31, PV 2. Day50 imp 22, PV 1. Day49 imp 93.
 IG ad (11/11 20:23): plays 221 / site visits 18 / ¥193.
+IG (30d, 07:03): views 2,877 / viewers 2,345 / profile visits 13 / link taps 0. **AU comparison reel (11/11 18:00) 1,211 plays / 711 viewers / 4 likes in 13h = best ever by 5x** (IG itself suggests boosting it). USA 193, gyoza 228, First trip 195.
+IG ad 07:04: plays 308 / site visits 22 / ¥271 (+¥78 overnight). ≈¥12 per visit.
+X: Day51 post 103 views, 1 reply, 1 repost, 1 like (Day50 was 15). Note card 8.
+→ Next: more "Japan vs <country>" reels (NZ next). Consider AU reel as next ad after gyoza ad ends (11/15).
