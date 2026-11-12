@@ -309,3 +309,8 @@ X: Day51 post 103 views, 1 reply, 1 repost, 1 like (Day50 was 15). Note card 8.
 
 ### 2026-11-12 13:04 first "JAPAN" comment
 krissyevents_ commented "Japan" on the yakitori reel (11/4). Replied publicly + sent DM (free guide link + food map mention). DM went as a message request (they must accept). Gyoza reel passed 500 plays (IG notice).
+
+## 2026-11-13 snapshot (05:05)
+Gumroad (10/13–11/13): **views 71 (was 53, +18)**, **sales 1 ($0 = free Japan Quick Start download)** from instagram.com (US) → most likely krissyevents_ after the 11/12 DM. Referrers: m.facebook 25, Facebook 24, Direct 13, instagram.com 5 (1 sale, 20%), l.facebook 3, Pinterest 1. Countries: US 22 (1 sale), CA 17, AU 11, UK 6, Sweden 5, Japan 4, HK 3, Ireland 2, SG 1.
+note (10/17–11/13, 04:12): imp 3,542 / PV 174 / スキ 78 / comments 4. Day52 imp 34, PV 4, スキ 2. Day51 imp 42.
+X: Day52 post 6–7 views, 1 reply (low; Day51 was 103).
