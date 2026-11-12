@@ -10,15 +10,28 @@ JPN=[('💵','Tipping','Not expected'),('🏷️','Price tags','Tax included'),(
 ('↕️','Escalators','Stand still · Tokyo: often left'),('👟','Shoes at home','Off at the door'),('📱','Calls on trains','Avoided on local trains'),
 ('🧾','Paying at restaurants','Often at the register'),('🙇','Greeting','Often a bow'),('♨️','Hot spring / spa','Usually no swimsuit'),
 ('🆘','Emergency','110 police · 119 fire/ambulance')]
+AU2=[('🔌','Plugs & voltage','Type A · 100V','Type I · 230V'),
+('💳','Paying','Some small shops cash only','Cards most common'),
+('🚦','Red light','Never cross on red','Same rule (QLD, VIC)'),
+('🎫','Transit card','Suica / PASMO','Opal (Syd) · myki (Melb)'),
+('🚰','Tap water','Safe unless signed','Generally safe unless signed'),
+('☀️','June–August','Summer','Winter (most areas)'),
+('🚗','Driving in Japan','IDP + your licence','Get IDP before you fly'),
+('🏪','Convenience stores','Many 24h · real meals','7-Eleven has hot food too'),
+('🍡','Eating on the go','Avoided in some areas','NSW buses: water only')]
 C={'au':('AUSTRALIA','🇦🇺','px-3753589-sydney.jpg',['Tips not expected','Prices include GST','Drive on the left','Usually stand left','Shoes: ask your host','Some quiet carriages','Ask where to pay','Handshakes common','Usually swimwear','Call 000'],{}),
 'ca':('CANADA','🇨🇦','px-1519088-toronto.jpg',['15–20% before tax','Tax usually extra','Drive on the right','Usually stand right','Shoes usually off','Some quiet zones','Usually pay at table','Handshakes common','Usually swimwear','Call 911'],{}),
 'sg':('SINGAPORE','🇸🇬','px-1842332-singapore.jpg',['Tips not expected','GST incl.; check menu','Drive on the left','Usually left; check signs','Shoes usually off','Keep noise low','Ask where to pay','Handshake if offered','Type G plugs · 230V','Police 999 · Fire/ambulance 995'],{8:('🔌','Plugs & voltage','Type A plugs · 100V')}),
+'au2':('AUSTRALIA','🇦🇺','px-3753589-sydney.jpg',[r[3] for r in AU2],{'rows':AU2,'title':'JAPAN VS AUSTRALIA · PART 2: 9 MORE THINGS'}),
 'nz':('NEW ZEALAND','🇳🇿','px-2187629-nz.jpg',['Tips not required','Prices usually incl. GST','Drive on the left','Tend to stand left','Ask your host','Keep calls quiet','Some cafés: pay at counter','Handshake common','Public pools: swimwear','Call 111'],{})}
 NOTE='General customs — they vary by place, home and business. Follow local signs and staff instructions. Photos: Pexels.'
 for k in (sys.argv[1:] or C):
     name,flag,photo,right,swap=C[k]; US=(R/'assets/covers'/photo).as_uri()
-    left=[swap.get(i,JPN[i]) for i in range(10)]
-    ROWS=[(e,t,a,right[i]) for i,(e,t,a) in enumerate(left)]
+    if 'rows' in swap: ROWS=swap['rows']
+    else:
+        left=[swap.get(i,JPN[i]) for i in range(10)]
+        ROWS=[(e,t,a,right[i]) for i,(e,t,a) in enumerate(left)]
+    TT=swap.get('title',f'JAPAN VS {name}: 10 THINGS TO KNOW')
     rows=''.join(f'<div class=r><div class=l>{a}</div><div class=c><span>{e}</span>{t}</div><div class=rr>{b}</div></div>' for e,t,a,b in ROWS)
     html=f'''<!doctype html><html><head><meta charset=utf-8><style>
     @font-face{{font-family:I;src:url({F}/Inter-ExtraBold.ttf);font-weight:800}}
@@ -45,9 +58,9 @@ for k in (sys.argv[1:] or C):
     .foot{{position:absolute;left:0;right:0;bottom:0;height:72px;background:#141B2D;color:#fff;display:flex;align-items:center;justify-content:space-between;padding:0 30px;font-weight:800;font-size:23px}}
     .foot i{{font-style:normal;color:#FFD43B}}
     .jp{{display:flex;align-items:center;gap:12px}}.jp b{{width:44px;height:44px;border-radius:50%;background:#D62828;display:flex;align-items:center;justify-content:center;font-size:17px}}
-    {'.hd .u b{font-size:46px;white-space:nowrap} .tt{font-size:24px;padding-right:150px}' if len(name)>9 else ''}
+    {'.hd .u b{font-size:46px;white-space:nowrap} .tt{font-size:24px;padding-right:150px}' if len(name)>9 else ('.tt{font-size:24px;padding-right:150px}' if 'title' in swap else '')}
     </style></head><body>
-    <div class=hd><div class=j><b>🇯🇵 JAPAN</b></div><div class=u><b>{name} {flag}</b></div><div class=vs>VS</div><div class=tt>JAPAN VS {name}: 10 THINGS TO KNOW</div><div class=save>📌 SAVE</div></div>
+    <div class=hd><div class=j><b>🇯🇵 JAPAN</b></div><div class=u><b>{name} {flag}</b></div><div class=vs>VS</div><div class=tt>{TT}</div><div class=save>📌 SAVE</div></div>
     <div class=list>{rows}</div>
     <div class=note>{NOTE}</div>
     <div class=foot><div class=jp><b>JP</b>Japan Like a Local</div><div>Free Japan Quick Start → <i>link in bio</i></div></div>
