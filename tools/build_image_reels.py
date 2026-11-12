@@ -15,7 +15,8 @@ JOBS=[('compare-japan-uk','Visiting Japan<br>from the UK? 🇬🇧','reels/2026-
       ('compare-japan-usa','Visiting Japan<br>from the US? 🇺🇸','reels/2026-11-10-japan-vs-usa-reel.mp4'),
       ('compare-japan-au','Visiting Japan<br>from Australia? 🇦🇺','reels/2026-11-11-japan-vs-au-reel.mp4'),
       ('compare-japan-ca','Visiting Japan<br>from Canada? 🇨🇦','reels/2026-11-12-japan-vs-ca-reel.mp4'),
-      ('compare-japan-sg','Visiting Japan<br>from Singapore? 🇸🇬','reels/2026-11-13-japan-vs-sg-reel.mp4')]
+      ('compare-japan-sg','Visiting Japan<br>from Singapore? 🇸🇬','reels/2026-11-13-japan-vs-sg-reel.mp4'),
+      ('compare-japan-nz','Visiting Japan<br>from New Zealand? 🇳🇿','reels/2026-11-14-japan-vs-nz-reel.mp4')]
 if sys.argv[1:]: JOBS=[j for j in JOBS if j[0] in sys.argv[1:]]  # build only the named images
 CSS=f'''@font-face{{font-family:I;src:url({F}/Inter-ExtraBold.ttf);font-weight:800}}
 *{{margin:0;padding:0;box-sizing:border-box}}body{{width:1080px;height:1920px;position:relative;overflow:hidden;font-family:I;background:transparent}}
