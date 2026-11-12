@@ -314,3 +314,5 @@ krissyevents_ commented "Japan" on the yakitori reel (11/4). Replied publicly + 
 Gumroad (10/13–11/13): **views 71 (was 53, +18)**, **sales 1 ($0 = free Japan Quick Start download)** from instagram.com (US) → most likely krissyevents_ after the 11/12 DM. Referrers: m.facebook 25, Facebook 24, Direct 13, instagram.com 5 (1 sale, 20%), l.facebook 3, Pinterest 1. Countries: US 22 (1 sale), CA 17, AU 11, UK 6, Sweden 5, Japan 4, HK 3, Ireland 2, SG 1.
 note (10/17–11/13, 04:12): imp 3,542 / PV 174 / スキ 78 / comments 4. Day52 imp 34, PV 4, スキ 2. Day51 imp 42.
 X: Day52 post 6–7 views, 1 reply (low; Day51 was 103).
+IG (30d, 06:04): **views 4,464 (+100%) / viewers 3,366** / non-follower views 4,463 / followers 2 / profile visits 14 / link taps 0 / interactions 43. AU reel 1,817 plays, 1,051 viewers, 6 likes, 2 saves. CA reel (12h) 164 plays, 2 likes. Yakitori 2 comments.
+IG ad (06:06): plays 506 / site visits 36 / ¥450 (≈¥12.5/visit), 3 days left.
