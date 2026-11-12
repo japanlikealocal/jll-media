@@ -306,3 +306,6 @@ IG (30d, 07:03): views 2,877 / viewers 2,345 / profile visits 13 / link taps 0. 
 IG ad 07:04: plays 308 / site visits 22 / ¥271 (+¥78 overnight). ≈¥12 per visit.
 X: Day51 post 103 views, 1 reply, 1 repost, 1 like (Day50 was 15). Note card 8.
 → Next: more "Japan vs <country>" reels (NZ next). Consider AU reel as next ad after gyoza ad ends (11/15).
+
+### 2026-11-12 13:04 first "JAPAN" comment
+krissyevents_ commented "Japan" on the yakitori reel (11/4). Replied publicly + sent DM (free guide link + food map mention). DM went as a message request (they must accept). Gyoza reel passed 500 plays (IG notice).
