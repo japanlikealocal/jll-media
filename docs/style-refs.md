@@ -48,3 +48,10 @@
 - Several big accounts post in Traditional Chinese for Taiwan/Hong Kong visitors (maison.shirley, fattsai, crystal_hongkong) → TW/HK is an active audience we don't serve yet (we are English-only).
 - Ideas for us: (1) "FREE in Tokyo" lists, (2) tier lists (ramen, onsen towns near Tokyo), (3) a Traditional Chinese test version of our best post (translation checked by Perplexity), (4) a numbered series ("50 things in Tokyo" part 1/5…). Avoid brand logos/characters in our art.
 - Batch 2 (same day): **Kanto vs Kansai food differences 8 (part 2) = 1,579 likes / 155 reposts — top of all saved posts** → confirms our comparison format; "part 2" sequels work; ends with "tell us your region in the comments". Hotel free services 12 (1,147, all "0円/無料"). Shrine tier list 25 (SS–C). Daily series "Yamanote line gourmet Day1, Day2…" (16 shops per station). English "12 must-visit Japanese chain restaurants" (330 likes, 133 shares) → chain-restaurant guide for foreigners is a proven topic (we must not use brand logos; names + our own art only). "Common manner myths 8 — 実は…" format with true/false answer. Skip posts that spread unverified health claims.
+
+## 2026-11-13 ゼロの保存投稿（9本）から
+- 最多：tokyo.experiences「5 DAYS IN TOKYO」英語の路線図風ルートマップ（いいね1,398・リポスト64、カルーセル7枚、外国人向け）→ うちの客層に一番近い。
+- 多国グリッド型が強い：「世界の武術図鑑 15選」376、「こんなものが本当にない国」382、「世界12か国のネットの笑い方」309、「世界三大〇〇10選」168。1枚に国旗＋国名＋1行で多くの国を並べる。
+- 日本の地域差「日本の謎文化8選」250（国内向け）。
+- 使わない：実在の政治家・指導者の顔を使った軍事比較（政治・実在人物はやらない）、有名人に似せたAI人物。
+- 次の案：①英語の「Tokyo in 3/5 days」路線図風マップ（食べ歩きマップへ誘導）②「Japan vs the world」多国グリッド（例：チップ・緊急番号・プラグを12か国並べる→1本で多くの国の人に刺さる）③「Things Japan doesn't have / does differently」。どれも事実確認（Perplexity）してから。
