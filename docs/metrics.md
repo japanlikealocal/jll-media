@@ -316,3 +316,8 @@ note (10/17–11/13, 04:12): imp 3,542 / PV 174 / スキ 78 / comments 4. Day52 
 X: Day52 post 6–7 views, 1 reply (low; Day51 was 103).
 IG (30d, 06:04): **views 4,464 (+100%) / viewers 3,366** / non-follower views 4,463 / followers 2 / profile visits 14 / link taps 0 / interactions 43. AU reel 1,817 plays, 1,051 viewers, 6 likes, 2 saves. CA reel (12h) 164 plays, 2 likes. Yakitori 2 comments.
 IG ad (06:06): plays 506 / site visits 36 / ¥450 (≈¥12.5/visit), 3 days left.
+
+## 2026-11-14 snapshot (06:13)
+Gumroad (10/14–11/14): **views 184 (was 71, +113!)**, sales 1 ($0 free). Referrers: Facebook 90, m.facebook 62, Direct 18, instagram.com 9 (1 sale), l.facebook 3, Pinterest 1, com.pinterest 1. Countries: CA 52, US 43 (1 sale), AU 39, UK 25, Japan 12, Sweden 5, HK 3, Ireland 2, PH 1, MY 1, SG 1. → ad traffic jumped (Meta ≈155 of 184), still 0 paid sales.
+note (10/18–11/14, 05:39): imp 3,746 / PV 181 / スキ 80 / comments 4 / followers +17. Day52 imp 191 (best recent), Day53 imp 14 (early), Day51 62.
+X: Day53 post 7 views, 2 replies (mikura reply).
