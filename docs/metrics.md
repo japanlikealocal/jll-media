@@ -321,3 +321,6 @@ IG ad (06:06): plays 506 / site visits 36 / ¥450 (≈¥12.5/visit), 3 days left
 Gumroad (10/14–11/14): **views 184 (was 71, +113!)**, sales 1 ($0 free). Referrers: Facebook 90, m.facebook 62, Direct 18, instagram.com 9 (1 sale), l.facebook 3, Pinterest 1, com.pinterest 1. Countries: CA 52, US 43 (1 sale), AU 39, UK 25, Japan 12, Sweden 5, HK 3, Ireland 2, PH 1, MY 1, SG 1. → ad traffic jumped (Meta ≈155 of 184), still 0 paid sales.
 note (10/18–11/14, 05:39): imp 3,746 / PV 181 / スキ 80 / comments 4 / followers +17. Day52 imp 191 (best recent), Day53 imp 14 (early), Day51 62.
 X: Day53 post 7 views, 2 replies (mikura reply).
+IG (30d, 06:51): views 4,693 / viewers 3,488 / profile visits 16 / link taps 0 / interactions 45. SG reel (13h) 161. AU 1,817, gyoza 361 (ad), CA 170.
+IG ad (06:52): plays 1,698 / site visits 136 / ¥1,510 spent, 2 days left. **¥1,510 > ¥1,200 target with 0 paid sales** → traffic is cheap (≈¥11/visit) but the food-map page doesn't convert. Next: fix the product page/offer before spending more (price test, preview images, clearer value), not more ads.
+Pins: none scheduled after 11/14 12:00 → make 11/15+ pins.
