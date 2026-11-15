@@ -19,10 +19,19 @@ AU2=[('🔌','Plugs & voltage','Type A · 100V','Type I · 230V'),
 ('🚗','Driving in Japan','IDP + your licence','Get IDP before you fly'),
 ('🏪','Convenience stores','Many 24h · real meals','7-Eleven has hot food too'),
 ('🍡','Eating on the go','Avoided in some areas','NSW buses: water only')]
+NZ2=[('🔌','Plugs & voltage','Type A · 100V','Type I · 230/240V'),
+('💳','Paying','Some small shops cash only','Cards / EFTPOS most common'),
+('🚦','Red light','Never cross on red','Same rule (national law)'),
+('🎫','Transit card','Suica / PASMO','AT HOP (Akl) · Snapper (Wgtn)'),
+('🚰','Tap water','Safe unless signed','Safe; follow boil-water notices'),
+('☀️','June–August','Summer','Winter'),
+('🚗','Driving in Japan','IDP needed','NZ licence alone not enough'),
+('🍙','Eating on trains','Avoid on local trains','Auckland trains: don\'t eat')]
 C={'au':('AUSTRALIA','🇦🇺','px-3753589-sydney.jpg',['Tips not expected','Prices include GST','Drive on the left','Usually stand left','Shoes: ask your host','Some quiet carriages','Ask where to pay','Handshakes common','Usually swimwear','Call 000'],{}),
 'ca':('CANADA','🇨🇦','px-1519088-toronto.jpg',['15–20% before tax','Tax usually extra','Drive on the right','Usually stand right','Shoes usually off','Some quiet zones','Usually pay at table','Handshakes common','Usually swimwear','Call 911'],{}),
 'sg':('SINGAPORE','🇸🇬','px-1842332-singapore.jpg',['Tips not expected','GST incl.; check menu','Drive on the left','Usually left; check signs','Shoes usually off','Keep noise low','Ask where to pay','Handshake if offered','Type G plugs · 230V','Police 999 · Fire/ambulance 995'],{8:('🔌','Plugs & voltage','Type A plugs · 100V')}),
 'au2':('AUSTRALIA','🇦🇺','px-3753589-sydney.jpg',[r[3] for r in AU2],{'rows':AU2,'title':'JAPAN VS AUSTRALIA · PART 2: 9 MORE THINGS'}),
+'nz2':('NEW ZEALAND','🇳🇿','px-2187629-nz.jpg',[r[3] for r in NZ2],{'rows':NZ2,'title':'JAPAN VS NZ · PART 2: 8 MORE THINGS'}),
 'nz':('NEW ZEALAND','🇳🇿','px-2187629-nz.jpg',['Tips not required','Prices usually incl. GST','Drive on the left','Tend to stand left','Ask your host','Keep calls quiet','Some cafés: pay at counter','Handshake common','Public pools: swimwear','Call 111'],{})}
 NOTE='General customs — they vary by place, home and business. Follow local signs and staff instructions. Photos: Pexels.'
 for k in (sys.argv[1:] or C):
