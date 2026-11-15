@@ -339,3 +339,7 @@ X: Day54 post 29 views, 1 reply, 1 like.
 - Ad: cheap traffic (217 visits for ¥2.5k) but 0 paid sales → product page is the bottleneck, not reach.
 - Bio link taps still 0 all week.
 - **Next thing to try (1)**: fix the Tokyo Food Map product page (preview images + problem-solving copy) before any new ad spend; keep Oceania-targeted comparison reels.
+
+## 2026-11-16 snapshot (06:52)
+Gumroad (10/16–11/16): views 311 (was 279, +32 — ad ended, so growth slowed), sales 1 ($0 free). Referrers: Facebook 168, m.facebook 107, Direct 21, instagram.com 10 (1 sale, 10%), l.facebook 3, Pinterest 1, com.pinterest 1. Countries: US 79 (1), CA 76, AU 71, UK 46, Japan 27, Sweden 5, HK 3, Ireland 2, MY 1, PH 1. Food map page updated 11/15 17:00 → no paid sale yet (too early).
+note (10/20–11/16, 05:41): imp 3,877 / PV 191 / スキ 81 / comments 6. Day55 imp 15 PV1, Day54 imp 21 PV13 スキ4, Day52 imp 283.
