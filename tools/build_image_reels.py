@@ -19,7 +19,8 @@ JOBS=[('compare-japan-uk','Visiting Japan<br>from the UK? 🇬🇧','reels/2026-
       ('compare-japan-nz','Visiting Japan<br>from New Zealand? 🇳🇿','reels/2026-11-14-japan-vs-nz-reel.mp4'),
       ('compare-japan-au2','Visiting Japan<br>from Australia? Part 2 🇦🇺','reels/2026-11-15-japan-vs-au2-reel.mp4'),
       ('compare-japan-nz2','Visiting Japan<br>from New Zealand? Part 2 🇳🇿','reels/2026-11-16-japan-vs-nz2-reel.mp4'),
-      ('ig-shinjuku-food','Hungry in Shinjuku?<br>5 spots near the station 🍜','reels/2026-11-16-shinjuku-food-reel.mp4','💬 Comment JAPAN · free guide in your DMs')]
+      ('ig-shinjuku-food','Hungry in Shinjuku?<br>5 spots near the station 🍜','reels/2026-11-16-shinjuku-food-reel.mp4','💬 Comment JAPAN · free guide in your DMs'),
+      ('ig-ginza-food','Hungry in Ginza?<br>5 spots near the station 🍱','reels/2026-11-18-ginza-food-reel.mp4','💬 Comment JAPAN · free guide in your DMs')]
 if sys.argv[1:]: JOBS=[j for j in JOBS if j[0] in sys.argv[1:]]  # build only the named images
 CSS=f'''@font-face{{font-family:I;src:url({F}/Inter-ExtraBold.ttf);font-weight:800}}
 *{{margin:0;padding:0;box-sizing:border-box}}body{{width:1080px;height:1920px;position:relative;overflow:hidden;font-family:I;background:transparent}}
