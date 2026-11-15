@@ -19,6 +19,16 @@ AU2=[('🔌','Plugs & voltage','Type A · 100V','Type I · 230V'),
 ('🚗','Driving in Japan','IDP + your licence','Get IDP before you fly'),
 ('🏪','Convenience stores','Many 24h · real meals','7-Eleven has hot food too'),
 ('🍡','Eating on the go','Avoided in some areas','NSW buses: water only')]
+THEME_DARK='''body{background:#0B1220}
+.hd .j{background-image:linear-gradient(rgba(0,0,0,.05),rgba(225,29,72,.9)),url(JPIMG)!important}
+.hd .u{background-image:linear-gradient(rgba(0,0,0,.05),rgba(5,150,105,.92)),url(USIMG)!important}
+.r{background:#fff;box-shadow:0 3px 0 #1f2a44}
+.l{color:#BE123C;border-left-color:#E11D48}.rr{color:#047857;border-right-color:#10B981}
+.c{background:#FACC15;color:#0B1220}
+.note{color:#94A3B8}
+.foot{background:#FACC15;color:#0B1220}.foot i{color:#BE123C}.jp b{background:#0B1220;color:#FACC15}
+.save{background:#fff}
+.r{min-height:100px;margin-bottom:12px}.l,.rr{font-size:26px}.c{font-size:22px}'''
 NZ2=[('🔌','Plugs & voltage','Type A · 100V','Type I · 230/240V'),
 ('💳','Paying','Some small shops cash only','Cards / EFTPOS most common'),
 ('🚦','Red light','Never cross on red','Same rule (national law)'),
@@ -31,7 +41,7 @@ C={'au':('AUSTRALIA','🇦🇺','px-3753589-sydney.jpg',['Tips not expected','Pr
 'ca':('CANADA','🇨🇦','px-1519088-toronto.jpg',['15–20% before tax','Tax usually extra','Drive on the right','Usually stand right','Shoes usually off','Some quiet zones','Usually pay at table','Handshakes common','Usually swimwear','Call 911'],{}),
 'sg':('SINGAPORE','🇸🇬','px-1842332-singapore.jpg',['Tips not expected','GST incl.; check menu','Drive on the left','Usually left; check signs','Shoes usually off','Keep noise low','Ask where to pay','Handshake if offered','Type G plugs · 230V','Police 999 · Fire/ambulance 995'],{8:('🔌','Plugs & voltage','Type A plugs · 100V')}),
 'au2':('AUSTRALIA','🇦🇺','px-3753589-sydney.jpg',[r[3] for r in AU2],{'rows':AU2,'title':'JAPAN VS AUSTRALIA · PART 2: 9 MORE THINGS'}),
-'nz2':('NEW ZEALAND','🇳🇿','px-2187629-nz.jpg',[r[3] for r in NZ2],{'rows':NZ2,'title':'JAPAN VS NZ · PART 2: 8 MORE THINGS'}),
+'nz2':('NEW ZEALAND','🇳🇿','px-2187629-nz.jpg',[r[3] for r in NZ2],{'rows':NZ2,'title':'JAPAN VS NZ · PART 2: 8 MORE THINGS','css':THEME_DARK}),
 'nz':('NEW ZEALAND','🇳🇿','px-2187629-nz.jpg',['Tips not required','Prices usually incl. GST','Drive on the left','Tend to stand left','Ask your host','Keep calls quiet','Some cafés: pay at counter','Handshake common','Public pools: swimwear','Call 111'],{})}
 NOTE='General customs — they vary by place, home and business. Follow local signs and staff instructions. Photos: Pexels.'
 for k in (sys.argv[1:] or C):
@@ -41,6 +51,7 @@ for k in (sys.argv[1:] or C):
         left=[swap.get(i,JPN[i]) for i in range(10)]
         ROWS=[(e,t,a,right[i]) for i,(e,t,a) in enumerate(left)]
     TT=swap.get('title',f'JAPAN VS {name}: 10 THINGS TO KNOW')
+    XCSS=swap.get('css','').replace('JPIMG',JP).replace('USIMG',(R/'assets/covers'/photo).as_uri())
     rows=''.join(f'<div class=r><div class=l>{a}</div><div class=c><span>{e}</span>{t}</div><div class=rr>{b}</div></div>' for e,t,a,b in ROWS)
     html=f'''<!doctype html><html><head><meta charset=utf-8><style>
     @font-face{{font-family:I;src:url({F}/Inter-ExtraBold.ttf);font-weight:800}}
@@ -68,6 +79,7 @@ for k in (sys.argv[1:] or C):
     .foot i{{font-style:normal;color:#FFD43B}}
     .jp{{display:flex;align-items:center;gap:12px}}.jp b{{width:44px;height:44px;border-radius:50%;background:#D62828;display:flex;align-items:center;justify-content:center;font-size:17px}}
     {'.hd .u b{font-size:46px;white-space:nowrap} .tt{font-size:24px;padding-right:150px}' if len(name)>9 else ('.tt{font-size:24px;padding-right:150px}' if 'title' in swap else '')}
+    {XCSS}
     </style></head><body>
     <div class=hd><div class=j><b>🇯🇵 JAPAN</b></div><div class=u><b>{name} {flag}</b></div><div class=vs>VS</div><div class=tt>{TT}</div><div class=save>📌 SAVE</div></div>
     <div class=list>{rows}</div>
