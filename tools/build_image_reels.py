@@ -18,7 +18,8 @@ JOBS=[('compare-japan-uk','Visiting Japan<br>from the UK? 🇬🇧','reels/2026-
       ('compare-japan-sg','Visiting Japan<br>from Singapore? 🇸🇬','reels/2026-11-13-japan-vs-sg-reel.mp4'),
       ('compare-japan-nz','Visiting Japan<br>from New Zealand? 🇳🇿','reels/2026-11-14-japan-vs-nz-reel.mp4'),
       ('compare-japan-au2','Visiting Japan<br>from Australia? Part 2 🇦🇺','reels/2026-11-15-japan-vs-au2-reel.mp4'),
-      ('compare-japan-nz2','Visiting Japan<br>from New Zealand? Part 2 🇳🇿','reels/2026-11-16-japan-vs-nz2-reel.mp4')]
+      ('compare-japan-nz2','Visiting Japan<br>from New Zealand? Part 2 🇳🇿','reels/2026-11-16-japan-vs-nz2-reel.mp4'),
+      ('ig-shinjuku-food','Hungry in Shinjuku?<br>5 spots near the station 🍜','reels/2026-11-16-shinjuku-food-reel.mp4','💬 Comment JAPAN · free guide in your DMs')]
 if sys.argv[1:]: JOBS=[j for j in JOBS if j[0] in sys.argv[1:]]  # build only the named images
 CSS=f'''@font-face{{font-family:I;src:url({F}/Inter-ExtraBold.ttf);font-weight:800}}
 *{{margin:0;padding:0;box-sizing:border-box}}body{{width:1080px;height:1920px;position:relative;overflow:hidden;font-family:I;background:transparent}}
@@ -27,9 +28,10 @@ CSS=f'''@font-face{{font-family:I;src:url({F}/Inter-ExtraBold.ttf);font-weight:8
 .b span{{display:inline-block;background:#fff;color:#141B2D;font-size:40px;padding:16px 30px;border-radius:40px}}'''
 with sync_playwright() as pw:
     br=pw.chromium.launch(); pg=br.new_page(viewport={'width':1080,'height':1920})
-    for img,hook,out in JOBS:
+    for job in JOBS:
+        img,hook,out=job[:3]; cta=job[3] if len(job)>3 else '📌 Save it · 🍜 Tokyo Food Map: link in bio'
         src=R/f'assets/{img}.png'; tmp=R/'tools/_ir.html'
-        tmp.write_text(f'<!doctype html><html><head><meta charset=utf-8><style>{CSS}</style></head><body><div class=t>{hook}</div><div class=b><span>📌 Save it · 🍜 Tokyo Food Map: link in bio</span></div></body></html>')
+        tmp.write_text(f'<!doctype html><html><head><meta charset=utf-8><style>{CSS}</style></head><body><div class=t>{hook}</div><div class=b><span>{cta}</span></div></body></html>')
         pg.goto(tmp.as_uri()); pg.wait_for_timeout(400); ov=R/'tools/_ir_ov.png'; pg.screenshot(path=str(ov),omit_background=True); tmp.unlink()
         # bg: blurred, darkened image filling 1080x1920; fg: image 1080 wide, slow zoom
         fc=("[0]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=30:3,eq=brightness=-0.18[bg];"
