@@ -343,3 +343,6 @@ X: Day54 post 29 views, 1 reply, 1 like.
 ## 2026-11-16 snapshot (06:52)
 Gumroad (10/16–11/16): views 311 (was 279, +32 — ad ended, so growth slowed), sales 1 ($0 free). Referrers: Facebook 168, m.facebook 107, Direct 21, instagram.com 10 (1 sale, 10%), l.facebook 3, Pinterest 1, com.pinterest 1. Countries: US 79 (1), CA 76, AU 71, UK 46, Japan 27, Sweden 5, HK 3, Ireland 2, MY 1, PH 1. Food map page updated 11/15 17:00 → no paid sale yet (too early).
 note (10/20–11/16, 05:41): imp 3,877 / PV 191 / スキ 81 / comments 6. Day55 imp 15 PV1, Day54 imp 21 PV13 スキ4, Day52 imp 283.
+IG (30d, 06:54): views 6,512 / viewers 4,705 / followers 2 / profile visits 20 / **bio link taps 0** (bio changed 11/15 20:18 — too early) / interactions 53.
+Reels: AU 1,817 · NZ 1,657 (1,095 viewers) · gyoza 560 (12 saves, 3 shares) · First trip 195 · USA 193 · yakitori 177 · UK 171 · CA 170 · Osaka 163 · SG 161 · **AU part 2: 140 in 13h** (same-country repeat 4 days later = weak, confirms 1-week gap rule).
+X: Day55 post 1 view; Day54 30 views, 1 reply, 1 like.
