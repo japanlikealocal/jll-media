@@ -328,3 +328,14 @@ Pins: none scheduled after 11/14 12:00 → make 11/15+ pins.
 ## 2026-11-15 snapshot (08:53, Sunday)
 Gumroad (10/15–11/15): **views 279 (was 184, +95)**, sales 1 ($0 free). Referrers: Facebook 147, m.facebook 97, Direct 20, instagram.com 10 (1 sale), l.facebook 3, Pinterest 1, com.pinterest 1. Countries: CA 69, US 64 (1), AU 63, UK 46, Japan 25, Sweden 5, HK 3, Ireland 2, PH 1, MY 1. → ad keeps sending traffic, 0 paid sales.
 note (10/19–11/15, 07:42): imp 3,828 / PV 187 / スキ 84 / comments 5 / followers +18. Day52 imp 258 (best of the week), Day54 imp 8 so far, PV 5, スキ 4, **1 comment**. Sources: note.com 108 PV, no referrer 63, notification 8, Google 5, X 3.
+IG (30d, 08:57): views 4,974 (+20,625%) / viewers 3,679 / followers 2 / profile visits 18 / link taps 0 / interactions 48.
+Per reel: AU 1,817 / **NZ 1,527 in 15h** (2nd breakout) / gyoza 505 (ad) / First trip 195 / USA 193 / yakitori 174 / UK 171 / CA 170 / Tokyo-Osaka 163 / SG 161 / Harajuku 131 / area map 136.
+Saves top: gyoza 10, free views 6, area map 3, yakitori 3, illuminations 3, AU 2.
+IG ad (08:59, ends in 11h): plays 2,916 / site visits 217 / ¥2,531 of ¥2,868 (≈¥11.7/visit). 0 paid sales.
+X: Day54 post 29 views, 1 reply, 1 like.
+
+### Weekly review (11/9–11/15)
+- Winner: "Japan vs <country>" — AU 1,817 & NZ 1,527 (Oceania); US/CA/SG/UK ~160–190. → Oceania audiences respond most.
+- Ad: cheap traffic (217 visits for ¥2.5k) but 0 paid sales → product page is the bottleneck, not reach.
+- Bio link taps still 0 all week.
+- **Next thing to try (1)**: fix the Tokyo Food Map product page (preview images + problem-solving copy) before any new ad spend; keep Oceania-targeted comparison reels.
