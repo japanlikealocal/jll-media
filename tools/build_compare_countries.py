@@ -29,6 +29,23 @@ THEME_DARK='''body{background:#0B1220}
 .foot{background:#FACC15;color:#0B1220}.foot i{color:#BE123C}.jp b{background:#0B1220;color:#FACC15}
 .save{background:#fff}
 .r{min-height:100px;margin-bottom:12px}.l,.rr{font-size:26px}.c{font-size:22px}'''
+THEME_PH='''body{background:#0B3D91}
+.hd .j{background-image:linear-gradient(rgba(0,0,0,.05),rgba(220,38,38,.9)),url(JPIMG)!important}
+.hd .u{background-image:linear-gradient(rgba(0,0,0,.05),rgba(37,99,235,.92)),url(USIMG)!important}
+.r{background:#fff;box-shadow:0 3px 0 #082C6B}
+.c{background:#FCD116;color:#0B3D91}
+.note{color:#BFD3F5}
+.foot{background:#FCD116;color:#0B3D91}.jp b{background:#0B3D91;color:#FCD116}
+.save{background:#fff}
+.foot i{color:#C8102E}'''
+THEME_MY='''body{background:#F5F1EA}
+.hd .j{background-image:linear-gradient(rgba(0,0,0,.05),rgba(220,38,38,.9)),url(JPIMG)!important}
+.hd .u{background-image:linear-gradient(rgba(0,0,0,.05),rgba(15,23,80,.92)),url(USIMG)!important}
+.r{background:#fff;box-shadow:0 3px 0 #E3D9C8}
+.c{background:#0F1750;color:#FFFFFF}
+.note{color:#6b6257}
+.foot{background:#0F1750;color:#FFFFFF}.jp b{background:#FFFFFF;color:#0F1750}
+.save{background:#fff}'''
 NZ2=[('🔌','Plugs & voltage','Type A · 100V','Type I · 230/240V'),
 ('💳','Paying','Some small shops cash only','Cards / EFTPOS most common'),
 ('🚦','Red light','Never cross on red','Same rule (national law)'),
@@ -42,6 +59,8 @@ C={'au':('AUSTRALIA','🇦🇺','px-3753589-sydney.jpg',['Tips not expected','Pr
 'sg':('SINGAPORE','🇸🇬','px-1842332-singapore.jpg',['Tips not expected','GST incl.; check menu','Drive on the left','Usually left; check signs','Shoes usually off','Keep noise low','Ask where to pay','Handshake if offered','Type G plugs · 230V','Police 999 · Fire/ambulance 995'],{8:('🔌','Plugs & voltage','Type A plugs · 100V')}),
 'au2':('AUSTRALIA','🇦🇺','px-3753589-sydney.jpg',[r[3] for r in AU2],{'rows':AU2,'title':'JAPAN VS AUSTRALIA · PART 2: 9 MORE THINGS'}),
 'nz2':('NEW ZEALAND','🇳🇿','px-2187629-nz.jpg',[r[3] for r in NZ2],{'rows':NZ2,'title':'JAPAN VS NZ · PART 2: 8 MORE THINGS','css':THEME_DARK}),
+'ph':('PHILIPPINES','🇵🇭','px-18054106-manila.jpg',['Tip optional if service charge','Incl. 12% VAT (by law)','Drive on the right','Tend to stand right','Often off; follow host','Keep voices down','Fast food: pay first','Handshake common','Types A/B/C · 230V','911'],{8:('🔌','Plugs & voltage','Type A plugs · 100V'),'css':THEME_PH}),
+'my':('MALAYSIA','🇲🇾','px-31390892-kl.jpg',['Not required','Menus may add service + 6% SST','Drive on the left','Tend to stand left','Off when visiting homes','No loud noise (MRT rules)','Mamak: pay at the counter','Handshake OK; some prefer a nod','Type G plugs · 240V','999'],{8:('🔌','Plugs & voltage','Type A plugs · 100V'),'css':THEME_MY}),
 'nz':('NEW ZEALAND','🇳🇿','px-2187629-nz.jpg',['Tips not required','Prices usually incl. GST','Drive on the left','Tend to stand left','Ask your host','Keep calls quiet','Some cafés: pay at counter','Handshake common','Public pools: swimwear','Call 111'],{})}
 NOTE='General customs — they vary by place, home and business. Follow local signs and staff instructions. Photos: Pexels.'
 for k in (sys.argv[1:] or C):
