@@ -346,3 +346,10 @@ note (10/20–11/16, 05:41): imp 3,877 / PV 191 / スキ 81 / comments 6. Day55 
 IG (30d, 06:54): views 6,512 / viewers 4,705 / followers 2 / profile visits 20 / **bio link taps 0** (bio changed 11/15 20:18 — too early) / interactions 53.
 Reels: AU 1,817 · NZ 1,657 (1,095 viewers) · gyoza 560 (12 saves, 3 shares) · First trip 195 · USA 193 · yakitori 177 · UK 171 · CA 170 · Osaka 163 · SG 161 · **AU part 2: 140 in 13h** (same-country repeat 4 days later = weak, confirms 1-week gap rule).
 X: Day55 post 1 view; Day54 30 views, 1 reply, 1 like.
+
+## 2026-11-17 snapshot (06:50)
+Gumroad (10/17–11/17): views 312 (+1 — almost flat after ad ended), sales 1 ($0 free). Referrers: Facebook 168, m.facebook 107, Direct 22, instagram.com 10 (1 sale), l.facebook 3, Pinterest 1, com.pinterest 1. Countries: US 80 (1), CA 76, AU 71, UK 46, Japan 27, Sweden 5, HK 3, Ireland 2, MY 1, PH 1. No paid sale yet after food-map page update (11/15).
+note (10/21–11/17, 05:39): imp 3,963 / PV 195 / スキ 83 / comments 6. Day56 imp 23 PV3 スキ3, Day55 22/1, Day54 49/14/4, Day52 292. Sources: note.com 117, no referrer 63, notification 8, Google 4, X 3.
+X: Day56 post 28 views, 1 reply, 2 likes (card 6).
+IG (30d, 06:50): views 6,669 / viewers 4,865 / followers 2 / profile visits 19 / **bio link taps 0** / reel interactions 54.
+Reels: AU 1,817 · NZ 1,657 · gyoza 585 (13 saves) · First trip 195 · USA 193 · yakitori 179 · UK 171 · CA 170 · Osaka 163 · SG 161 · AU2 140 · **Shinjuku 5 spots 113 in 13h** (0 likes; food list < country comparison).
