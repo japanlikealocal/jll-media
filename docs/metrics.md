@@ -353,3 +353,9 @@ note (10/21–11/17, 05:39): imp 3,963 / PV 195 / スキ 83 / comments 6. Day56 
 X: Day56 post 28 views, 1 reply, 2 likes (card 6).
 IG (30d, 06:50): views 6,669 / viewers 4,865 / followers 2 / profile visits 19 / **bio link taps 0** / reel interactions 54.
 Reels: AU 1,817 · NZ 1,657 · gyoza 585 (13 saves) · First trip 195 · USA 193 · yakitori 179 · UK 171 · CA 170 · Osaka 163 · SG 161 · AU2 140 · **Shinjuku 5 spots 113 in 13h** (0 likes; food list < country comparison).
+
+## 2026-11-18 snapshot (06:52)
+Gumroad (10/18–11/18): views 312 (±0), sales 1 ($0 free). Referrers: Facebook 168, m.facebook 107, Direct 23, instagram.com 10 (1), l.facebook 3, Pinterest 1, com.pinterest 1. Free guide v3 live since 11/17 19:32 (v2 shows as deleted, 1 download).
+note (10/22–11/18, 05:41): imp 3,973 / PV 181 / スキ 78 / comments 6. Day57 imp 48 PV3, Day56 29 PV3 スキ3, Day52 305.
+X: Day57 post 13 views, 1 reply, 1 like; Day56 30 views.
+IG: (screenshots pending)
