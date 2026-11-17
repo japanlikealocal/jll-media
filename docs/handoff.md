@@ -1,5 +1,6 @@
 # 引き継ぎメモ（今の状態）— 最終更新 2026-10-20 22:20（10/20夜の作業終了）
 
+**★11/17 13:07 インスタ収益化ツール確認**：使えるのはブランドパートナーシップ（PRラベル）のみ。アフィリエイトプログラムは対象外（✗フォロワー1,000人以上、✗パートナー収益化ポリシー・コンテンツ収益化ポリシー／✓プロアカウント、✓18歳以上）。フォロワー1,000人までは考えない。
 **★11/17 07:05 インスタの保存済み音源（ゼロ保存）**：Grey Hoodie（grgr_playlist、↗流行中、4,881本）・It's Me（ILLIT、↗流行中、14万本）・cute kitty・So Happy Today・Boo Boo。21日以降のリールで Grey Hoodie と It's Me を試す（Metricoolでは audioId を検索して指定）。インスタの週次おすすめ＝リール週7本＋普通の投稿週1本→写真投稿を週1で試す案。
 **★11/15 20:27 リール20日まで全部予約済み**：16新宿の5軒（オレンジ）／17フィリピン（青×黄、Shibuya）／18銀座の5軒（紺×金、ILLIT）／19マレーシア（クリーム×紺、Okay Now）／20NZ第2弾（黒×黄×緑、Okay Now）。根拠 docs/compare-ph-my-sources-2026-11-15.md。21日以降が空き。
 **★11/15 20:18 インスタのプロフィール修正済み**：紹介文「Japan tips from a Tokyo-area local 🇯🇵 / 🍜 Food near stations / 🗾 Japan vs your country / 💬 Comment JAPAN for a free guide / 👇 Free Japan Quick Start」、リンクは1つ＝無料ガイド https://zeroailog.gumroad.com/l/japan-quick-start（以前は食べ歩きマップ）。名前は「Japan Travel Tips · Tokyo」。効果：バイオリンクのタップ（0→）を毎朝チェック。
