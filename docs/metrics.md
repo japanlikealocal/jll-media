@@ -358,4 +358,4 @@ Reels: AU 1,817 · NZ 1,657 · gyoza 585 (13 saves) · First trip 195 · USA 193
 Gumroad (10/18–11/18): views 312 (±0), sales 1 ($0 free). Referrers: Facebook 168, m.facebook 107, Direct 23, instagram.com 10 (1), l.facebook 3, Pinterest 1, com.pinterest 1. Free guide v3 live since 11/17 19:32 (v2 shows as deleted, 1 download).
 note (10/22–11/18, 05:41): imp 3,973 / PV 181 / スキ 78 / comments 6. Day57 imp 48 PV3, Day56 29 PV3 スキ3, Day52 305.
 X: Day57 post 13 views, 1 reply, 1 like; Day56 30 views.
-IG: (screenshots pending)
+IG (30d, 06:54): views 6,762 / viewers 4,903 / followers 2 / profile visits 18 / bio link taps 0 / reel interactions 55. Reels: AU 1,817 · NZ 1,658 · gyoza 606 (13 saves, 3 shares, 1 follow) · **Philippines 304 in 13h** (202 viewers — best non-Oceania start) · First trip 195 · USA 193 · yakitori 180 · UK 171 · CA 170 · SG 161 · AU2 140 · Shinjuku 115 (1d, 0 likes).
