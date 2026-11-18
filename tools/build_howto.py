@@ -31,6 +31,24 @@ J={
        ('Women-only car','Some lines have women-only cars on weekday mornings. Check the platform signs for the car position.',''),
        ('Phone near priority seats','When crowded, turn your phone off near priority seats. Elsewhere: silent mode, no calls.','')],
  note='Checked Nov 2026 (JR East, Tokyo Metro, MLIT) · times and rules vary by line — check Google Maps'),
+'finds':dict(out='ig-finds-tokyo',tag='ONLY-IN-JAPAN FINDS',title='6 things visitors love<br>to buy in Tokyo 🛍️',
+ th=('#1D4ED8','#EFF6FF','#0F1E46','#F9A8D4','#BFDBFE'),
+ rows=[('FamilyMart line socks','The classic white pair with blue & green lines is listed at ¥429. Most FamilyMart stores; stock varies.','Shown on Japanese TV as a visitor favorite'),
+       ('Clay-pot sweet potato','Ginza Tsubo Yakiimo · Ginza Sta 3 min. Small ¥450 · half ¥650 · whole ¥1,200 (listed 2026). Closed Mon.','銀座つぼやきいも'),
+       ('Train souvenirs','GENERAL STORE RAILYARD, outside JR Akihabara Station (Showa-dori gate). Melody keychains, station-sign goods.',''),
+       ('Model trains','Popondetta Akihabara (Sotokanda) for N-gauge trains and parts.',''),
+       ('A custom-made pillow','Nihonbashi Nishikawa main store · Nihonbashi Sta C2. From ¥33,000. English booking page — book ahead.',''),
+       ('Japanese snacks','Sweets are the top category visitors say they were happiest buying (Japan Tourism Agency 2025).','')],
+ note='Checked Nov 18, 2026 (shop sites, Japan Tourism Agency) · prices, hours and stock can change',ml='➕ Follow for a Japan tip every day'),
+'potato':dict(out='ig-sweet-potato',tag='WINTER SNACK',title='Sweet potato:<br>Japan vs the world 🍠',
+ th=('#9F1239','#FFF7ED','#3B0A1A','#FDE68A','#FBCFE8'),
+ rows=[('🇯🇵 Japan · yaki-imo','Slow-roasted on hot stones, or hung in a clay pot over charcoal (tsubo-yaki). Sweetness depends on the variety.','Try: Ginza Tsubo Yakiimo'),
+       ('🇺🇸 USA','Sweet potato casserole is a Thanksgiving favorite, especially in the South.',''),
+       ('🇦🇺 Australia · 🇬🇧 UK','Oven-baked sweet potato wedges are a popular home recipe.',''),
+       ('🇳🇿 New Zealand · kūmara','Often roasted. Māori traditionally cooked kūmara in hot ashes.',''),
+       ('🇵🇭 Philippines · kamote cue','Fried, coated in caramelized brown sugar and served on a stick.',''),
+       ('🇰🇷 Korea · 🇨🇳 China','Roasted sweet potatoes are a classic winter street snack (gungoguma / kǎo hóng shǔ).','')],
+ note='Examples, not the only way · checked Nov 18, 2026 (Te Ara, Korea.net, USDA, shop sites) · varies by home',ml='💬 How do you eat it?'),
 }
 A=sys.argv[1] if sys.argv[1:] else 'ticket'; D=J[A]; C1,BG,TX,AC,SH2=D['th']
 rows=''.join(f'''<div class=r><i>{n+1}</i><div class=tx><div class=h>{h}</div><div class=d>{d}</div>{f'<div class=p>{p}</div>' if p else ''}</div></div>''' for n,(h,d,p) in enumerate(D['rows']))
@@ -47,7 +65,7 @@ CSS=f'''@font-face{{font-family:I;src:url({F}/Inter-ExtraBold.ttf);font-weight:8
 .ft .m{{font-weight:800;font-size:24px}}.ft .c{{background:{C1};color:#fff;font-weight:800;font-size:25px;padding:14px 24px;border-radius:40px;white-space:nowrap}}'''
 HTML=f'''<!doctype html><html><head><meta charset=utf-8><style>{CSS}</style></head><body><div class=hd><small>{D['tag']}</small><h1>{D['title']}</h1></div>
 <div class=list>{rows}</div><div class=note>{D['note']}</div>
-<div class=ft><div class=m>📌 Save for your trip</div><div class=c>💬 Comment JAPAN for my free guide</div></div></body></html>'''
+<div class=ft><div class=m>{D.get('ml','📌 Save for your trip')}</div><div class=c>💬 Comment JAPAN for my free guide</div></div></body></html>'''
 with sync_playwright() as pw:
     b=pw.chromium.launch(); pg=b.new_page(viewport={'width':1080,'height':1350}); t=R/'tools/_ht.html'; t.write_text(HTML); pg.goto(t.as_uri()); pg.wait_for_timeout(600)
     h=pg.evaluate("document.querySelector('.list').getBoundingClientRect().bottom"); pg.screenshot(path=str(R/f"assets/{D['out']}.png")); b.close(); t.unlink(); print('ok',A,'list bottom',h)

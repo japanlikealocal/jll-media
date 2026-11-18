@@ -25,7 +25,9 @@ JOBS=[('compare-japan-uk','Visiting Japan<br>from the UK? 🇬🇧','reels/2026-
       ('ig-ginza-food','Hungry in Ginza?<br>5 spots near the station 🍱','reels/2026-11-18-ginza-food-reel.mp4','💬 Comment JAPAN · free guide in your DMs'),
       ('ig-howto-ticket','First ramen in Japan?<br>Ticket machine 101 🎫','reels/2026-11-21-howto-ticket-reel.mp4','💬 Comment JAPAN · free guide in your DMs'),
       ('ig-howto-konbini','At a Japanese konbini?<br>Know these 3 questions 🏪','reels/2026-11-22-howto-konbini-reel.mp4','💬 Comment JAPAN · free guide in your DMs'),
-      ('ig-howto-train','Tokyo trains:<br>6 first-timer mistakes 🚇','reels/2026-11-23-howto-train-reel.mp4','💬 Comment JAPAN · free guide in your DMs')]
+      ('ig-howto-train','Tokyo trains:<br>6 first-timer mistakes 🚇','reels/2026-11-23-howto-train-reel.mp4','💬 Comment JAPAN · free guide in your DMs'),
+      ('ig-finds-tokyo','Only in Japan:<br>6 things visitors love 🛍️','reels/2026-11-24-finds-tokyo-reel.mp4','💬 Comment JAPAN · free guide in your DMs'),
+      ('ig-sweet-potato','Sweet potato:<br>Japan vs the world 🍠','reels/2026-11-25-sweet-potato-reel.mp4','💬 How do you eat it? Tell me below')]
 if sys.argv[1:]: JOBS=[j for j in JOBS if j[0] in sys.argv[1:]]  # build only the named images
 CSS=f'''@font-face{{font-family:I;src:url({F}/Inter-ExtraBold.ttf);font-weight:800}}
 *{{margin:0;padding:0;box-sizing:border-box}}body{{width:1080px;height:1920px;position:relative;overflow:hidden;font-family:I;background:transparent}}
