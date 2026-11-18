@@ -364,4 +364,4 @@ IG (30d, 06:54): views 6,762 / viewers 4,903 / followers 2 / profile visits 18 /
 Gumroad (10/19–11/19): views 315 (+3), sales 1 ($0 free). Referrers: Facebook 168, m.facebook 107, Direct 25, instagram.com 10 (1), l.facebook 3, Pinterest/com.pinterest 1, **l.meta.ai 1 (new — Meta AI linked to us)**. Countries: US 82 (1), CA 76, AU 71, UK 46, Japan 28, Sweden 5, HK 3, Ireland 2, PH 1, MY 1.
 note (10/23–11/19, 05:40): imp 4,055 / PV 180 / スキ 76 / comments 5. Day58 imp 69 PV1, Day57 51 PV3, Day52 310.
 X: Day58 post 12 views, 1 reply; link card 6.
-IG: (pending)
+IG (30d, 06:53): views 7,102 / viewers 5,130 / followers 2 / profile visits 18 / bio link taps 0 / reel interactions 56. Reels: AU 1,817 · NZ 1,658 · gyoza 629 (13 saves, 4 shares, 1 follow) · **PH 425 (1d, 270 viewers)** · First trip 195 · USA 193 · yakitori 190 · UK 171 · CA 170 · SG 161 · AU2 141 · Shinjuku 115 · Ginza 109 (13h, 0 likes). No Coconala, no IG DMs.
