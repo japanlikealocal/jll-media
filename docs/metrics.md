@@ -365,3 +365,8 @@ Gumroad (10/19–11/19): views 315 (+3), sales 1 ($0 free). Referrers: Facebook 
 note (10/23–11/19, 05:40): imp 4,055 / PV 180 / スキ 76 / comments 5. Day58 imp 69 PV1, Day57 51 PV3, Day52 310.
 X: Day58 post 12 views, 1 reply; link card 6.
 IG (30d, 06:53): views 7,102 / viewers 5,130 / followers 2 / profile visits 18 / bio link taps 0 / reel interactions 56. Reels: AU 1,817 · NZ 1,658 · gyoza 629 (13 saves, 4 shares, 1 follow) · **PH 425 (1d, 270 viewers)** · First trip 195 · USA 193 · yakitori 190 · UK 171 · CA 170 · SG 161 · AU2 141 · Shinjuku 115 · Ginza 109 (13h, 0 likes). No Coconala, no IG DMs.
+
+## 2026-11-20 snapshot (06:50)
+Gumroad (10/20–11/20): views 316 (+1), sales 1 ($0 free). Referrers: Facebook 168, m.facebook 107, Direct 26, instagram.com 10 (1), l.facebook 3, Pinterest/com.pinterest 1, l.meta.ai 1. Countries: US 83 (1), CA 76, AU 71, UK 46, Japan 28, Sweden 5, HK 3, Ireland 2, MY 1, PH 1.
+note (10/24–11/20, 05:37): imp 3,972 / PV 169 / スキ 71 / comments 5. Day59 imp 11 PV2 スキ1, Day58 75/1, Day57 56/3, Day52 323. Sources: note.com 98, no referrer 59, Google 4, notification 4, X 3, claude.ai 1.
+IG: **first organic follower from a reel** (stimpy0323, followed via reel ~04:10, liked gyoza; Zero followed back). Followers 3. Malaysia reel got likes within 1h.
