@@ -379,3 +379,9 @@ note (10/25–11/21, 05:40): imp 3,978 / PV 173 / スキ 70 / comments 6. Day60 
 X: **Day60 post 122 views, 4 likes, 1 reply** (best daily post in weeks; "first follower" story). Day59 card 5.
 IG (30d, 06:49): views 7,378 / viewers 5,260 / followers 3 / profile visits 18 / bio link taps 0 / reel interactions 64. Reels: AU 1,817 · NZ 1,658 · gyoza 678 (13 saves, 6 shares) · PH 425 · yakitori 196 · First trip 195 · USA 193 · MY 172 (1d) · **NZ2 161 in 13h** (1 like; new dark theme, 1-week gap) · SG 161 · AU2 141 · Shinjuku 115 · Ginza 112.
 No Coconala, no IG DMs.
+
+## 2026-11-22 snapshot (08:44, Sunday)
+Gumroad (10/22–11/22): views 316 (±0, 3rd day flat), sales 1 ($0 free). Referrers unchanged. Countries: US 83 (1), CA 76, AU 71, UK 46, Japan 28, Sweden 5, HK 3, Ireland 2, MY 1, PH 1.
+note (10/26–11/22, 07:40): imp 3,960 / PV 165 / スキ 63 / comments 6. Day61 imp 5 (early), Day60 33 PV2 スキ1, Day59 25/11/1, Day58 84.
+X: Day61 post 8 views, 2 replies; Day60 122 views (best).
+IG: (dashboard pending — Sunday weekly review)
