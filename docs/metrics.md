@@ -384,4 +384,12 @@ No Coconala, no IG DMs.
 Gumroad (10/22–11/22): views 316 (±0, 3rd day flat), sales 1 ($0 free). Referrers unchanged. Countries: US 83 (1), CA 76, AU 71, UK 46, Japan 28, Sweden 5, HK 3, Ireland 2, MY 1, PH 1.
 note (10/26–11/22, 07:40): imp 3,960 / PV 165 / スキ 63 / comments 6. Day61 imp 5 (early), Day60 33 PV2 スキ1, Day59 25/11/1, Day58 84.
 X: Day61 post 8 views, 2 replies; Day60 122 views (best).
-IG: (dashboard pending — Sunday weekly review)
+IG (30d, 08:47): views 7,520 / viewers 5,354 / followers 3 / profile visits 18 / bio link taps 0 / reel interactions 64. Reels: AU 1,817 · NZ 1,658 · gyoza 713 (13 saves, 6 shares, 2 follows) · PH 425 · yakitori 200 · First trip 195 · USA 193 · MY 172 · NZ2 162 · **Ramen ticket machine (how-to #1) 136 in 15h, 0 likes** · AU2 141 · Shinjuku 115 · Ginza 113.
+
+### Weekly review (11/16–11/22)
+- Views 6,512 → 7,520 (+1,008/week, ~144/day). Followers 2 → 3 (first organic follow, from gyoza reel). Bio link taps 0 all week (bio changed 11/15).
+- New reels: PH 425 (best non-Oceania), MY 172, NZ2 162, Ginza 113, Shinjuku 115, Ramen how-to 136 (15h). → Country comparisons still beat food lists; first how-to reel average so far.
+- Gumroad: 279 → 316 views, all growth from the ad's tail; 0 since 11/19. Food map page fix (11/15) + free guide v3 (11/17): 0 paid sales, 0 new free downloads.
+- X: Day60 "first follower" post 122 views (best in weeks) — small honest wins resonate.
+- Saves leader still gyoza (13); shares gyoza 6.
+- **Next thing to try (1)**: get people from IG to the free guide without a link tap — set up ManyChat comment→auto-DM (JAPAN) and make "Comment JAPAN" the big end screen. Pinterest ads only after that, small test (≤¥3,500, 1 country, 7 days).
