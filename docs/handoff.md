@@ -1,5 +1,6 @@
 # 引き継ぎメモ（今の状態）— 最終更新 2026-10-20 22:20（10/20夜の作業終了）
 
+**★11/22 18:48 ManyChat自動DM 3本公開済み**：①ラーメン食券機 ②コンビニ ③餃子（同じ文面・JAPANキーワード）。無料枠は残り1→11/23夜に電車リール（18時公開後）に付ける。豪・NZは動画にCOMMENT JAPANの表示がないので対象外。ゼロ指摘：貼る文を1行の中にインライン（`…`）で混ぜない→1つずつ別のコード枠で、手順も1つずつ。
 **★11/22 09:38 ManyChat（無料）自動DM 公開済み①**：対象＝ラーメン食券機リール（11/21）、キーワード JAPAN/Japan/japan、コメント返信ON（英語3種）、Opening DM（ボタン「Send me the guide」）→リンクDM（ボタン「Get the free guide」→ https://zeroailog.gumroad.com/l/japan-quick-start）。Googleで登録・Connect with Instagram（Meta経由ではない）。無料＝月25人・同時4つまで、投稿は1本ずつ指定。「Try 14 days for free」は押さない。次：餃子・豪・NZのリールにも同じ設定を追加（計4つ）、別アカウントでテスト。
 **★11/20 21:08 予定変更（ゼロ）**：ManyChat自動DM設定は11/21（土）夜に延期。11/22（日）＝週の振り返り＋ピンタレスト広告。次のネタ候補1位＝英語「Tokyo attractions: when to book & when to go」（Perplexity確認が必要）。
 **★11/19 15:16 BUZZ YELL初の案件**：LIGHTSUM「メリキス」PR、¥0.5/再生、応募〆11/21 12:00、事前動画〆11/26、投稿12/1〜12/31。**対応SNSはTikTokのみ**（うちはTikTokなし）→見送り推奨。企画C（イルミネーションVlog＋BGM）は実写の撮影が必要。必須タグ #PR #LIGHTSUM #ライトサム #メリキス。今後はインスタ対応の案件だけ検討。
