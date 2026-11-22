@@ -1,5 +1,6 @@
 # 引き継ぎメモ（今の状態）— 最終更新 2026-10-20 22:20（10/20夜の作業終了）
 
+**★11/22 09:38 ManyChat（無料）自動DM 公開済み①**：対象＝ラーメン食券機リール（11/21）、キーワード JAPAN/Japan/japan、コメント返信ON（英語3種）、Opening DM（ボタン「Send me the guide」）→リンクDM（ボタン「Get the free guide」→ https://zeroailog.gumroad.com/l/japan-quick-start）。Googleで登録・Connect with Instagram（Meta経由ではない）。無料＝月25人・同時4つまで、投稿は1本ずつ指定。「Try 14 days for free」は押さない。次：餃子・豪・NZのリールにも同じ設定を追加（計4つ）、別アカウントでテスト。
 **★11/20 21:08 予定変更（ゼロ）**：ManyChat自動DM設定は11/21（土）夜に延期。11/22（日）＝週の振り返り＋ピンタレスト広告。次のネタ候補1位＝英語「Tokyo attractions: when to book & when to go」（Perplexity確認が必要）。
 **★11/19 15:16 BUZZ YELL初の案件**：LIGHTSUM「メリキス」PR、¥0.5/再生、応募〆11/21 12:00、事前動画〆11/26、投稿12/1〜12/31。**対応SNSはTikTokのみ**（うちはTikTokなし）→見送り推奨。企画C（イルミネーションVlog＋BGM）は実写の撮影が必要。必須タグ #PR #LIGHTSUM #ライトサム #メリキス。今後はインスタ対応の案件だけ検討。
 **★11/19 07:48 予定**：11/20（金）夜＝ManyChat自動DM設定（スマホ、無料25人/月、Via Instagram、キーワードJAPAN→無料ガイドのリンク、Opening DMオフ）。11/22（日）＝ピンタレスト広告（PC、1か国・ピン1〜2本・7日・上限3,500円・手動→Consideration→Outbound clicks）。根拠 docs/autodm-pinads-sources-2026-11-19.md。11/19はゼロのパーソナルジム。
