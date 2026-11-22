@@ -49,6 +49,16 @@ J={
        ('🇵🇭 Philippines · kamote cue','Fried, coated in caramelized brown sugar and served on a stick.',''),
        ('🇰🇷 Korea · 🇨🇳 China','Roasted sweet potatoes are a classic winter street snack (gungoguma / kǎo hóng shǔ).','')],
  note='Examples, not the only way · checked Nov 18, 2026 (Te Ara, Korea.net, USDA, shop sites) · varies by home',ml='💬 How do you eat it?'),
+'book':dict(out='ig-tokyo-booking',tag='SAVE BEFORE YOU BOOK FLIGHTS',title='Tokyo hits: when to book<br>& when to go 🎟️',
+ th=('#1F2937','#FFF7ED','#111827','#FB923C','#FED7AA'),
+ rows=[('Ghibli Museum','Tickets only in advance — none at the door. Next month goes on sale the 10th at 10:00 Japan time.','Closed most Tuesdays'),
+       ('Tokyo Disney','Buy a dated ticket first — parks don’t sell tickets at the gate. Sales open 2 months ahead, 14:00 Japan time.','Check which park: closing times can differ'),
+       ('teamLab Borderless','Timed tickets. A month’s dates open around the 1st, two months before. Same-day only if left.',''),
+       ('Shibuya Sky','Dated tickets open 2 weeks ahead at 0:00. If sold out online, adult tickets are sold out at the counter too.','Rooftop can close in bad weather'),
+       ('Tokyo Skytree','Same-day tickets are fine. Quietest right after opening: weekdays 10am, weekends 9am. Busy 4–7pm.',''),
+       ('Harry Potter Studio Tour','Book a time slot ahead — popular slots sell out. Plan 3–4 hours.',''),
+       ('No booking needed','Senso-ji (hall 6:30–17:00) · Meiji Jingu (Nov: gates close 16:10) · Tsukiji Outer Market (best 9:00–14:00)','')],
+ note='Checked Nov 22, 2026 on official sites · hours and sale dates change — check before you go',ml='📌 Save for your trip'),
 }
 A=sys.argv[1] if sys.argv[1:] else 'ticket'; D=J[A]; C1,BG,TX,AC,SH2=D['th']
 rows=''.join(f'''<div class=r><i>{n+1}</i><div class=tx><div class=h>{h}</div><div class=d>{d}</div>{f'<div class=p>{p}</div>' if p else ''}</div></div>''' for n,(h,d,p) in enumerate(D['rows']))
