@@ -400,3 +400,9 @@ note (10/27–11/23, 05:20): imp 3,949 / PV 167 / スキ 62 / comments 6. Day62 
 X: **Day61 post 307 views, 4 likes** (best ever daily post); Day62 post 19 views, 1 reply.
 IG (30d, 06:02): views 7,586 / viewers 5,396 / followers ~3 / profile visits 18 / bio link taps 0 / reel interactions 65.
 **Konbini how-to reel (11/22): 1,756 plays in 12h, 1,171 viewers, 19 saves (account record — beats gyoza 13), 3 shares, 1 like** → how-to/"what staff will ask" format is the new winner (saves = useful). Ramen ticket how-to 137 (1d, 0 saves). AU 1,817 · NZ 1,659 · gyoza 729 (13 saves, 6 shares, 2 follows) · PH 426 · yakitori 200 · MY 173 · NZ2 163 · Ginza 114 · Shinjuku 116.
+
+## 2026-11-24 snapshot (07:01)
+Gumroad (10/23–11/23): views 318 (+2), sales 1 ($0 free). Referrers: Facebook 168, m.facebook 107, Direct 28, instagram.com 10 (1), l.facebook 3, Pinterest/com.pinterest 1, l.meta.ai 1. Countries: US 85 (1), CA 76, AU 71, UK 46, Japan 28, Sweden 5, HK 3, Ireland 2, MY 1, PH 1. Paid guide back to $4.99 (11/23).
+note (10/28–11/24, 05:38): imp 3,921 / PV 164 / スキ 59 / comments 6. Day63 imp 12 PV1, Day62 40/3/1, Day58 89, Day52 341. Daily imp trending down (~70/day vs ~180 early Nov).
+X: Day63 post 16 views, 2 replies (Nezucchi). Day61 307 was the peak.
+IG: (pending)
