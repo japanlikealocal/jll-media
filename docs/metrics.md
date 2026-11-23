@@ -405,4 +405,5 @@ IG (30d, 06:02): views 7,586 / viewers 5,396 / followers ~3 / profile visits 18 
 Gumroad (10/23–11/23): views 318 (+2), sales 1 ($0 free). Referrers: Facebook 168, m.facebook 107, Direct 28, instagram.com 10 (1), l.facebook 3, Pinterest/com.pinterest 1, l.meta.ai 1. Countries: US 85 (1), CA 76, AU 71, UK 46, Japan 28, Sweden 5, HK 3, Ireland 2, MY 1, PH 1. Paid guide back to $4.99 (11/23).
 note (10/28–11/24, 05:38): imp 3,921 / PV 164 / スキ 59 / comments 6. Day63 imp 12 PV1, Day62 40/3/1, Day58 89, Day52 341. Daily imp trending down (~70/day vs ~180 early Nov).
 X: Day63 post 16 views, 2 replies (Nezucchi). Day61 307 was the peak.
-IG: (pending)
+IG (30d, 07:04): views 9,232 / viewers 6,508 / followers 3 / non-follower views 9,231. Reels 8,940 of views. **Konbini how-to 1,853 (1,245 viewers, 20 saves = record, 3 shares)** · AU 1,818 · NZ 1,659 · **Train how-to 1,576 in 13h (1,034 viewers, 3 saves)** · gyoza 753 (16 saves, 6 shares, 2 follows) · PH 426 · yakitori 213 · First trip 195 · NZ2 163 · MY 173 · Ramen how-to 137 · Shinjuku 116 · Ginza 114. → 2 of 3 how-to reels broke out; "what staff ask / mistakes" works. No JAPAN comments yet (comments 0 on new reels).
+X: Day63 16 views.
