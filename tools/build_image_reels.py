@@ -28,7 +28,10 @@ JOBS=[('compare-japan-uk','Visiting Japan<br>from the UK? 🇬🇧','reels/2026-
       ('ig-howto-train','Tokyo trains:<br>6 first-timer mistakes 🚇','reels/2026-11-23-howto-train-reel.mp4','💬 Comment JAPAN · free guide in your DMs'),
       ('ig-finds-tokyo','Only in Japan:<br>6 things visitors love 🛍️','reels/2026-11-24-finds-tokyo-reel.mp4','💬 Comment JAPAN · free guide in your DMs'),
       ('ig-sweet-potato','Sweet potato:<br>Japan vs the world 🍠','reels/2026-11-25-sweet-potato-reel.mp4','💬 How do you eat it? Tell me below'),
-      ('ig-tokyo-booking','Tokyo trip?<br>Book these early 🎟️','reels/2026-11-26-tokyo-booking-reel.mp4','💬 Comment JAPAN · free guide in your DMs')]
+      ('ig-tokyo-booking','Tokyo trip?<br>Book these early 🎟️','reels/2026-11-26-tokyo-booking-reel.mp4','💬 Comment JAPAN · free guide in your DMs'),
+      ('ig-ask-restaurant','Eating out in Japan?<br>Know these phrases 🍽️','reels/2026-11-27-ask-restaurant-reel.mp4','💬 Comment JAPAN · free guide in your DMs'),
+      ('ig-ask-hotel','Checking in to a<br>Japanese hotel? 🏨','reels/2026-11-28-ask-hotel-reel.mp4','💬 Comment JAPAN · free guide in your DMs'),
+      ('ig-ask-drugstore','Japanese drugstore?<br>Know these phrases 💊','reels/2026-11-29-ask-drugstore-reel.mp4','💬 Comment JAPAN · free guide in your DMs')]
 if sys.argv[1:]: JOBS=[j for j in JOBS if j[0] in sys.argv[1:]]  # build only the named images
 CSS=f'''@font-face{{font-family:I;src:url({F}/Inter-ExtraBold.ttf);font-weight:800}}
 *{{margin:0;padding:0;box-sizing:border-box}}body{{width:1080px;height:1920px;position:relative;overflow:hidden;font-family:I;background:transparent}}
