@@ -29,9 +29,9 @@ JOBS=[('compare-japan-uk','Visiting Japan<br>from the UK? 🇬🇧','reels/2026-
       ('ig-finds-tokyo','Only in Japan:<br>6 things visitors love 🛍️','reels/2026-11-24-finds-tokyo-reel.mp4','💬 Comment JAPAN · free guide in your DMs'),
       ('ig-sweet-potato','Sweet potato:<br>Japan vs the world 🍠','reels/2026-11-25-sweet-potato-reel.mp4','💬 How do you eat it? Tell me below'),
       ('ig-tokyo-booking','Tokyo trip?<br>Book these early 🎟️','reels/2026-11-26-tokyo-booking-reel.mp4','💬 Comment JAPAN · free guide in your DMs'),
-      ('ig-ask-restaurant','Eating out in Japan?<br>Know these phrases 🍽️','reels/2026-11-27-ask-restaurant-reel.mp4','💬 Comment JAPAN · free guide in your DMs'),
-      ('ig-ask-hotel','Checking in to a<br>Japanese hotel? 🏨','reels/2026-11-28-ask-hotel-reel.mp4','💬 Comment JAPAN · free guide in your DMs'),
-      ('ig-ask-drugstore','Japanese drugstore?<br>Know these phrases 💊','reels/2026-11-29-ask-drugstore-reel.mp4','💬 Comment JAPAN · free guide in your DMs')]
+      ('ig-ask-restaurant','What staff ask you #2:<br>restaurants 🍽️','reels/2026-11-27-ask-restaurant-reel-v2.mp4','➕ Follow for #3 · 💬 Comment JAPAN'),
+      ('ig-ask-hotel','What staff ask you #3:<br>hotel check-in 🏨','reels/2026-11-28-ask-hotel-reel-v2.mp4','➕ Follow for #4 · 💬 Comment JAPAN'),
+      ('ig-ask-drugstore','What staff ask you #4:<br>drugstores 💊','reels/2026-11-29-ask-drugstore-reel-v2.mp4','➕ Follow · 💬 Comment JAPAN')]
 if sys.argv[1:]: JOBS=[j for j in JOBS if j[0] in sys.argv[1:]]  # build only the named images
 CSS=f'''@font-face{{font-family:I;src:url({F}/Inter-ExtraBold.ttf);font-weight:800}}
 *{{margin:0;padding:0;box-sizing:border-box}}body{{width:1080px;height:1920px;position:relative;overflow:hidden;font-family:I;background:transparent}}
