@@ -407,3 +407,9 @@ note (10/28–11/24, 05:38): imp 3,921 / PV 164 / スキ 59 / comments 6. Day63 
 X: Day63 post 16 views, 2 replies (Nezucchi). Day61 307 was the peak.
 IG (30d, 07:04): views 9,232 / viewers 6,508 / followers 3 / non-follower views 9,231. Reels 8,940 of views. **Konbini how-to 1,853 (1,245 viewers, 20 saves = record, 3 shares)** · AU 1,818 · NZ 1,659 · **Train how-to 1,576 in 13h (1,034 viewers, 3 saves)** · gyoza 753 (16 saves, 6 shares, 2 follows) · PH 426 · yakitori 213 · First trip 195 · NZ2 163 · MY 173 · Ramen how-to 137 · Shinjuku 116 · Ginza 114. → 2 of 3 how-to reels broke out; "what staff ask / mistakes" works. No JAPAN comments yet (comments 0 on new reels).
 X: Day63 16 views.
+
+## 2026-11-25 snapshot (06:51)
+Gumroad (10/24–11/24): views 319 (+1), sales 1 ($0 free). Referrers: Facebook 168, m.facebook 107, Direct 29, instagram.com 10 (1), l.facebook 3, Pinterest/com.pinterest 1, l.meta.ai 1. Countries: US 85 (1), CA 76, AU 71, UK 46, Japan 29, Sweden 5, HK 3, Ireland 2, MY 1, PH 1.
+note (10/29–11/25, 05:37): imp 3,926 / PV 175 / スキ 59 / comments 8. **Day64 imp 34, PV 16, スキ 3, comments 2** (best PV in weeks — "9,000 views, 3 followers" honest title). Day62 65, Day58 89. Sources: note.com 102, no referrer 60, Google 5, notification 4, X 3, claude.ai 1.
+X: Day64 post 24 views, 1 reply, 1 like.
+IG: (pending)
