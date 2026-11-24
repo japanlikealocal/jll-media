@@ -412,4 +412,4 @@ X: Day63 16 views.
 Gumroad (10/24–11/24): views 319 (+1), sales 1 ($0 free). Referrers: Facebook 168, m.facebook 107, Direct 29, instagram.com 10 (1), l.facebook 3, Pinterest/com.pinterest 1, l.meta.ai 1. Countries: US 85 (1), CA 76, AU 71, UK 46, Japan 29, Sweden 5, HK 3, Ireland 2, MY 1, PH 1.
 note (10/29–11/25, 05:37): imp 3,926 / PV 175 / スキ 59 / comments 8. **Day64 imp 34, PV 16, スキ 3, comments 2** (best PV in weeks — "9,000 views, 3 followers" honest title). Day62 65, Day58 89. Sources: note.com 102, no referrer 60, Google 5, notification 4, X 3, claude.ai 1.
 X: Day64 post 24 views, 1 reply, 1 like.
-IG: (pending)
+IG (30d, 06:58): **views 10,628** / viewers 7,425 / followers 3 / **profile visits 26** (was 18–20) / bio link taps 0 / reel interactions 103. Konbini 1,853 (20 saves) and Train 1,594 (4 saves) both stalled after day 1. **Only-in-Japan finds 121 in 13h** (0 likes) — shopping list weak like food lists. Gyoza 771 (17 saves). No JAPAN comments yet.
