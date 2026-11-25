@@ -3,12 +3,24 @@
 import pathlib, subprocess, sys
 from playwright.sync_api import sync_playwright
 R=pathlib.Path(__file__).resolve().parent.parent; F=(R/'tools/fonts').as_uri()
-J={'resto':dict(photo='assets/covers/px-31393431.jpg',accent='#F97316',out='reels/2026-11-proto-resto-photo.mp4',
+J={'resto':dict(photo='assets/covers/px-31393431.jpg',accent='#F97316',out='reels/2026-11-27-ask-restaurant-photo.mp4',
   slides=[('WHAT STAFF ASK YOU · #2','Eating out<br>in Japan? 🍽️','Know these 3 phrases',None),
           ('THEY ASK','“Nanmei-sama<br>desu ka?”','How many people?','Say: Futari desu (two)'),
           ('THEY SAY','“Otōshi desu.”','A small starter + cover charge<br>(about ¥200–1,000 at izakaya)','Ask first: Otōshi wa ikura desu ka?'),
           ('THEY ASK','“Betsubetsu<br>desu ka?”','Paying separately?','Say: Issho de (together)'),
-          ('SAVE IT FOR YOUR TRIP','➕ Follow for #3:<br>hotel check-in','💬 Comment JAPAN<br>for my free guide',None)])}
+          ('SAVE IT FOR YOUR TRIP','➕ Follow for #3:<br>hotel check-in','💬 Comment JAPAN<br>for my free guide',None)])
+,'hotel':dict(photo='assets/covers/px-2646521.jpg',accent='#0E7490',out='reels/2026-11-28-ask-hotel-photo.mp4',
+  slides=[('WHAT STAFF ASK YOU · #3','Hotel check-in<br>in Japan? 🏨','Know these 3 phrases',None),
+          ('THEY ASK','“Pasupōto o<br>misete kudasai”','May I see your passport?','Say: Hai, dōzo (here you go)'),
+          ('THEY SAY','“Shukuhakuzei<br>desu.”','Accommodation tax<br>(Tokyo: ¥0–200 per night, Nov 2026)','Ask: Fukumarete imasu ka? (included?)'),
+          ('THEY ASK','“O-nimotsu<br>azukarimasu ka?”','Shall we keep your bags?','Say: Onegai shimasu (yes, please)'),
+          ('SAVE IT FOR YOUR TRIP','➕ Follow for #4:<br>drugstores','💬 Comment JAPAN<br>for my free guide',None)])
+,'drug':dict(photo='assets/covers/px-3907161.jpg',accent='#7C3AED',out='reels/2026-11-29-ask-drugstore-photo.mp4',
+  slides=[('WHAT STAFF ASK YOU · #4','Japanese<br>drugstore? 💊','Know these 3 phrases',None),
+          ('THEY ASK','“Menzei ni<br>nasaimasu ka?”','Tax-free? (new from Nov 2026)<br>Pay full price, refund after customs','Usually ¥5,000+ same shop, same day'),
+          ('THEY ASK','“Pointo kādo<br>arimasu ka?”','Do you have a point card?','Say: Arimasen (no)'),
+          ('THEY ASK','“O-shiharai wa?”','How will you pay?','Say: Kādo de (card) · Genkin de (cash)'),
+          ('SAVE IT FOR YOUR TRIP','Missed #1–#3?<br>See my profile','➕ Follow · 💬 Comment JAPAN<br>for my free guide',None)])}
 D=J[sys.argv[1] if sys.argv[1:] else 'resto']; P=(R/D['photo']).as_uri(); A=D['accent']
 CSS=f'''@font-face{{font-family:I;src:url({F}/Inter-ExtraBold.ttf);font-weight:800}}@font-face{{font-family:I;src:url({F}/Inter-Bold.ttf);font-weight:700}}
 *{{margin:0;padding:0;box-sizing:border-box}}body{{width:1080px;height:1920px;overflow:hidden;font-family:I,'Noto Color Emoji',sans-serif;color:#fff;position:relative}}
@@ -36,4 +48,4 @@ subprocess.run(['ffmpeg','-y',*inp,'-f','lavfi','-i','anullsrc=r=44100:cl=stereo
 from PIL import Image
 ims=[Image.open(f).resize((270,480)) for f in fr]; c=Image.new('RGB',(270*len(ims)+10*(len(ims)-1),480),'white')
 for i,im in enumerate(ims): c.paste(im,(i*280,0))
-c.save('/tmp/proto-resto.png'); print('ok',D['out'],tot,'s')
+c.save(f'/tmp/proto-{sys.argv[1] if sys.argv[1:] else "resto"}.png'); print('ok',D['out'],tot,'s')
