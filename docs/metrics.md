@@ -418,4 +418,4 @@ IG (30d, 06:58): **views 10,628** / viewers 7,425 / followers 3 / **profile visi
 Gumroad (10/25–11/25): views 319 (±0), sales 1 ($0 free). Referrers/countries unchanged. 0 paid sales after page fix (11/15), free guide v3 (11/17), auto-DM (11/22).
 note (10/30–11/26, 05:40): imp 3,948 / PV 180 / スキ 56 / comments 9. Day65 imp 37 PV 3. **Day64 imp 85, PV 27, スキ 3, comments 4** (best article in weeks).
 X: Day65 post 15 views, 2 replies (Nezucchi congrats on 10k).
-IG: not shared today. No Coconala, no IG DMs.
+IG (07:02): profile visits 27 / bio taps 0 / followers 3. **Sweet potato 119 in 13h** (0 likes, 0 comments) · Only-in-Japan 121 (1d). Gyoza 804 (19 saves). Konbini 1,853 / train 1,594 flat. No Coconala, no IG DMs.
