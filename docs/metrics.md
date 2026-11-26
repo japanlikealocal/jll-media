@@ -423,4 +423,5 @@ IG (07:02): profile visits 27 / bio taps 0 / followers 3. **Sweet potato 119 in 
 ## 2026-11-27 snapshot (06:50)
 Gumroad (10/26–11/26): views 319 (±0, flat since 11/24), sales 1 ($0 free). Referrers/countries unchanged.
 note (10/31–11/27, 05:36): imp 3,957 / PV 166 / スキ 55 / comments 8. Day66 imp 12 PV 3 スキ 3. Day64 106 imp, 27 PV (still best).
-IG: not shared today. No Coconala, no IG DMs.
+IG (30d, 06:52): views 10,436 / viewers 7,211 / followers 3 / profile visits 28 / bio taps 0 / interactions 101. **Booking reel (11/26) 148 in 13h**, 1 like, 2 saves. Sweet potato 119, Only-in-Japan 121. Gyoza 820 (7 likes, 19 saves). Konbini 1,853 / train 1,594 flat. → 3 list-style reels in a row ~120–150. No Coconala, no IG DMs.
+X: Day66 post 1 reply.
