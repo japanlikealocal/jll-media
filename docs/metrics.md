@@ -425,3 +425,12 @@ Gumroad (10/26–11/26): views 319 (±0, flat since 11/24), sales 1 ($0 free). R
 note (10/31–11/27, 05:36): imp 3,957 / PV 166 / スキ 55 / comments 8. Day66 imp 12 PV 3 スキ 3. Day64 106 imp, 27 PV (still best).
 IG (30d, 06:52): views 10,436 / viewers 7,211 / followers 3 / profile visits 28 / bio taps 0 / interactions 101. **Booking reel (11/26) 148 in 13h**, 1 like, 2 saves. Sweet potato 119, Only-in-Japan 121. Gyoza 820 (7 likes, 19 saves). Konbini 1,853 / train 1,594 flat. → 3 list-style reels in a row ~120–150. No Coconala, no IG DMs.
 X: Day66 post 1 reply.
+
+## 2026-11-28 snapshot (06:49)
+Gumroad (10/27–11/27): views 319 (±0, flat since 11/24), sales 1 ($0 free, old). Referrers/countries unchanged.
+note (11/1–11/28, 05:36): imp 4,034 / PV 164 / スキ 54 / comments 9. Day67 imp 20 PV 2 スキ 3 (Kaseki comment). Day66 19/3/3. Day64 127/27/3 (still best).
+X: Day67 post 1 reply. Day66 post 11 views, 2 replies.
+IG (30d, 06:49): views 10,324 / viewers 7,082 / follower views 1 / non-follower 10,323 / followers 3 / profile visits 28 / bio taps 0 / reel interactions 104.
+**First photo-background reel (restaurant, 11/27): 104 in 13h, 0 likes/saves/shares** — weaker than text tables on day 1 (booking 155, potato 119). One data point; hotel (11/28) and drugstore (11/29) photo reels still to come.
+Saves 30d: konbini 20, gyoza 20, free-vs-paid viewpoint 6, yakitori 5, train 4. Shares: gyoza 6, konbini 3.
+No Coconala / IG DM check yet (asked).
